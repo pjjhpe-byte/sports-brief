@@ -1,0 +1,73 @@
+name: 全球體育週報
+
+on:
+  schedule:
+    # GitHub 使用 UTC 時間；台灣時間 = UTC + 8
+    - cron: "0 22 * * 4"     # 台灣 週五 06:00 → 蒐集（週一～週四）
+    - cron: "30 21 * * 0"    # 台灣 週一 05:30 → 蒐集週末、分析、產出資料包、寄預覽版（約 06:45）
+    - cron: "20 23 * * 0"    # 台灣 週一 07:20 → 寄正式版（GitHub 常晚幾分鐘，約 07:30 送達）
+    - cron: "0 22 27 12 *"   # 台灣 12/28 06:00 → 年度回顧
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "feeds（檢查來源）/ demo / collect / report / hold（暫停）/ sendnow（立即寄出）/ monday / send / annual"
+        default: "hold"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sports-brief
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASS: ${{ secrets.SMTP_PASS }}
+      MAIL_TO:   ${{ secrets.MAIL_TO }}
+      GDRIVE_CLIENT_ID:     ${{ secrets.GDRIVE_CLIENT_ID }}
+      GDRIVE_CLIENT_SECRET: ${{ secrets.GDRIVE_CLIENT_SECRET }}
+      GDRIVE_REFRESH_TOKEN: ${{ secrets.GDRIVE_REFRESH_TOKEN }}
+      GDRIVE_FOLDER_ID:     ${{ secrets.GDRIVE_FOLDER_ID }}
+      REPO_URL:  ${{ github.server_url }}/${{ github.repository }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: 安裝套件與中文字型
+        run: |
+          sudo apt-get update -q && sudo apt-get install -y -q fonts-wqy-zenhei
+          pip install -q -r requirements.txt
+      - name: 決定任務
+        id: task
+        run: |
+          case "${{ github.event.schedule }}" in
+            "0 22 * * 4")   T=collect ;;
+            "30 21 * * 0")  T=monday ;;
+            "20 23 * * 0")  T=send ;;
+            "0 22 27 12 *") T=annual ;;
+            *)              T="${{ inputs.task }}" ;;
+          esac
+          echo "name=$T" >> $GITHUB_OUTPUT
+          echo "本次任務：$T"
+      - name: 執行
+        run: python main.py ${{ steps.task.outputs.name }}
+      - name: 結果存回 repo（存檔）
+        if: always() && !contains(fromJSON('["send","feeds"]'), steps.task.outputs.name)
+        run: |
+          git config user.name "sports-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A data output
+          git commit -m "體育週報 ${{ steps.task.outputs.name }} $(TZ=Asia/Taipei date +%F)" || echo "無變更"
+          git pull --rebase && git push
+      - uses: actions/upload-artifact@v4
+        if: contains(fromJSON('["monday","report","demo","annual"]'), steps.task.outputs.name)
+        with:
+          name: sports-weekly-package
+          path: output/
+          retention-days: 30
