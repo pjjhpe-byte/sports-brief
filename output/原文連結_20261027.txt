@@ -1,0 +1,5 @@
+以下網址可在 Gemini Notebook「新增來源 → 網站」逐一貼上（選用，最多 15 則）：
+https://www.cpbl.com.tw/example　# 中華職棒｜【範例】中華台北羽球選手奪下國際賽冠軍
+https://www.bbc.com/sport/example　# BBC Sport｜【範例】亞洲綜合賽事整體動態
+https://www.cna.com.tw/news/aspt/example.aspx　# 中央社｜【範例】中華台北羽球選手奪下國際賽冠軍
+https://www.mlb.com/player/000000　# MLB｜【範例】旅外棒球新聞 6
