@@ -16,6 +16,9 @@ _calls = [0]
 class QuotaExceeded(RuntimeError):
     """免費額度用完（主力與備援模型都失敗）"""
 
+class AccessDenied(RuntimeError):
+    """API Key 無權限（例如免費層不適用此專案），重試無用"""
+
 def _sdk_call(model, prompt, max_tokens):
     from google import genai
     client = genai.Client(api_key=config.GEMINI_API_KEY)
@@ -45,6 +48,14 @@ def _call(model, prompt, max_tokens):
     except ImportError:
         return _rest_call(model, prompt, max_tokens)
 
+def _is_denied(ex):
+    s = str(ex)
+    return "403" in s or "PERMISSION_DENIED" in s or "API_KEY_INVALID" in s or "API key not valid" in s
+
+def _is_busy(ex):
+    s = str(ex)
+    return "503" in s or "UNAVAILABLE" in s or "overloaded" in s.lower() or "disconnected" in s.lower()
+
 def _is_quota(ex):
     s = str(ex)
     return "429" in s or "RESOURCE_EXHAUSTED" in s or "quota" in s.lower()
@@ -67,7 +78,15 @@ def ask_json(prompt: str, label: str, max_tokens: int = 8000):
             except Exception as ex:
                 last = ex
                 print(f"[{label}] {model} 第 {attempt + 1} 次失敗：{str(ex)[:160]}")
-                if _is_quota(ex):
+                if _is_denied(ex):
+                    raise AccessDenied(
+                        "Gemini API 拒絕存取（403）。請確認 GitHub Secrets 的 GEMINI_API_KEY 正確，"
+                        "且金鑰是用個人 Gmail 在 aistudio.google.com 建立。原始訊息：" + str(ex)[:200])
+                if _is_busy(ex):                      # Google 端暫時忙碌：稍等後盡快改用備援模型
+                    time.sleep(20)
+                    if attempt >= 1:
+                        break
+                elif _is_quota(ex):
                     time.sleep(30 * (attempt + 1))
                     if attempt >= 1:
                         break                           # 換備援模型
