@@ -9,7 +9,7 @@ import html, re, time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
-from urllib.parse import quote_plus, urlparse
+from urllib.parse import quote_plus, urljoin, urlparse
 import requests
 import config
 from sources import classify
@@ -101,10 +101,10 @@ def fetch_html_lists(since, until, health):
         try:
             page = _get(src["url"]).text
             got, seen = [], set()
-            pat = re.compile(r'<a[^>]+href="(?P<u>' + src["link_pattern"].replace("(\\d{12})", "(?P<id>\\d{12})")
-                             + r')"[^>]*>(?P<t>.*?)</a>', re.S)
+            pat = re.compile(r'<a[^>]+href=["\'](?P<u>' + src["link_pattern"].replace("(\\d{12})", "(?P<id>\\d{12})")
+                             + r')["\'][^>]*>(?P<t>.*?)</a>', re.S)
             for m in pat.finditer(page):
-                url, title = m.group("u"), _clean(m.group("t"))
+                url, title = urljoin(src["url"], m.group("u")), _clean(m.group("t"))
                 if url in seen or len(title) < 6:
                     continue
                 seen.add(url)
@@ -122,15 +122,16 @@ def fetch_html_lists(since, until, health):
             health.append((src["url"], 0, str(ex)[:80]))
     return items
 
-def gnews_url(q):
-    return f"https://news.google.com/rss/search?q={quote_plus(q + ' when:4d')}&{config.GNEWS_TW}"
+def gnews_url(q, lang="zh"):
+    return f"https://news.google.com/rss/search?q={quote_plus(q + ' when:4d')}&{config.GNEWS_LOCALES[lang]}"
 
 def fetch_gnews(since, until, health):
     items = []
     for region, qs in config.GNEWS_QUERIES.items():
         for q in qs:
+            q, lang = (q[0], q[1]) if isinstance(q, (list, tuple)) else (q, "zh")
             try:
-                got = _finalize(parse_feed(_get(gnews_url(q)).text), region, "", since, until)
+                got = _finalize(parse_feed(_get(gnews_url(q, lang)).text), region, "", since, until)
                 got = got[:config.MAX_ITEMS_PER_QUERY]
                 health.append((f"Google新聞：{q}", len(got), ""))
                 items += got

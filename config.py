@@ -23,26 +23,26 @@ MAX_CALLS_PER_RUN = 80        # 單次執行最多呼叫次數（保護免費額
 RSS_FEEDS = [
     {"name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/rss.xml", "region": "global"},
     {"name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/football/rss.xml", "region": "global"},
-    {"name": "ESPN", "url": "https://www.espn.com/espn/rss/news", "region": "global"},
-    {"name": "ESPN", "url": "https://www.espn.com/espn/rss/mlb/news", "region": "global"},
-    {"name": "ESPN", "url": "https://www.espn.com/espn/rss/nba/news", "region": "global"},
+    # ESPN 的 RSS 對 GitHub 伺服器回傳空白，改由下方英文 Google 新聞取得
 ]
 
 # ---------- 新聞來源：直接讀取媒體的新聞列表頁 ----------
 # 中央社體育列表：網址中的 12 位數字前 8 碼為日期（YYYYMMDD），可直接取得原文全文
 HTML_LISTS = [
     {"name": "中央社", "url": "https://www.cna.com.tw/list/aspt.aspx", "region": "taiwan",
-     "link_pattern": r"https://www\.cna\.com\.tw/news/aspt/(\d{12})\.aspx"},
+     "link_pattern": r"(?:https?://www\.cna\.com\.tw)?/news/aspt/(\d{12})\.aspx"},
 ]
 
 # ---------- 新聞來源：Google 新聞 RSS 關鍵字搜尋 ----------
 # 每個查詢會自動加上「when:4d」（最近 4 天）
-GNEWS_TW = "hl=zh-TW&gl=TW&ceid=TW:zh-Hant"
+# 一般字串用繁體中文介面搜尋；寫成 ["查詢", "en"] 則用英文介面（搜尋英文媒體時要用這個）
+GNEWS_LOCALES = {"zh": "hl=zh-TW&gl=TW&ceid=TW:zh-Hant", "en": "hl=en-US&gl=US&ceid=US:en"}
 GNEWS_QUERIES = {
     "taiwan": ["site:cna.com.tw 體育", "中華職棒", "TPBL OR 台灣職籃", "中華台北 國際賽",
                "台灣 羽球 OR 桌球 奪冠", "台灣 選手 決賽", "體育署"],
     "overseas": ["旅美 投手 OR 打者", "旅日 台灣 球員", "旅韓 台灣 球員", "台灣 大聯盟 OR 小聯盟"],
-    "global": ["site:cna.com.tw 國際 體育", "site:reuters.com sports"],
+    "global": ["site:cna.com.tw 國際 體育", ["site:espn.com", "en"], ["site:reuters.com sports", "en"],
+               ["site:apnews.com sports", "en"]],
 }
 MAX_ITEMS_PER_QUERY = 15
 FETCH_ARTICLE_TEXT = True     # 是否下載原文全文供查證（抓不到時改用標題與摘要）
