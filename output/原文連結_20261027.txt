@@ -1,5 +1,9 @@
 以下網址可在 Gemini Notebook「新增來源 → 網站」逐一貼上（選用，最多 15 則）：
-https://www.cpbl.com.tw/example　# 中華職棒｜【範例】中華台北羽球選手奪下國際賽冠軍
-https://www.bbc.com/sport/example　# BBC Sport｜【範例】亞洲綜合賽事整體動態
-https://www.cna.com.tw/news/aspt/example.aspx　# 中央社｜【範例】中華台北羽球選手奪下國際賽冠軍
-https://www.mlb.com/player/000000　# MLB｜【範例】旅外棒球新聞 6
+https://www.cna.com.tw/news/aspt/202610260241.aspx　# 中央社｜味全龍擊敗中信兄弟奪中職總冠軍 張政禹獲選優秀球員
+https://www.cna.com.tw/news/aspt/202610260146.aspx　# 中央社｜名古屋亞帕運桌球女雙傳捷報 林姿妤與田曉雯奪金
+https://www.cna.com.tw/news/aspt/202610260236.aspx　# 中央社｜味全龍擊敗中信兄弟奪中職總冠軍 張政禹獲選優秀球員
+https://www.cna.com.tw/news/aspt/202610270030.aspx　# 中央社｜2026金球獎頒發 凱恩終結英格蘭25年等待榮膺男足金球、普
+https://www.cna.com.tw/news/aspt/202610270109.aspx　# 中央社｜MLB世界大賽第3戰釀酒人10比1大勝光芒 系列賽3勝0敗強
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tMzlsN3ZVWHlBcE5TV2JKYnd2UmtCdnE1bmN5Y0JjZ3dqZ2Ftb1JTeV9zNnBsbk1nbXloaWoyd0dOSy0yNzBjM3M0Zlg5ckVRVTRHS1Fzc1pQZVVEUjQwT3I5czNUUdIBZkFVX3lxTE5tMzlsN3ZVWHlBcE5TV2JKYnd2UmtCdnE1bmN5Y0JjZ3dqZ2Ftb1JTeV9zNnBsbk1nbXloaWoyd0dOSy0yNzBjM3M0Zlg5ckVRVTRHS1Fzc1pQZVVEUjQwT3I5czNUUQ?oc=5　# 自由時報｜「世界貓王」唐嘉鴻體操世錦賽單槓摘金 寫中華台北歷史首金紀錄
+https://news.google.com/rss/articles/CBMiXEFVX3lxTFByTHpfUUJzcGJROUpfcTJsQ2w4RU1hLXpEd0lRbUU2QVdTOW8xeDd0Si00a0x2ZU5iNVFvc0d2Z3ExWVEyQklhYUpPekJlUnktTm1lZ0thSUxjS0xF?oc=5　# TVBS｜日職西武獅野手林冠臣遭戰力外釋出 旅日2年未登一軍
+https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xVUdGdmk5M1kwckZQZk1DeWJrU0RmcXd5N0wwcmdXZ2ZwT1JSdjVrVkF1UFhPdUF0LVhEUVpVaHM2aGkzNUtlQkhveF9GX1pI0gFWQVVfeXFMTy1uNC1TNi1rSDVRZHVTbTJRRkRfUUdoNXdKTUJGX2lTNjM5c2xwLUtja0NXMldWMHVoWmp5bEdOdHBpUHpXMmFiUkZQUDVBRWMzRUpMUnc?oc=5　# 聯合報｜中華帕拉林匹克總會會長交接 穆閩珠交棒王昭卿佈局2028洛杉
