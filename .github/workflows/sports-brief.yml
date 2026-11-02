@@ -3,14 +3,16 @@ name: 全球體育週報
 on:
   schedule:
     # GitHub 使用 UTC 時間；台灣時間 = UTC + 8
-    - cron: "0 22 * * 4"     # 台灣 週五 06:00 → 蒐集（週一～週四）
-    - cron: "30 21 * * 0"    # 台灣 週一 05:30 → 蒐集週末、分析、產出資料包、寄預覽版（約 06:45）
-    - cron: "20 23 * * 0"    # 台灣 週一 07:20 → 寄正式版（GitHub 常晚幾分鐘，約 07:30 送達）
+    # 避開整點與半點（GitHub 在整點最忙，排程容易延遲或被略過）
+    - cron: "7 22 * * 4"     # 台灣 週五 06:07 → 蒐集（週一～週四）
+    - cron: "17 21 * * 0"    # 台灣 週一 05:17 → 蒐集週末、分析、產出資料包、寄預覽版
+    - cron: "27 22 * * 0"    # 台灣 週一 06:27 → 備援：資料包還沒產出就自動補跑
+    - cron: "20 23 * * 0"    # 台灣 週一 07:20 → 寄正式版（約 07:30 送達）
     - cron: "0 22 27 12 *"   # 台灣 12/28 06:00 → 年度回顧
   workflow_dispatch:
     inputs:
       task:
-        description: "feeds（檢查來源）/ demo / collect / report / hold（暫停）/ sendnow（立即寄出）/ monday / send / annual"
+        description: "feeds（檢查來源）/ demo / collect / report / hold（暫停）/ sendnow（立即寄出）/ monday / ensure / send / annual"
         default: "hold"
 
 permissions:
@@ -47,8 +49,9 @@ jobs:
         id: task
         run: |
           case "${{ github.event.schedule }}" in
-            "0 22 * * 4")   T=collect ;;
-            "30 21 * * 0")  T=monday ;;
+            "7 22 * * 4")   T=collect ;;
+            "17 21 * * 0")  T=monday ;;
+            "27 22 * * 0")  T=ensure ;;
             "20 23 * * 0")  T=send ;;
             "0 22 27 12 *") T=annual ;;
             *)              T="${{ inputs.task }}" ;;
@@ -58,20 +61,20 @@ jobs:
       - name: 執行
         run: python main.py ${{ steps.task.outputs.name }}
       - name: 結果存回 repo（存檔）
-        if: always() && !contains(fromJSON('["send","feeds"]'), steps.task.outputs.name)
+        if: always() && steps.task.outputs.name != 'feeds'
         run: |
           git config user.name "sports-bot"
           git config user.email "bot@users.noreply.github.com"
           git add -A data output
           git commit -m "體育週報 ${{ steps.task.outputs.name }} $(TZ=Asia/Taipei date +%F)" || echo "無變更"
           for i in 1 2 3; do
-               if git pull --rebase -X theirs && git push; then exit 0; fi
-               git rebase --abort 2>/dev/null || true
-               sleep 10
-             done
-             exit 1
+            if git pull --rebase -X theirs && git push; then exit 0; fi
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          exit 1
       - uses: actions/upload-artifact@v4
-        if: contains(fromJSON('["monday","report","demo","annual"]'), steps.task.outputs.name)
+        if: contains(fromJSON('["monday","ensure","report","send","demo","annual"]'), steps.task.outputs.name)
         with:
           name: sports-weekly-package
           path: output/
