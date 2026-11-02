@@ -3,7 +3,8 @@
   python main.py feeds     # 檢查各新聞來源是否抓得到（啟動時先跑一次）
   python main.py collect   # 週五 06:00：蒐集週一～週四並查證
   python main.py monday    # 週一 05:30：蒐集週末 → 專題分析 → 簡報素材 → 產出資料包 → 寄預覽版
-  python main.py send      # 週一 07:30：寄正式版（若已暫停則不寄）
+  python main.py ensure    # 週一 06:27：若資料包還沒產出，自動補跑（備援）
+  python main.py send      # 週一 07:30：寄正式版（若已暫停則不寄；資料包不存在時先補產出）
   python main.py hold      # 手動：暫停本週正式版
   python main.py sendnow   # 手動：修正後立即寄正式版（解除暫停）
   python main.py report    # 手動：用已蒐集資料重新產出資料包並寄預覽版
@@ -49,7 +50,16 @@ STEPS = """【本週簡報製作（約 5 分鐘）】
 3. Studio → 簡報 → 自訂 → 貼上「簡報指示_*.txt」中的【簡報指示】→ 產生
 （想做 Podcast 或資訊圖表，指示也在同一個檔案裡）"""
 
-def report(now):
+def monday(now):
+    """週一流程：蒐集失敗也照樣用已有資料（週五＋已抓到的）產出資料包"""
+    from collector import collect
+    try:
+        collect(now)
+    except Exception as ex:
+        print("⚠️ 週一蒐集失敗，改用本週已有資料產出：", str(ex)[:200])
+    report(now)
+
+def report(now, preview=True):
     from analyzer import load_week, pick_analysis, analyze, week_stats
     from extras import materials
     import tracking, package
@@ -66,7 +76,8 @@ def report(now):
     print("已產出：", *[str(f) for f in files.values()], sep="\n  ")
     for w in stats["warnings"]:
         print("⚠️", w)
-    send_preview(now)
+    if preview:
+        send_preview(now)
 
 def send_preview(d):
     f = _files(d)
@@ -82,6 +93,12 @@ def send(d, force=False):
         print("本週正式版已暫停（HOLD）。修正後請執行 sendnow。"); return
     if h.exists():
         h.unlink()
+    if not all(f[k].exists() for k in ("pdf", "prompt", "links")):
+        print("⚠️ 找不到資料包，嘗試用本週已有資料補產出…")
+        try:
+            report(d, preview=False)
+        except (Exception, SystemExit) as ex:
+            print("補產出失敗：", ex)
     if not all(f[k].exists() for k in ("pdf", "prompt", "links")):
         delivery.mail(f"⚠️ 體育週報 {d:%Y/%m/%d} 產生失敗",
                       "本週資料包未成功產生。請到 GitHub → Actions 點開紅色 ✗ 的紀錄查看錯誤，"
@@ -122,15 +139,19 @@ def demo(now):
 def main():
     cmd = sys.argv[1] if len(sys.argv) > 1 else ""
     now = datetime.now(ZoneInfo(config.TIMEZONE))
-    if cmd in ("collect", "monday", "report", "annual") and not config.GEMINI_API_KEY:
+    if cmd in ("collect", "monday", "ensure", "report", "annual") and not config.GEMINI_API_KEY:
         sys.exit("找不到 GEMINI_API_KEY，請到 GitHub Secrets 設定")
     if cmd == "collect":
         from collector import collect
         collect(now)
     elif cmd == "monday":
-        from collector import collect
-        collect(now)
-        report(now)
+        monday(now)
+    elif cmd == "ensure":
+        if _files(now)["pdf"].exists():
+            print("今天的資料包已存在，不需補跑")
+        else:
+            print("⚠️ 今天的資料包不存在（週一 05:17 的排程可能失敗或沒有執行），開始補跑")
+            monday(now)
     elif cmd == "report":
         report(now)
     elif cmd == "send":

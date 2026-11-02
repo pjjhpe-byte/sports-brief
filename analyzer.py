@@ -112,7 +112,7 @@ def week_stats(week, analyses):
     if count("overseas") < config.TARGET["overseas"] and week["end"].month not in config.OFFSEASON_MONTHS:
         warn.append(f"旅外棒球 {count('overseas')} 則，低於目標 {config.TARGET['overseas']} 則")
     if week.get("degraded"):
-        warn.append("本週有部分資料因 Gemini 免費額度不足，以降級模式（只列標題）產出")
+        warn.append("本週有部分資料因 Gemini 暫時無法使用（額度不足或 Google 忙碌），以降級模式（只列標題）產出")
     tier = lambda t: sum(1 for e in ev if e.get("best_tier") == t)
     return {"taiwan": count("taiwan"), "overseas": count("overseas"), "global": count("global"),
             "analysis": sum(1 for e in analyses if e.get("analysis")), "calls": calls, "warnings": warn,

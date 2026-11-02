@@ -43,9 +43,9 @@ def collect(now: datetime) -> str:
         kept, excluded = editor.apply_rules(events)
         data.update(events=kept, excluded=excluded, upcoming=upcoming, degraded=False)
         print(f"查證完成：採用 {len(kept)} 則、未納入 {len(excluded)} 則")
-    except QuotaExceeded as ex:
-        # 降級模式：免費額度用完時，只保留高層級來源的標題，報告仍可產出
-        print("⚠️ Gemini 免費額度不足，改用降級模式：", ex)
+    except Exception as ex:
+        # 降級模式：Gemini 額度用完、Google 忙碌或任何錯誤時，只保留高層級來源的標題，報告仍可產出
+        print("⚠️ Gemini 無法使用，改用降級模式：", str(ex)[:200])
         top = [it for it in items if it["tier"] <= 2][:20]
         data.update(events=[{"title": it["title"], "region": it["region_hint"], "sport": "", "importance": 3,
                              "date": it["published"][:10], "summary": "（降級模式：僅列標題，未經 AI 整理）",
