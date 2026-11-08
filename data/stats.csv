@@ -18,3 +18,11 @@ time,label,model,input_tokens,output_tokens
 2026-11-06T06:55+08:00,triage,gemini-3.5-flash-lite,29788,2479
 2026-11-06T06:56+08:00,write,gemini-3.5-flash-lite,6870,1458
 2026-11-06T06:57+08:00,write,gemini-3.5-flash-lite,9302,1482
+2026-11-09T05:48+08:00,triage,gemini-3.8-flash,30026,2000
+2026-11-09T05:52+08:00,write,gemini-3.8-flash,9290,1749
+2026-11-09T05:55+08:00,write,gemini-3.8-flash,3281,1077
+2026-11-09T05:58+08:00,analysis,gemini-3.8-flash,1115,263
+2026-11-09T06:00+08:00,analysis,gemini-3.8-flash,1519,350
+2026-11-09T06:02+08:00,analysis,gemini-3.8-flash,1431,373
+2026-11-09T06:03+08:00,tracking,gemini-3.8-flash,12523,59
+2026-11-09T06:06+08:00,materials,gemini-3.8-flash,3585,1016

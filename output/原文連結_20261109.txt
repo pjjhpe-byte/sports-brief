@@ -1,0 +1,16 @@
+以下網址可在 Gemini Notebook「新增來源 → 網站」逐一貼上（選用，最多 15 則）：
+https://www.cna.com.tw/news/aspt/202611050148.aspx　# 中央社｜中信兄弟王威晨宣告行使自由球員權利 成為本季中職第一人
+https://www.cna.com.tw/news/aspt/202611040079.aspx　# 中央社｜青奧桌球混雙陳忞昕與林晉霆奪銅 拿下中華台北史第3面獎牌
+https://www.cna.com.tw/news/aspt/202611040116.aspx　# 中央社｜WTT法蘭克福冠軍賽點燃戰火 林昀儒男單首戰驚險過關晉級16
+https://www.cna.com.tw/news/aspt/202611050337.aspx　# 中央社｜C羅宣布退出葡萄牙國家隊 結束長達23年的國際賽生涯
+https://news.google.com/rss/articles/CBMimANBVV95cUxQb0RwUDhLeHBDWGVhb1RDY3RteFRyQlFUdnYxUHNIRE5sdm1peUNfd1VFQWtoQ1RmeXpNZFhhS2dIUXZEWWVpbnZaVmVpcFhLMVFmWk40MFRSYmRFX1dWR01PODB5OVFRdXB2ZGQyNEV2R1AyQXNjZVBwZXBNWE94WV9QSURqbkk1X3F6bHlPOXhyNFdVNjktdmxHX0JFNHhxY2Z2ZmpIblRyVnljS3QwcUI3bVR6dXV2OGt4MVJPOVZ5dXI1dlBrQ3lhc3ppTkpzZ3hULTdoanpRcHVTYXZzOThKRlVPbGZ0WUFuRjg2cUJDTWtwZTdyQWZibVJKcnVLR2hoVDA5Y1FjcC1iNld1cFB1c3lQTGRZS0hodlNvVWFVTkcyVG9WUXdEcklib1AyOW1EeVpFOWp1M3pLQXdKUjVXR3pwZlZHRzgxTjBHNDluaURqdmotSXI1Z0ZpZmJPODdjamdHcDd1VXpGVG5rYlhwSEhqS1RGSHQzcmgwWkRIUG1BNE9td1NiRGQ3bmlzaGNGQlFscUI?oc=5　# Yahoo Sports｜中信兄弟王威晨宣告行使自由球員權利 成為本季中職第一人
+https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmODNTdWdvN2Z2b3YzUWNQeVJMdzhNbVlsbGlaZ0lpWXRuMGlrZVhNaTd3YmRybTUwQlZLejRNaDB4QlBKcE0tdmxoblRmWnVV?oc=5　# 聯合報｜WTT法蘭克福冠軍賽點燃戰火 林昀儒男單首戰驚險過關晉級16
+https://www.cna.com.tw/news/aspt/202611050026.aspx　# 中央社｜足協遭博斯數位指控積欠轉播費 候選人承諾清償歷史債務
+https://www.cna.com.tw/news/aspt/202611080179.aspx　# 中央社｜林昀儒橫掃中國選手闖4強 WTT法蘭克福賽鏖戰7局惜敗張本智
+https://www.cna.com.tw/news/aspt/202611040273.aspx　# 中央社｜林安可自評旅日首季表現不理想 談及膝傷與適應問題放眼明年健康
+https://www.cna.com.tw/news/aspt/202611080011.aspx　# 中央社｜曾峻岳（Chun-Yueh Tseng）正式啟動旅美入札程序
+https://www.bbc.co.uk/sport/formula1/articles/cx0544g2n1jdo?at_medium=RSS&at_campaign=rss　# BBC Sport｜F1賽季落幕安東內利創歷史 成為史上最年輕世界冠軍
+https://news.google.com/rss/articles/CBMinwFBVV95cUxPZGdPdS1TSkdIUU41bUdxUGtqc3o2WHRrUWpuUTI5Y3V4bjlhTjFsM3pULXEwTmlVSXlrejhRTmlObjJkVV9pSlZ5UW1Xa0hfRUsxTlBMaWFJLS02R2duLVJrdGhRWnZLYzl4Wi1YTzBZcmliMEh6Q093WU9JT2c3a1pJUmZPUWRscEFydmlIVFlVazhhWWpJYktWX2cwQVk?oc=5　# Reuters｜受中東衝突影響 2026年沙烏地阿拉伯亞洲盃足球賽宣佈延期
+https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NdnZYeDRSdVNJalNHRWJfWllLeFZicmY5SThjd2p2dGdjWkJYdzVTRnI1MUFHczg0LWNfRmFDblMtUWZXTGNPaVNKYm42U0NW0gFPQVVfeXFMTXVGT2hOZ0MwVzJlNGw5OTFqV1A2Ykw4dHBsZG81Q3g0QzFmc3dYbEphYzRueUNKRXlWYVJsZ3dzZ0lmSHJweFNRRDdOOWE2QQ?oc=5　# ETtoday｜樂天金鷲宣佈不續約 宋家豪結束11年日職生涯成自由球員
+https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zV1BWYzc1aHFPNVdVNXJKdVhsODJETGxabm9EcWRIWkJMenQyVERMRDdoczRId3lrM3NQeGxZZEs0SkFsQy1ZN3FYdFQzMFU?oc=5　# 公視｜陳忞昕奪達卡青奧桌球女單金牌 創代表隊史首金紀錄
+https://www.cna.com.tw/news/aspt/202611080154.aspx　# 中央社｜中職聯隊亞冠熱身賽敲定28人名單 突破僵局制演練後戰平兄弟
