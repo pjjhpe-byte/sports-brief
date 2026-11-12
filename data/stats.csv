@@ -26,3 +26,6 @@ time,label,model,input_tokens,output_tokens
 2026-11-09T06:02+08:00,analysis,gemini-3.8-flash,1431,373
 2026-11-09T06:03+08:00,tracking,gemini-3.8-flash,12523,59
 2026-11-09T06:06+08:00,materials,gemini-3.8-flash,3585,1016
+2026-11-13T06:50+08:00,triage,gemini-3.5-flash-lite,28179,1647
+2026-11-13T07:07+08:00,write,gemini-3.5-flash-lite,2733,1159
+2026-11-13T07:12+08:00,write,gemini-3.5-flash-lite,2192,640
