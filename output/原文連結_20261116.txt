@@ -1,0 +1,16 @@
+以下網址可在 Gemini Notebook「新增來源 → 網站」逐一貼上（選用，最多 15 則）：
+https://www.cna.com.tw/news/aspt/202611120357.aspx　# 中央社｜亞冠賽中職聯隊首戰遭日本完封吞敗
+https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YZHNhN09hQUx2MHp4dTBkV2YzckxkTzlHNTNua3RyR25SYVcyYTFZdHF1TDB3a2ZfcVBBU0VPd3BiSXMyU3JCLUN3RlhGSFk?oc=5　# 公視｜鄭博隅達卡青奧跆拳道逆轉奪金 獲台灣代表團第2金
+https://www.cna.com.tw/news/aspt/202611150168.aspx　# 中央社｜BWF高雄羽球大師賽落幕 郭冠麟男單奪冠、廖元琪女單封后地主
+https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss　# BBC Sport｜曼聯深陷降級區解雇卡里克 改聘波捷蒂諾接掌帥印簽約至2029
+https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaSnNEbXpqRkpBcnR2dy1aaVZOSFVnanZHczlCNXoyYTBDYmZlV3A1bWdsd0dockdlcVY0TEhIanhtUzJyMWsyVmY2bnlUa0libW83bGxuZzF6eThL?oc=5　# TVBS｜亞冠賽中職聯隊首戰遭日本完封吞敗
+https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CUVpJblJfbEIwcS00V054b1AwRHJobjJ1Y01JT25qRnNDVl9Eamkyd3pEYU1SN2ZXZVh0U2FDNWVNSl9IdWRJUFhFZmw4R0pj0gFWQVVfeXFMTW1ydUM2dFdDbTg4VXlIZlJUVTRESFJpZXY1Z3NfT0VpZGFqQ2xVSWVMRTVULUhDcnQ5ZGppb29OcU1QZ0FMNWlNdGRnREVQdFZsWU5QQ3c?oc=5　# 聯合報｜鄭博隅達卡青奧跆拳道逆轉奪金 獲台灣代表團第2金
+https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss　# BBC Sport｜曼聯開除總教練卡里克 傳波切蒂諾接近接任
+https://www.bbc.co.uk/sport/football/articles/c6y49yz77pppo?at_medium=RSS&at_campaign=rss　# BBC Sport｜美國以安全考量為由退出卡達U17世界盃
+https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSFJPUzg4Snc0WE5sREF6by1GLVVfbkM5MjQyVDUyTWZDbUNITXkzTVdvZFN6b21FVlo5bzZUOWlDcGtURTJFOTFKWXJVbnk2d0tJRDBMSldWaFJXOUxFUndoNU81ZENoTkJPSXJtYlVNVkVOM1VmZzlpZDdQdC00VHhWSERfWVZ0Q3AyM21JTWU3VzE2Z0kxdV9rRDFqazZKamFXMUZBNUhnTUxVNWdQdEx0UHg4MFczUDZzYXcxdTV1XzZlT0tRQ0oxOW1DcXRoOGhzQ24tdGh5MlNYeFpVNm5R?oc=5　# WBSC｜亞冠賽中華台北不敵澳洲獲第4名 5局遭攻下6分大局吞敗
+https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTSVMxZ2ZnME14RGZtVXFlbkFYdlFnWHBZckNmQnh6bDdJVzhYWlRxTDk1NVd4SlpHU0ZPd1FRSWR0ODRfYzdhU09mSE0tVzItVm5yNFR0Q2hPT3poeUHSAV5BVV95cUxQU0lTMWdmZzBNeERmbVVxZW5BWHZRZ1hwWXJDZkJ4emw3SVc4WFpUcUw5NTVXeEpaR1NGT3dRUUlkdDg0X2M3YVNPZkhNLVcyLVZucjRUdENoT096aHlB?oc=5　# 聯合報｜BWF高雄羽球大師賽落幕 郭冠麟男單奪冠、廖元琪女單封后地主
+https://www.cna.com.tw/news/aspt/202611150103.aspx　# 中央社｜帕拉桌球世錦賽 林姿妤搭檔田曉雯逆轉擊敗中國奪金
+https://www.cna.com.tw/news/aspt/202611150155.aspx　# 中央社｜TPBL克雷格奪本季首位大三元率國王擊潰雲豹 特攻下半場大逆
+https://www.cna.com.tw/news/aspt/202611150051.aspx　# 中央社｜U23世界盃中華台北擊出3轟破委內瑞拉不敗之身 將與日本爭奪
+https://www.cna.com.tw/news/aspt/202611150133.aspx　# 中央社｜旅美投手沈家羲接受手肘韌帶置換手術 預計新球季下半季重返賽場
+https://www.cna.com.tw/news/aspt/202611150162.aspx　# 中央社｜林盛恩旅美首個專職投手賽季繳出超乎預期表現 克服肩傷放眼新球
