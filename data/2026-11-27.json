@@ -1,0 +1,3349 @@
+{
+ "collected_at": "2026-11-27T07:00:26.232678+08:00",
+ "window_start": "2026-11-23T00:00:00+08:00",
+ "health": [
+  [
+   "https://www.cna.com.tw/list/aspt.aspx",
+   20,
+   ""
+  ],
+  [
+   "https://feeds.bbci.co.uk/sport/rss.xml",
+   52,
+   ""
+  ],
+  [
+   "https://feeds.bbci.co.uk/sport/football/rss.xml",
+   57,
+   ""
+  ],
+  [
+   "Google新聞：site:cna.com.tw 體育",
+   15,
+   ""
+  ],
+  [
+   "Google新聞：中華職棒",
+   15,
+   ""
+  ],
+  [
+   "Google新聞：TPBL OR 台灣職籃",
+   15,
+   ""
+  ],
+  [
+   "Google新聞：中華台北 國際賽",
+   8,
+   ""
+  ],
+  [
+   "Google新聞：台灣 羽球 OR 桌球 奪冠",
+   10,
+   ""
+  ],
+  [
+   "Google新聞：台灣 選手 決賽",
+   15,
+   ""
+  ],
+  [
+   "Google新聞：體育署",
+   15,
+   ""
+  ],
+  [
+   "Google新聞：旅美 投手 OR 打者",
+   15,
+   ""
+  ],
+  [
+   "Google新聞：旅日 台灣 球員",
+   15,
+   ""
+  ],
+  [
+   "Google新聞：旅韓 台灣 球員",
+   15,
+   ""
+  ],
+  [
+   "Google新聞：台灣 大聯盟 OR 小聯盟",
+   15,
+   ""
+  ],
+  [
+   "Google新聞：site:cna.com.tw 國際 體育",
+   15,
+   ""
+  ],
+  [
+   "Google新聞：site:espn.com",
+   15,
+   ""
+  ],
+  [
+   "Google新聞：site:reuters.com sports",
+   15,
+   ""
+  ],
+  [
+   "Google新聞：site:apnews.com sports",
+   15,
+   ""
+  ]
+ ],
+ "items": [
+  {
+   "id": 0,
+   "title": "圍棋名將許皓鋐稱霸首屆玄樂盃 進帳百萬獎金",
+   "link": "https://www.cna.com.tw/news/aspt/202611260279.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T00:00:00+08:00"
+  },
+  {
+   "id": 1,
+   "title": "西德莫迪羽球國際賽 陳政寬劉廣珩激戰3局奪勝闖8強",
+   "link": "https://www.cna.com.tw/news/aspt/202611260318.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T00:00:00+08:00"
+  },
+  {
+   "id": 2,
+   "title": "梁畯閎黑豹旗8強戰5局10K好投 目標球速超越父親",
+   "link": "https://www.cna.com.tw/news/aspt/202611260236.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T00:00:00+08:00"
+  },
+  {
+   "id": 3,
+   "title": "北科附工重返黑豹旗4強 教頭約好打到最後一天",
+   "link": "https://www.cna.com.tw/news/aspt/202611260201.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T00:00:00+08:00"
+  },
+  {
+   "id": 4,
+   "title": "從首戰出局到闖黑豹旗4強 下勾投手邱丞軒：很神奇",
+   "link": "https://www.cna.com.tw/news/aspt/202611260165.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T00:00:00+08:00"
+  },
+  {
+   "id": 5,
+   "title": "台南海事黑豹旗闖4強再刷新隊史 總教練：我們沒有王牌",
+   "link": "https://www.cna.com.tw/news/aspt/202611260162.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T00:00:00+08:00"
+  },
+  {
+   "id": 6,
+   "title": "詹姆斯加盟76人首度大三元 改寫NBA最年長紀錄",
+   "link": "https://www.cna.com.tw/news/aspt/202611260152.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T00:00:00+08:00"
+  },
+  {
+   "id": 7,
+   "title": "大谷翔平不甘無緣世界大賽3連霸 明年續拚二刀流",
+   "link": "https://www.cna.com.tw/news/aspt/202611260142.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T00:00:00+08:00"
+  },
+  {
+   "id": 8,
+   "title": "史庫柏9年4.5億美元加盟大都會 投手合約創紀錄",
+   "link": "https://www.cna.com.tw/news/aspt/202611260080.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T00:00:00+08:00"
+  },
+  {
+   "id": 9,
+   "title": "TPBL德魯轟24分、16籃板 攻城獅賞夢想家4連敗 2026/11/25 22:49",
+   "link": "https://www.cna.com.tw/news/aspt/202611250338.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T00:00:00+08:00"
+  },
+  {
+   "id": 10,
+   "title": "夢想盃社區棒球賽2027年舉辦 冠軍獲IBA軟式少棒參賽權 2026/11/25 20:17",
+   "link": "https://www.cna.com.tw/news/aspt/202611250303.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T00:00:00+08:00"
+  },
+  {
+   "id": 11,
+   "title": "饒又語黑豹旗復出先發壓高苑 目標不留遺憾拚旅外 2026/11/25 16:46",
+   "link": "https://www.cna.com.tw/news/aspt/202611250215.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T00:00:00+08:00"
+  },
+  {
+   "id": 12,
+   "title": "高中體總與智利天主教體育俱樂部簽署MOU 盼世界認識台灣 2026/11/25 16:45",
+   "link": "https://www.cna.com.tw/news/aspt/202611250214.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T00:00:00+08:00"
+  },
+  {
+   "id": 13,
+   "title": "黑豹旗青棒賽穀保擊退高苑 4強遇「老對手」平鎮 2026/11/25 16:16",
+   "link": "https://www.cna.com.tw/news/aspt/202611250197.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T00:00:00+08:00"
+  },
+  {
+   "id": 14,
+   "title": "吳丞顥U23世界盃收穫多 加盟美職藍鳥盼證明不輸人 2026/11/25 14:47",
+   "link": "https://www.cna.com.tw/news/aspt/202611250159.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T00:00:00+08:00"
+  },
+  {
+   "id": 15,
+   "title": "高一龔永仁扛平鎮游擊黑豹旗敲超前安 以江坤宇為目標 2026/11/25 14:19",
+   "link": "https://www.cna.com.tw/news/aspt/202611250152.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T00:00:00+08:00"
+  },
+  {
+   "id": 16,
+   "title": "世界青少年桌球錦標賽 陳凱程陳芷妍遭逆轉奪銅 2026/11/25 14:00",
+   "link": "https://www.cna.com.tw/news/aspt/202611250143.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T00:00:00+08:00"
+  },
+  {
+   "id": 17,
+   "title": "平鎮投打發揮擊敗南英 黑豹旗青棒賽連14屆闖4強 2026/11/25 13:58",
+   "link": "https://www.cna.com.tw/news/aspt/202611250140.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T00:00:00+08:00"
+  },
+  {
+   "id": 18,
+   "title": "金手套紅林弘太郎熱情請燒肉 張乙安把握機會討教守備 2026/11/25 12:41",
+   "link": "https://www.cna.com.tw/news/aspt/202611250114.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T00:00:00+08:00"
+  },
+  {
+   "id": 19,
+   "title": "樂天桃猿簽日籍育成投手金澤智也 擁最速154公里火球 2026/11/25 10:45",
+   "link": "https://www.cna.com.tw/news/aspt/202611250048.aspx",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T00:00:00+08:00"
+  },
+  {
+   "id": 20,
+   "title": "Fury 'never received' schizophrenia diagnosis",
+   "link": "https://www.bbc.co.uk/sport/boxing/articles/cwj3klxj10edo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T21:25:00+00:00"
+  },
+  {
+   "id": 21,
+   "title": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T22:27:52+00:00"
+  },
+  {
+   "id": 22,
+   "title": "India's Pant joins New Zealand club match under false name",
+   "link": "https://www.bbc.co.uk/sport/cricket/articles/crx27984p14jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T16:21:44+00:00"
+  },
+  {
+   "id": 23,
+   "title": "No post-match drug testing in South Africa v New Zealand series",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c69309lz275wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T21:20:37+00:00"
+  },
+  {
+   "id": 24,
+   "title": "Taylor and Lewis lose all five pairs matches on return",
+   "link": "https://www.bbc.co.uk/sport/darts/articles/cm9q8y09xgdno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T21:11:52+00:00"
+  },
+  {
+   "id": 25,
+   "title": "Russell says Verstappen's criticism 'quite amusing'",
+   "link": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T16:10:58+00:00"
+  },
+  {
+   "id": 26,
+   "title": "GB win decider to reach Davis Cup semis for first time since 2019",
+   "link": "https://www.bbc.co.uk/sport/tennis/articles/c5m2lvevrk1mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T17:20:42+00:00"
+  },
+  {
+   "id": 27,
+   "title": "Germany's Freigang given 16-month ban over drugs test issues",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T17:12:45+00:00"
+  },
+  {
+   "id": 28,
+   "title": "Haaland considers Man City exit - Friday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T21:25:06+00:00"
+  },
+  {
+   "id": 29,
+   "title": "Not even making a 12-man bench - what next for Garnacho?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T13:23:05+00:00"
+  },
+  {
+   "id": 30,
+   "title": "Former England scrum-half and commentator Starmer-Smith dies aged 81",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6rrg20xdq2vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T15:26:24+00:00"
+  },
+  {
+   "id": 31,
+   "title": "Faldo urges LIV stars to 'chip in' for unpaid firms",
+   "link": "https://www.bbc.co.uk/sport/golf/articles/ckq6emzlegjyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T11:45:31+00:00"
+  },
+  {
+   "id": 32,
+   "title": "Ferrari facing 'very challenging times' - Hamilton",
+   "link": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mw2dkzrxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T17:30:01+00:00"
+  },
+  {
+   "id": 33,
+   "title": "Selby faces tough UK Championship opener, with Allen set to feature",
+   "link": "https://www.bbc.co.uk/sport/snooker/articles/cwkgmdryrv4ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T15:49:07+00:00"
+  },
+  {
+   "id": 34,
+   "title": "Skupski and Patten win to send GB into Davis Cup semi-finals",
+   "link": "https://www.bbc.co.uk/sport/tennis/videos/cmn0lrjdd9n5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T15:54:42+00:00"
+  },
+  {
+   "id": 35,
+   "title": "Sublime Bellingham strike lights up Real's rout of PSV",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c5evr0y83197o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T22:05:45+00:00"
+  },
+  {
+   "id": 36,
+   "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T22:32:51+00:00"
+  },
+  {
+   "id": 37,
+   "title": "Zverev too good for Fery in Davis Cup quarter-final",
+   "link": "https://www.bbc.co.uk/sport/tennis/videos/c8p3vez6zzz4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T13:28:11+00:00"
+  },
+  {
+   "id": 38,
+   "title": "Norrie holds nerve to beat Struff in Davis Cup quarter-final",
+   "link": "https://www.bbc.co.uk/sport/tennis/videos/cmly7j2lzelyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T11:54:18+00:00"
+  },
+  {
+   "id": 39,
+   "title": "Weekly sports quiz: What year will the UK host the Women's World Cup?",
+   "link": "https://www.bbc.co.uk/sport/articles/cm5y1g91xq3po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T08:02:45+00:00"
+  },
+  {
+   "id": 40,
+   "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T14:56:30+00:00"
+  },
+  {
+   "id": 41,
+   "title": "What will returning Magill bring to Northern Ireland?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm93rdqrgkz2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T18:34:20+00:00"
+  },
+  {
+   "id": 42,
+   "title": "Irish runner Beggs wins award for Boston fair play",
+   "link": "https://www.bbc.co.uk/sport/athletics/articles/cm36gj08xn94o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T15:58:38+00:00"
+  },
+  {
+   "id": 43,
+   "title": "Isak scores twice as clinical Liverpool beat Brugge",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T22:12:19+00:00"
+  },
+  {
+   "id": 44,
+   "title": "Five wins in a row for LA Rams as they beat Green Bay Packers",
+   "link": "https://www.bbc.co.uk/sport/american-football/videos/c3qj5y0edlyzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T12:44:06+00:00"
+  },
+  {
+   "id": 45,
+   "title": "Glenn makes 'free ball' history in WBBL after Dottin timed out",
+   "link": "https://www.bbc.co.uk/sport/cricket/videos/cqglrnk7dgdko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T10:03:36+00:00"
+  },
+  {
+   "id": 46,
+   "title": "Gordon stars in comfortable Barca win over Sabah",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T22:07:02+00:00"
+  },
+  {
+   "id": 47,
+   "title": "Terrible Pavlovic own goal gifts Lille shock win against Bayern",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cq36gx1g10p6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T22:24:57+00:00"
+  },
+  {
+   "id": 48,
+   "title": "440 players, three days, one venue - the Nations Championship logistics logjam",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6wy4kmjggr9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T10:28:10+00:00"
+  },
+  {
+   "id": 49,
+   "title": "'Laughing gas has ended careers' - so how common is it in football?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6kgdrj9nxgdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T06:18:30+00:00"
+  },
+  {
+   "id": 50,
+   "title": "Fofana has apologised for interview - Alonso",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c5wy43j1l3rwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T16:47:47+00:00"
+  },
+  {
+   "id": 51,
+   "title": "Calvert-Lewin signs new Leeds deal until 2029",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T18:00:31+00:00"
+  },
+  {
+   "id": 52,
+   "title": "Referee being 'drunk' claims are 'entirely unfounded'",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6x289w0vpr1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T19:19:49+00:00"
+  },
+  {
+   "id": 53,
+   "title": "Botham back as Morgan-Williams to make first start",
+   "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq4gn8nwd2zwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T09:01:32+00:00"
+  },
+  {
+   "id": 54,
+   "title": "Four-time MVP Rodgers released and may have played last NFL game",
+   "link": "https://www.bbc.co.uk/sport/american-football/articles/c64gn8ryp7jno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T07:51:10+00:00"
+  },
+  {
+   "id": 55,
+   "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T23:38:42+00:00"
+  },
+  {
+   "id": 56,
+   "title": "Borussia Dortmund fight back to draw with Arsenal",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cmedqg06d8vwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T22:05:57+00:00"
+  },
+  {
+   "id": 57,
+   "title": "PSG held by Roma as in-form Malen scores again",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cwvg2832elr4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T22:27:14+00:00"
+  },
+  {
+   "id": 58,
+   "title": "Cherki rescues point for Man City against Napoli",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cjy5xwygqg9do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T22:05:49+00:00"
+  },
+  {
+   "id": 59,
+   "title": "Blunt Villa beaten by late Galatasaray winner",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6r7g92p5k79o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T22:05:53+00:00"
+  },
+  {
+   "id": 60,
+   "title": "Greatest catch ever? Man on motorbike takes incredible grab",
+   "link": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T16:23:03+00:00"
+  },
+  {
+   "id": 61,
+   "title": "Commanders fight back to claim late win against Bengals",
+   "link": "https://www.bbc.co.uk/sport/american-football/videos/cjn50y5wdy40o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-24T14:05:05+00:00"
+  },
+  {
+   "id": 62,
+   "title": "'Best midfielder in the world' - where does Bellingham rank?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T16:46:36+00:00"
+  },
+  {
+   "id": 63,
+   "title": "More ref frustration as Pochettino's chaotic start at Man Utd continues",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T00:24:48+00:00"
+  },
+  {
+   "id": 64,
+   "title": "Why KMI Panel frustrates referees too - and impacts their salary",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq20x16zxxzeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T07:28:18+00:00"
+  },
+  {
+   "id": 65,
+   "title": "Is Hamilton and Leclerc's Ferrari partnership sustainable? F1 Q&A",
+   "link": "https://www.bbc.co.uk/sport/formula1/articles/cw30gq2633ljo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-24T08:10:15+00:00"
+  },
+  {
+   "id": 66,
+   "title": "'All coming together' - Isak repaying Liverpool faith",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T23:25:30+00:00"
+  },
+  {
+   "id": 67,
+   "title": "UK Championship match schedule, seeds & BBC TV coverage",
+   "link": "https://www.bbc.co.uk/sport/snooker/articles/cke8r17en52qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-24T09:28:01+00:00"
+  },
+  {
+   "id": 68,
+   "title": "How to unearth young stars, the Bayern Munich way",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T07:22:27+00:00"
+  },
+  {
+   "id": 69,
+   "title": "Alexandersson 'overwhelmed' by Swansea interest",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6gre9gyp42qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T18:48:00+00:00"
+  },
+  {
+   "id": 70,
+   "title": "Martinez secures Inter win against Stuttgart",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6j9mvjkkzymo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T23:02:15+00:00"
+  },
+  {
+   "id": 71,
+   "title": "Fenerbahce squeeze past Shakhtar to seal back-to-back wins",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c6ly51452xe7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T23:16:18+00:00"
+  },
+  {
+   "id": 72,
+   "title": "Sutton's predictions v Kings of Leon drummer Nathan Followill",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c3n0l29lrr27o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T15:01:48+00:00"
+  },
+  {
+   "id": 73,
+   "title": "Carsley eyes Euros history with England U21s after draw",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c97726npre86o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T19:35:17+00:00"
+  },
+  {
+   "id": 74,
+   "title": "Euro Leagues",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pq4ydb?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T22:13:00+00:00"
+  },
+  {
+   "id": 75,
+   "title": "Who am I? Plus today's other quizzes",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6ly5125qgy9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T06:53:51+00:00"
+  },
+  {
+   "id": 76,
+   "title": "How to follow the Premier League on the BBC this weekend",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T12:06:15+00:00"
+  },
+  {
+   "id": 77,
+   "title": "The American manager with a maths degree making history in La Liga",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6r7g4v8vee5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T13:49:20+00:00"
+  },
+  {
+   "id": 78,
+   "title": "Raheem Sterling - from national icon to suspended jail sentence",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T12:42:57+00:00"
+  },
+  {
+   "id": 79,
+   "title": "Glasner criticises Forest players yet to learn English",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T18:32:55+00:00"
+  },
+  {
+   "id": 80,
+   "title": "Ferguson's Glentoran reign hits early turbulence",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9v7457nro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T21:41:00+00:00"
+  },
+  {
+   "id": 81,
+   "title": "Can Iordanescu make a difference at Watford & how do you become a free-kick specialist?",
+   "link": "https://www.bbc.co.uk/sounds/play/p0ppxp3z?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T18:35:00+00:00"
+  },
+  {
+   "id": 82,
+   "title": "The youngest Premier League goalscorers this season",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-24T09:10:34+00:00"
+  },
+  {
+   "id": 83,
+   "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+   "link": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-23T22:31:27+00:00"
+  },
+  {
+   "id": 84,
+   "title": "Moyes questions Tarkowski red in Brentford loss",
+   "link": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-23T22:54:51+00:00"
+  },
+  {
+   "id": 85,
+   "title": "Are Manchester United this season's Tottenham?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T06:22:36+00:00"
+  },
+  {
+   "id": 86,
+   "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-23T06:17:59+00:00"
+  },
+  {
+   "id": 87,
+   "title": "Who is close to a yellow card suspension in Champions League?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T11:21:53+00:00"
+  },
+  {
+   "id": 88,
+   "title": "Why are there 2:05pm kick-offs in the Premier League on Sunday?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm4gn8pneklxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T11:25:51+00:00"
+  },
+  {
+   "id": 89,
+   "title": "Why Man City can't wear their new kit in Premier League",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cvgvezj19yyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T09:38:16+00:00"
+  },
+  {
+   "id": 90,
+   "title": "Which Premier League players are set for yellow card suspensions?",
+   "link": "https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-24T09:47:51+00:00"
+  },
+  {
+   "id": 91,
+   "title": "SFA to deliver revised proposal after young player vote delayed",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwlyl36my6m7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T16:49:44+00:00"
+  },
+  {
+   "id": 92,
+   "title": "Dundee United's Farrugia out until new year - gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6m2lv3k29gpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T07:42:21+00:00"
+  },
+  {
+   "id": 93,
+   "title": "Murrell flourishing at high-flying Falkirk after 'random' move",
+   "link": "https://www.bbc.co.uk/sport/articles/c6792q7gzeg8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T12:03:34+00:00"
+  },
+  {
+   "id": 94,
+   "title": "Scotcast: Is hosting the World Cup a game-changer?",
+   "link": "https://www.bbc.co.uk/sounds/play/m0034nqc?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T16:00:00+00:00"
+  },
+  {
+   "id": 95,
+   "title": "Hosting World Cup means decade of excitement - Weir",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c95y1kjvxmdyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-23T21:03:42+00:00"
+  },
+  {
+   "id": 96,
+   "title": "Wales and West Ham's Morgan suffers serious injury",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c920xdl6d6kpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T10:38:44+00:00"
+  },
+  {
+   "id": 97,
+   "title": "BBC Women's Football Weekly",
+   "link": "https://www.bbc.co.uk/sounds/play/p0pq0m9k?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T11:18:00+00:00"
+  },
+  {
+   "id": 98,
+   "title": "Can returning Beattie and Haughey make an impact?",
+   "link": "https://www.bbc.co.uk/sport/articles/cm04wz6ez2rgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-24T08:08:33+00:00"
+  },
+  {
+   "id": 99,
+   "title": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Sport",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-23T15:09:50+00:00"
+  },
+  {
+   "id": 100,
+   "title": "高中體總與智利天主教體育俱樂部簽署MOU 盼世界認識台灣| 運動",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YWFhGRG9ncDV0RE5tTlN5ZjhvMnBSakF2aFI2UlkxVTVUNUEyUUI3azItN1NYSWdqSUppa3dxQ1doTXE5c3lBWEp3Wkpib29uLWdNM1QwNjBCbkFTRGlr?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T08:45:00+00:00"
+  },
+  {
+   "id": 101,
+   "title": "臺師大參與全球運動大學聯盟高峰會 深化國際合作並連結世界",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VUWZfQ1FlbDJlQXdYY29iUTVodGhXLVdyZUs4U1l2bkdCS2Y4czZONWxzc3N0TEVOY3pFQmRva0o0bVBFbXQ1UHFNdzR4VzBjdnA2UHRB?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T09:26:15+00:00"
+  },
+  {
+   "id": 102,
+   "title": "東華大學體育中心舉辦「太極拳劍－鬆沉自在」講座",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NSDdiSklzZndtc05zWi11QWVubGtVRkRkdFQ1aFEtSG4zNGZHOFNBZklZWnp2eTc3VE9iaGxlMGFBcVNhcU5vTWg4OUNSSzZidF9GSXR3?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T08:40:30+00:00"
+  },
+  {
+   "id": 103,
+   "title": "臺體大推動雙語體育教學 跨文化交流拓展國際教育視野",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pVXoyRl91dkdQb0JjWUsyT2ZnRG1jeFNLNVF3YllSOFhJM3BKeFJObW1MMHkzTUlrbE51VVM2WWJFRmlYNHJRUXkwVGdfWEx2cFFaTXFR?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T07:14:13+00:00"
+  },
+  {
+   "id": 104,
+   "title": "臺體大115學年度寒假轉學招生開跑 8學系招募新血",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2UEtEdEtLWUI0b0xucjVoeDVBVzBxZi1wZTBRUy1hb2h3cUdVQWwzSjA3d2tERG5ueklzZDVmd0gtZFJLXzZLSGVTdUVRZi01Y3ZfM2hB?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T09:53:11+00:00"
+  },
+  {
+   "id": 105,
+   "title": "臺體大116學年度學士班單獨招生即將報名 五系齊招展現多元特色",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aZTdWTFAyU3M5YmswbV9vNkFPQzNvMU9YUEFLWVdweE96emM1aGFFNEtjc2ZGaVEzbkpCSnpGRWhuUHQ1al9OSDRyWWhGc1hnV1lCeUJ3?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T02:30:30+00:00"
+  },
+  {
+   "id": 106,
+   "title": "文化大學結合運動科技與高齡健康 培育跨域運動人才",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRcFFPbEMwZGRUX1RYU0ktUjFnOXg3MjlMeFhIdDdON3VERlN1SjM5eUMwQjVSUktPdnEzWHJ5RUJGREwyajJVQlhycnlUZ05FakxBM2V3?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T03:52:13+00:00"
+  },
+  {
+   "id": 107,
+   "title": "不再只是旁觀！臺體大培力校園守護力量 讓道德勇氣化為性平行動",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZV0xKMy03X0F2dWh1ZGt1ZjMwY2NmYUtMck00OGFQSDRRYnRMbDl4azVZekdvRjJncmdGMXNVSlY4VkM4T0E3X3F1WkZTVmc4YmoyTTF3?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T09:12:13+00:00"
+  },
+  {
+   "id": 108,
+   "title": "桌球凝聚臺師大教職員情誼 全國大專賽勇奪雙冠一亞",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUdm5HWGVSTS1vQWZYUEdXWG1wZW1yaGRNOFdiaGFlVlpYTGNkTXh5SXFGMmVUdGNUaVdEd2tXelVHb3g0QXQzbDVQRzJEbEVPbWlsalRR?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T09:39:42+00:00"
+  },
+  {
+   "id": 109,
+   "title": "2026「星耀東華・逐光接力・健康永續」路跑接力賽",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VdGpJMldYM2NyU1NWU0V2NE5lYVVZRFUzSUtuZU5NSS1veGRXNnlBUjJrcmptMlJKSzgwSXRZUklkZDhfSFlsMTJPNkJSQ1ZBanhhMTd3?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T07:21:29+00:00"
+  },
+  {
+   "id": 110,
+   "title": "吳祉恩拚旅外先到日本冬盟練功挑戰不同年齡打者| 運動",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDeFNGYXdQbXFwempWeE1PU0hBUXpQQV9Xd1hsLUZCNUUtdTdQNjI4YWJKTUg1Tnl0TXBfLTdOYkl2Y0twMnVxeHEyWWdFal9CWEI5anJIUk5PcGFkQ0Jr?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T03:08:00+00:00"
+  },
+  {
+   "id": 111,
+   "title": "深化臺紐原住民族夥伴關係 東華大學借鏡毛利主權實踐",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ELUJnY3pXSVRremd6SEdmOTBMemppZ08xMXVZYUJDSDE0eUd3SXdMcXZyMW1CS1dDX2c2UFFXVFRHYTBNUGFCMFF2dDBoVC0yZzdPcTRB?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T08:32:24+00:00"
+  },
+  {
+   "id": 112,
+   "title": "投出健康 擲得快樂！第二屆全國布袋球競賽竹市西門國小熱血登場",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zOTRQVWZlSEZGMkZCSHNjYU02Rl9nV0JTbUdjQjQzLXJ3bUxJUlVNZzhJejVnMjU3OUh4RzhQSGFCWDlBVmkySUcydl8tTm15OUR4cjJ3?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T02:26:22+00:00"
+  },
+  {
+   "id": 113,
+   "title": "臺北市運動中心聯合公益成果展登場 雙北學員齊聚美麗華展身手",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RUDBSTkJkY25TQkNfZ3FvNndSV0FqdU9oVXpEZG5DaXYzenlOZGM0VjNiVFdoS2FwNVhycjZrUlViUnYweEJLam1YM3JHeEVPV0Ixbk5n?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T09:49:21+00:00"
+  },
+  {
+   "id": 114,
+   "title": "南華大學全校運動會登場 職棒新秀廖永詮捐10萬元傳承棒球精神",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Jc0hFNDhFUEFfc0JWc3pZMGd0cVV2UnNDUV9hdlJMcU5TODNqajRBc2FfVTBLc1hzQlF5ejhRMnlZbTM1UF9CTUpscHdGVDEwNV9SM0Rn?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T10:00:13+00:00"
+  },
+  {
+   "id": 115,
+   "title": "CPBL 中華職棒. . ❄️⚾ #2026亞洲冬季棒球聯盟 海洋生物們私藏的台南美食口袋名單！ 這次跟著台灣海洋一起吃遍台南 挖掘在地美食🍜 邀請球迷來冬盟看比賽、逛台南、吃美食 (,,• ֊ •,,)♡ 🎁影片最後填寫問卷，就有機會抽好禮喔！ #平日免費入場 #假日預購享優惠 購",
+   "link": "https://news.google.com/rss/articles/CBMi0gdBVV95cUxQRF90UDFET2FtcWFHRnpnbWZ1YzAxYzJnX2tHNWQwbWVtZmk0M2tIT0xXc1pUMl9xQnBjNlRxRHRmT21uRG4zSXJfRHJ5VTdXYVM4Rm5IdEo2aTdiWTYzNXE0MVdSY0o5SzZ1aFhRZzd1T1RldDY4ZDZwWmVTYTk2WVIyQllfZnFqZ1k1MmplM1M2djRIOV8yQkZMTnYxeEEwQldaSnYzb0xodUxGeE9UWkt1RFpWejYyMWRNNFYzRk5GVXUtNkM4bFJ3R1BYeF9CS3FCN0ttVzdHZjIxcEhueDZyM2ZHeUtTTVQzelQ5LXZ0Q3ZxUEhmRkVFbXNWS0pPa0Q5UHBmQkdLbGZCRXdRcjUzM3QwQk5tbkdRQUp4ZEFOYWJSWldxLTR3bGtUdFZ5ZlJOS2R4Q1V4TVhBTG1sMTQwWk5seWhvclNiNmNGOFdYVVlpYnNfWXloX2pCYXNKVEhxR3ZTTzF6U2ZlOVkwOGNFcTIxSWUtX3hBNDluRVFCeFVCMU5ncXJQMngzdXRWcWkxMTNGUmhGV1BUOWNoTjg5TTlEVmxlSldUY2ZWVFR5TmY2VXpMZ0x6MnViR3QtR2JIUGZZVEpNeXcwNkRmSFp6SGpUa0VNSnJBVHhrWER4aEgxcmtieVJCTVkwTWFISXh3WGEzR2V2OGY3UjMtVVV3NXRVYWNKLWpZM1JueDJIZTgxSUtmNXpZQUpoam1xUlFkNFlJN3BBWUxyTUMwX1hpaWFFWkFUVDRqTEJVQVpteVdYcnJDYmdfZTByZHlKQVN0X21VRVVlbXFTWTNyRXdwUklJSGR2MEg2OEw0YWhfZV91SUlGVEpqNHZWR0FFMkF5bmVfZ2RLYm05aEZndi0tUF9EWE9LcVRVNjI0UUZMZFFkcmhMTWlIZk9RakkycWNmYUhpZHduSVJvNlVxMXNWQ1VuU0FyY0lvWm9tdm9wdHRfNk8zLXkyTzFaMTBiMDctVjlGeVE1ckhxUkMyNGNRYlE0SElHaUszUnQ4SXdVWnJwZDZEWHlGOExVdEFUdDdxQVZaSllaOVNJMHk4dEJNTF9JZ2N0NTE1cFRla3dPeVAwemlEMzlQekRPNUw3elREUk90NVRSODF4bEdXWjZVd0dYaTU3bmhuZ3dra25kLVB5MW8wWjRTTFlRRzA3QTBqRDlucGVDWlFmYXNfdzJRVHFuTXBvZVVPbmQ3bHhDMTFwQl9FdmtPSW1qdGxleE1COVY4cmhjVVFnSEFnUnJMOFl1UlhDbXNFUXdibWVlWDF4UkZnU3ZCaUFaUzNUU0E?oc=5",
+   "source": "Facebook",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T11:44:37+00:00"
+  },
+  {
+   "id": 116,
+   "title": "中職／2027年賽程對戰組合與時程出爐！龍隊、悍將開幕周就過招",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kalZQZE95SDBCcHZRaVpkUjdCdVZYUlowWWZrYnZWcnV6c0VqTjdrSmxDa3drWHY1SFJ3Zno1WFVZVXBITXg5anBiWFpVbEww0gFWQVVfeXFMTm1CN3lEVGx0UVU4cFItU1FDVWk5eGh1dXhlWDVBUjNpNVU2RTRFcVlrWHVsTUlLRWc3Z29QTlNPZER2enlraGpiSGtIZkZhR3loT1A1anc?oc=5",
+   "source": "聯合報",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T09:37:33+00:00"
+  },
+  {
+   "id": 117,
+   "title": "中華職棒》王勝偉談球員生涯後期 「不要去害怕面對挑戰，任何改變都是重新開始」【呂權紘專題】",
+   "link": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxQcVQ2Q2RFbEZKTlpPcUZCYVRPMGtNUFZnLVg1OFlzdGVxUGtxV254Uy1ISWlzdnRWLUJ1WW9LVjBGZ2FCSjQwUWJjSXMydWZ6VjhuLWkxb0hhYmZLRElxOXNBb0hJcERpVVZCUFAzUnBFMW9fMFRybXpBZjZ6bmJrT3pGdklHUlUwQnFlREFlUXFzVzk0bHBRQWlBYVhuTmlsR1REMzYwX0d5WXJsQzVudV9tMmhsX20xdGczTV9lODJlaEhUdmxHU1lJdHBJN3JBUEFDSlRtbGVVV2VEa3Fic0w3bjNhMUpIVm1CcWxFenJUamJjN2VtejhTcEoyT3pTbkcwZU5FcWhWTXNqQk1uTmN0T0tJZjhiYW4xLUVsNU1pbjdGYWR4cHRzMXdaYzhsQ0pUbTNIbkZwZF81SkViczEzOEdubXowcHNSZ0pROXI4MWRsWTZFekRMN3pGVEx4Z2hIbDhTdVM4anFrX0p6bE9kM3ZtZGQxdGR0SUhwdld5ODJsSjhQWlN0RUw4X3hzM3poZFJCVVltMXo5NlA2ZTlSR1pLb01aeU96Q1NabTRtTXMzYm9HYnl6UEoyU0t6TWlobU1FZ0o2MC1xZHg0T05xYURDUVRPUS1VUjUybkV3WjBkOTBFSnBHVjVfVHlvTTk0RDlSY19XQ3VyTWF2dFZ1TlF2NkdJVXB2TjZsa201QVJvb0trbEdwYUl1b2pPaU1MNjFETTJIcnFwRzlSTnljNVhFekFfbmZWMFZtYUlTY2xxWXpkRFAwX0VPTW5BWUxOZXZhMVVUazBNNlFvMHpaU1U2Z3FrWjc0UE9R?oc=5",
+   "source": "Yahoo Sports",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T02:13:43+00:00"
+  },
+  {
+   "id": 118,
+   "title": "【中職】前白襪 2A 外野手有意挑戰中職？Eddie Park 何許人也？｜中華職棒",
+   "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPbmNBYXB0dG9kdTFKZ2pMQTZQejItN1RIbDdyY1YxWE9rZXItQmRyZDJmUndybG9pRDAxZlg2T3JXa2RTeVd3T0RjQlpzZWRWc1ZmU1pTX1g2OWFrVnVSWHFaLTRjdzJYSlJuM2RiaVFYVXlpbGs4d2VaRTdzZ2J5b2ZpaDNhdTJ5c0R5TzBDVURqbVpMYVVjTE50bXUtTUQ2QXdZR3ZiYTRFcWwzNW9ZdHJmYkdUTy1oWWJxeVgxZ29TcE5wUmNhZl9ENlA4UU5rZFZzVlJyaHZrckhpUEs3TTZJeUFVQ0Z3bFY0ZVdBNXdVdFh0NXRWS0RZS2U3UjBuZzc5bUs0LVdjbDhzcVZQRlRYN3JFODdWT0pYSlc0QVhuNVJaZW1HbnZOMUd3YmNreHhSVGJmLW9UbEFYci0yelRTRXlhcFgwZmtiWlYzclBjaEtuaHhtb1U4OFNpNzNrUUtpZ0VoWUo3SmV6V2U0c1hiNGNYVExtdTRkd25ZM1ctZWpPZWd5SzF6SDJWVFZSU2V4NFV2ZVZTRkJ6UXRB?oc=5",
+   "source": "DAZN",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T07:36:23+00:00"
+  },
+  {
+   "id": 119,
+   "title": "觀點投書：造成球員受傷的新竹棒球場沒問題？賴清德不該把公共工程當成選舉話術| 吳晧瑀 | 評論",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BdmwyRkpjaE1rNkpXVnEwWEpES0NVajJfRDRmSkZ4NUZlNlBpYjdfd2RreVlfMWEwME9QRHFIcVBNbVA2ZVpUMDBVQWs5dw?oc=5",
+   "source": "Storm.mg",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T21:23:00+00:00"
+  },
+  {
+   "id": 120,
+   "title": "【文總攜手中華職棒】捷克隊走訪大稻埕 體驗道地廟街文化",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vMlFEUXdoWEpKY3Zza1BPZF9qQVRQYVZFODNvajdzWldkaEJ0ell0WXlUX0I2TUVLV0s3R3drTXdRbU54a3pmWFRDMTdCVERULXViSmhabVltU2E1MjhWWWE3WGJxVUVQZ2k0TktB?oc=5",
+   "source": "青年日報",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T18:01:00+00:00"
+  },
+  {
+   "id": 121,
+   "title": "台灣大賽／新獎盃造型亮相 大賽期間巡迴展示",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UTXR4TG91MDl4LUM3U2gtUGNEVWdab3oweUNNN1hOdDRVX1FHNzJ1aGczcFpVeGFtYlhFdDZjTk92dE11VFE4YtIBTEFVX3lxTE9WM3J5N2VOR0paQUYzcVhaMloyd1ZZbHZTcnJFUDRxVU9nSGpPbUs5UkZGYjFfNGt4Q3d4MGNuVUgwU1A5T1BLUFRibXY?oc=5",
+   "source": "三立新聞",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T16:37:09+00:00"
+  },
+  {
+   "id": 122,
+   "title": "11/26 日職聯軍 VS 大學明星 全場精華",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVVJSHpGX3VubEYwRDdHN2VVWHdqcUdYUFVjYlNDR041dHBaVlFzV0FWcmwxUllVWlkxRUluUGFWZUtYT0lUaWdkd19fbnNQNEF1WWo0Tm1sNWl5anZsRU5nQ3hQUVU4YmRraTRLTUxvRTVKUUl0NUFWQ1BSdU56UWcxLWxzVVZ0ZTZKWHl1elF0bzdMcWxfX242VkxUeFlmb3kzV1lBQkVWdHJyTHpWXzlHdlhiZWNtR24zakJ4YkxZQWt3M0xMbWRGbw?oc=5",
+   "source": "Yahoo Sports",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T14:01:57+00:00"
+  },
+  {
+   "id": 123,
+   "title": "【中職】主播隨筆：黑豹旗八強25日開戰 平鎮、穀保最快四強碰頭｜中華職棒",
+   "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNMkl0a0NQQmFpZGpGT05wcFRVWTJJZkpXM0N5b0diYV9EU3Nnc1dqVkF3UlhVUHZmVTM3eHBPcWZ3aHFfNC05djQ0c05ZVjg3a1d0eWQzZ3NXTDJ0RkRlR0wwVFd6NVA0UG9YclFab3lVTjlFelA1MnVsbVBUOXdkN3U1YTg2MklwSm56eDRkdnZ2cmJEUm5CM3E2eHZ3VTY3Y1NYeC1TRUhxaWFuLU9vWDlWcnVsUnZwMWxGdjFnQ3hpVVVFVHZpUjlBQXJuWURQZ190aVk1LTBESVpWeXlxUFV0VDFOdkRKd3RCQUNYRXJuT3dGNlRVWVFJSl82TW5hcUJ1TV9McnpwdkswSU1lZk5Qc2t3SkNWRzNOTjJzTXVmLU9YT3ExMThIa2V2NXZzck05Mm1aUUlQM1dSYjNzdzlVTkdUTU9sOTQyNHl6Z2oxYURKRVQ1YlNaMTVKMHBnMmw2cXJuMTRrX1dLUVFxanloSWJXQTdoR3lYNFc3U01zbUVFWGFlcDJtd185VHdvcEs0WDhzcFMybF9iOHJ0SmU2NV9lQjZXZVJGM0VGUkZCYldRZEJldmd6SkNyYTNFNDQ5X0ZvT193blhoRGhCRTlMc1l0OE8x?oc=5",
+   "source": "DAZN",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T09:14:46+00:00"
+  },
+  {
+   "id": 124,
+   "title": "中華職棒》樂天桃猿教練團補強 森脇浩司接一軍首席教練、内山孝起擔任二軍野手統籌教練",
+   "link": "https://news.google.com/rss/articles/CBMivgRBVV95cUxPdVJnOTVBc0UyV0Y0UGZPYzJVTVI4ZXFUanNBa2Y0eklYM002OTY1WEJqem05YlJBYXVxYmI4ZUpjeHdNeFVIM012NU4wclZkNHJJZ2FHT3gyVkZyNElKTTZlWGlpMktTZjc0YXNYWDZkZTJlODIzbmtORGF4bXQwdXBtUldsWWE2OEtDWkRyNFRLX1lTY2pFbDBKQ2JPc0hjcDJueThiRmFrLWJfMzhpazg2VHluYk9teU5oSVRNZHFyYURfOVpGTWFuWnJRVEt4U216VDlLUmNFa0ZKNjdJWmoyQXQyY0ZJVDNOQnZzZ1BBR3VpN2FBdTZwNE5uYW1PVTVjdmtfX3ozcTluclRBMmlKQU80aHNOX1JHdWZzeW9uZ3JkMmRCZjRPR0dGV3pXQzlFaDJEcUJIbXhCQm1WR3Nwc2tFODc1VW1SWU0wdVBtNnJSdDA2Nlh0QVE4T1F5ODIxcWQ1eUVoZGdtU3JWcHVJUndGYS1nOEs0cG1SVUpzT2VvaElERENIODNNVWxJMkIzQ0xMUUV0VFA3aWNhR0ZkYndHMkhucEN3dktMSmlma1N2VlM3WWRDMDNSVjZROHdYRDlZbUFxaEJmVDZUdUY2M3dyc2lOUVdOb2VRN2dwSmlqaTkzc2ZHeWYtNVUzbEF4c2ppRUdrbkhXREpZZHk5dl9SWi0yYzlvVVlHMUVZZk9YS3B1NGktNFg0eWlrNFhJMHZxMzZyc3BMMDhTaUI1ODRQWWdVZG9MM1VB?oc=5",
+   "source": "Yahoo Sports",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T04:05:09+00:00"
+  },
+  {
+   "id": 125,
+   "title": "【KBO】三屆安打王 Reyes 確定續留！樂天新團長李宅根如何重整洋將戰力？｜韓國職棒",
+   "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQVEgxSzM3U0FZa1lJSjBiTWplNUZfUTNhR05RNVBNMXJob0xBajZYZ3Q0SlNZYUVOM1RCZHVxOFFMNEx4ZERvcTZ6QS0xbllmRVNEQTNzU19sb2tkR2swWTN5c1p3X2pYMGdIdi1kcXNLYmFNbG5aSUh3MkktNGJwYm5sa1hBcFRyMkZQLV84YWRDV0s5TG5reVFqY2xnZ2xfMzYySlFZNHUtTzg0VE9OOHo3Q1lDdmVsSDMwUERwME0ySGpjYm1DblBPRGRQTE1WWVE2UnRxeG1CZ3FOUVJiQk0tZ21GMjZtVEhpMGJFWUlPY2VzZ2tOcWR1bTdCdjdhZzJyRzc1VUUzZVpnS3BVaVlyM3JhRndoazNySHZXaVVuMXVZcGxQemtidGx2V0FuZW5WNnlYdFhMUEpWdDJpT1ltRUtxd2lWcjVQcVN6SGUxMEZjSFZYSU1scndLR3dKbUF3cWExRUMxZ1NZRzQyMU1zNEtsbXhJUFc5ZHRySWctMVdkOG0yWXRYNGRlcGJESktJUFcySi1IQ2Yyd3hObFRZYTlXQkhKMFo3cVFaZ1VfSnN2aUR4VHhDVHFVLXozVUdGakR6RmxMUVBtREJ3dGFHeGw3RUZlOVNuT0JkdDE5bzJocEQzTUZMM3dVdw?oc=5",
+   "source": "DAZN",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T08:49:44+00:00"
+  },
+  {
+   "id": 126,
+   "title": "中華職棒》樂天桃猿迎來新洋投 日本23歲火球男金澤智也加盟",
+   "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxONTJmOFBMWWJ1MHllOWppVlV5RXBjYWxYWjk1WDZIZzhFQjl1UHZsaVRVTUJNX3ZoVk50MTFId0J3S2daeG82azc0MndoekROZDJxbFdMSjV5TEx4TXJqTXZ0ekxOamlZc2hvRlZrS3RPY2xTZXM3R1ZFbHk0VV94SnJONVVpVjhJekVDNm1NUTRLbUZZa3hYYjltUS1vREEzQ0NlRmNjQ1l4OFVDQjMwOU55SXMzVUx0Nks5cFZFUDRuY1dBZWRCaWFXTUw5d3ZUckFJUVU2YlVHS0pGYk9teUs3TWdXYjJuVW8xdzI3WU1EeDV6QlN6YS02UVRyY1pQODdKNHVzNTZSemx5b2tKR1Nyd2xjenNkVjlpbjB0bjkwd1NpX0xZbW9pR3h6eWRVS3hFZU5XX0lpOFZiMHk5Qk1kX1ZMd0RaVjA2ZGx2YkJVTlBhR1hWcnQ4ZzVqcTdINWRjTFRxMGtfRHNNR0xTOW82alR4NjFndHpzU2hNZ2VWTnUtZU0zMk96ZGg3eHFzTS03MG9KXzU?oc=5",
+   "source": "Yahoo Sports",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T02:28:24+00:00"
+  },
+  {
+   "id": 127,
+   "title": "專欄／奪冠卻自亂陣腳想換帥 味全龍高層佈局「神操作」",
+   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQSnF2VURZUzRJaUZFMUk5NVg4WTJYQnV6bkVjQ1Y0NE1NaE8xTGZ5MzV2b3JTcjNETmVmWFVVSkxBUmM2eU95R3JlejFFUWF4QmRyN0dwOFZJYWNQeGpXS2V6aElqMGh6Unp1RDVkdWpOWTdQLU52WWZlN3oxNDBJWDRrd1c5NDJoN2c2dFNrNWViNnRMRnQ3aXhGYUp5S3laTXZiZmJRbUNLaWlocWZEaXJzUWVya3hsa0FsTkNhYnJWeUVuOFdLLW9NUlNKbjdQRXBVUEphbXZyZVoxMkFGOWtZNlVWRThlNVNPaUNWS0llZEt2MVk3X3BIWjM4ZzJ6bWNfSWh2aTlfSDlMME9QWTl6bkc5dk1TQXI0MU9MLVBzaEZVb18yZzBXYmo0dWxzNFNYTmhSVEFPUUlRV2tINHRTeC15dlZDMGNwMk13QjJ3MjRRS1VaNVpWeFRiZ0piSUIyT184N3o?oc=5",
+   "source": "Yahoo Sports",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T05:50:14+00:00"
+  },
+  {
+   "id": 128,
+   "title": "文總攜手中華職棒 捷克棒球隊認識臺灣文化",
+   "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQa1o4bGpPYUpTNFlMM0RDXzJZUWxuazhTeUVrRTgwR29NVmNhU0MtVVY5STFwQ01CZE5MbEZFUEE5MTFCUS1NSUQ1NWpGMUR4SG52QVQ2ZEp5UjM4Q0U3endtb0RzdjhoRml1Q3VxNTVfM2lfaDdBOV9PYk5UTWhYR2p5c0J5dzZjRUJialkwOGx1Y3QyUnN1MGN4N2hfMEY2VGNVRElRdzNRUGdUT05WWnFUUkdiUDRuenlISjFsTUNTU2lJeURReTNxOWk5QWxBLTZRQXljUGQyY0Y0MW9lU2hSOFZya0FHZ1hGbmMxYTVrVWlXa3FBanlHWDNxZVhmU2I2Y1pvanJmc1o2OHF5Qjd6MFBnUkQ4c19BeVRWU3ZRTUF3RGxsek5nTWxVc2paVlNRTTNvaFo?oc=5",
+   "source": "Yahoo奇摩新聞",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T07:21:00+00:00"
+  },
+  {
+   "id": 129,
+   "title": "中職明年開幕戰3月27日中信對味全 明星賽日期定案",
+   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNOWFyTXZaYkdhNFB1bjV3YTJxY1lUd2FHbjc5ZzRRSmJXaEJDMENLSmVPNVZVbVg4OHpGVUpDTUNGd1RfWXBfMjVqTWp5R1YtalJCU1NBR1pQRTdZSWptYjRENXJqa3NvSG1EeFVQRzRlczJUNVZVa1ZFZFhiOWVtWWNkXzJDYXBOdDMtb1BySkhKRjdfTXNkWGl1cXdzeEVwRHJJOUY5SlB1czJjbWd2aDVpbG9TOUhmVWlwMEZGTW5QbFpQNWgxd01idUpUU0dHMWhBSGxjYS11aFBBQmhIWVFkYXNrdlhSeWFPWTJjMjIwejRXUGY0d3c2Wjlxb091MnpfbUk4TlJlWHdTRXNtSDJObGhMWTJrdXNkM2NQNEptWmxiSGFGM3MyNFJqbk15TFc3QTdUcXMxLWUtYUJla0VWcGVoTDNPWnYyNjBYUWxIdm5xdWU4R29lcHpkQQ?oc=5",
+   "source": "Yahoo Sports",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T09:55:25+00:00"
+  },
+  {
+   "id": 130,
+   "title": "TPBL》雲豹今晚沒有桑尼 夢想家止敗利多",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZWFg1Z1J4SkhzdFA0d3BUb0tkc1NmdzNqRUlBOG51dzBqZWF3SnJ5VUpEZ0ZEdndBSHNYS3RHcjk1Y2NHdkVFQkc4OWNCazBfR3gtalNJb9IBXEFVX3lxTE05Tko0UURGMU9NNU1LM2FBVDN4TmRENjVmNDJOak1Icy1nV3IwU3NHdGtMZ084aXk1U0FXVk16UlpnVHkyTU1KS2lOWjQ1SEwzY1MwWXZDZ21uNUVS?oc=5",
+   "source": "自由時報",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T21:30:00+00:00"
+  },
+  {
+   "id": 131,
+   "title": "TPBL德魯轟24分、16籃板 攻城獅賞夢想家4連敗",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SeUhkWXlPRmdvQWdNMXVqOWQxVVpaNTdZTkNROGN6ZFJ2a0xUR05NNGJ6VnF5OXpJU0xCaGw1WW45M1ZmdkZTRDVSZ0VZTmlLVzF3UDIydVlzZHZmbHM0?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T14:49:00+00:00"
+  },
+  {
+   "id": 132,
+   "title": "TPBL／衛冕軍夢想家輸到止不住 不敵攻城獅苦吞4連敗",
+   "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQNVJRNnNwQkhQV2czUXVOQ2lSamZOMDFRVERxTWJXMzBGaG9zTjU1MjV6cVRNSXozUlM1NklkQ25rbU5SMTZ3eGwzZ29uVW0zRXlQUGR6UENWS2VNSzVNWDZ3RGk3NHNkZkZwQkR5YnhUUlA1Vzd5NS1ZbWFqYk83bmFHLTU1am9ZeFpTMEJObDhwVWJLZFJsMk1KSlZrZkFLMkVveXh0NE8takE3TTBzQm5uaTJaR1I2LUVfS2w4MFlYWi1aV0duS0N1X20xX0J1QmUtNG1ndkpBRWVvRWpwX1BwS0drNjhsa1ktY1VwWmFhMUpqdkF6Rk9SNEw0SXRXYVl0cnI4aGczbk1yZmlkMGI2UUl4NXFGNUNPbTJuOVhKZFRIMnJvNDJnbzR0cDQ2VGo2cWVzVDRBTmh0dkc0M2hfVndLOUFmMlUyRW14aUFtZkpSWFE?oc=5",
+   "source": "Yahoo Sports",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T13:37:53+00:00"
+  },
+  {
+   "id": 133,
+   "title": "TPBL選舉週特意未排賽程 鼓勵返鄉行使公民權利",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkZzBFV1RPLXl6eFM0cTRuWXVwcFhWVjNvcEE2MjM2enhaU0ZxVUo0SW1pZ01WWktFb2Vua0VZeEJsUF9UbU5oeFQ2N180d3FG?oc=5",
+   "source": "客新聞 HakkaNews",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T03:05:00+00:00"
+  },
+  {
+   "id": 134,
+   "title": "TPBL／賽前吊點滴又趕回執教 簡浩談夢想家連敗：傷兵多少有影響",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tdG8xOFZRdTl6WFZ4aHdhMGltOWMyQ2dSeUxJYlJxbkNKNkgxWWRfTUxlMmwwNzg5cmtqRE1WV21xUUhVMVFqQmx1T1FCeXdS0gFWQVVfeXFMT2NvNHk2aGx2YTd5NEE2OUlvVTNueU5EWWhENHRpMHBSdkQ0N2p3TjR4TDJvZ25BVGpEVUpkQk9uZ25YUDZIRXJtb0VSbGVQWnk2OUJUMFE?oc=5",
+   "source": "聯合報",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T14:12:02+00:00"
+  },
+  {
+   "id": 135,
+   "title": "TPBL》「印象中沒看過夢想家只拿78分」 攻城獅教頭盛讚防守執行到位- 籃球",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA5cnl2cmpxc2hTdEdOUmVfVngxb0V1SUxBVnJ4U3F3WUNwOU9hbGpwdnlkSHBZeE1jdk1aenZYdV9PS3BjVnc?oc=5",
+   "source": "TSNA體育新聞團隊",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T13:59:16+00:00"
+  },
+  {
+   "id": 136,
+   "title": "​TPBL》母校睽違11年再闖12強 朱雲豪虧林俊吉「基商贏能仁啦！」",
+   "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPNjNFRzR5ckNZMHhiMHVvN1RXcTVTbnl1TTh3UjNXTzZ0SktubV9PQVdGUVhQaF96bGtmUUR3NThZZWNWclp5NDdmaFBpb0FaOG9YbzNnRmNVaDAyU2JRanhLSmV6a0NyZlJtY3V0UHpjM01QWmhQUlVlWWR1emozRWdjX1pub1Z5bmFtVklzWGlWODZKMWN5X3JjR3NYelZTLVpDQllfSm55SGlRNld5Ulo1RjFIZVQ4anZseG0zbDd1YVV0OVB2eGRTNm9rOHh3XzlNZDhUNHQ0bnNSTDQ2a29BcUhnT3NvNmF4WVNIRlRhbDV4WldWVFV2M0hFaFhadFVETlNHNk1SQmJLZnd5NFlUekR5OFFmbFNIS1pTS2oyUUp1YnJMbXFwLVhaLXhMdVNkbGpaLThHcFF2MjBZSGlCM1ZOTmItbXViMnFOZ3dKLXZWaWtnT3pyV0FXRm1JRDhoZFA0cw?oc=5",
+   "source": "Yahoo Sports",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T11:02:58+00:00"
+  },
+  {
+   "id": 137,
+   "title": "TPBL／選舉周特意未排賽程聯盟鼓勵返鄉行使公民權利| 籃球 | 運動",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNTV5WWhMTTMyY1BEbFBfOWl3UzNKMGZGVExUTlk2Tjg1MVFpNnplc2tNbERnSGUtQVNpanhMUDE3aTR1NFF3TVA0U1hQc25P?oc=5",
+   "source": "聯合報",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T02:37:24+00:00"
+  },
+  {
+   "id": 138,
+   "title": "TPBL》賽前打點滴所幸無大礙簡浩點出球隊攻守問題- 籃球",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBvZnAyeGVpT0hzRVM3WERmdC0xUmJXSWRPaUFzUmlnSU9xS0Q2V0NnYWNJTUw0Q0EzYXhoVFpDMkVjYzRRTWc?oc=5",
+   "source": "TSNA體育新聞團隊",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T14:15:56+00:00"
+  },
+  {
+   "id": 139,
+   "title": "TPBL》「台籃Zion」現身迷你蛋！ 偶像是張宗憲、未來想加盟夢想家",
+   "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNUmlxT29QdVk2QjcycTVWT3NCTG5zTXpPcUNIbVZMQWIyU3k5dXpGeXVfSFhZZWZDSTdnT09oeWhkV2dCalFXWW1kN3RIS1dwQnBYTm14OWMtZGNtZDUxandRSlJDZW5OX00wR1NqaGFMWVRiVTF1NVJKNkk5cmNOUzNIbjFpZjVLMk8xVmRDc2pmOVlJdEJiOFJ5aTVSd2t6blZ5SXdMNWVEYjNvUGhYM3VVa1U3OWNuaUtDOFdaOUJZTUlvOWE2OTNUQVE2WjRISk5PSG1fSURnOHdwQVU3ekV3SzllN1dRUmJRYXE4WDZBRVlnOE5kMVc3QWJCcVN4cFppeTI0Y2hwR2RHNHQybVdWeXRrMWQzYlVZV2Z6dlc2UkIxNGxNOVdlT1pTZHhwb1dsZFhoWTdWeWRiRG5JOEp0TjNxY0dCcFRHNUlNSlc5c05BeERVNnYtc2xpaUo5V1BMVWVWck0?oc=5",
+   "source": "Yahoo Sports",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T12:56:01+00:00"
+  },
+  {
+   "id": 140,
+   "title": "TPBL》德魯24分、16籃板 攻城獅賞夢想家4連敗",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KNlBhZ3JoSWtnQ3Jsdi1rSHBma211MlFhVnJUbmJ2VUFvWWd0M2I1SVJkMU1aNkIxaGl1RXI1RkNVWk5uZUlpRlVId3IzVk5BVnNVZ3ExUHlHbVpSYlh0etIBZkFVX3lxTE1VZlhwaVlUa090eWRFdGNwN2ttRkF0SmhTU3p6ZXFueXRYbUxqdUt0RWY3RGZhRVFyRWhVbUdqNUFacC03T1p4LV9OZHBkMzhKZXM3STZGYUtkVFpjLWR4UUxSSWdVZw?oc=5",
+   "source": "自由時報",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T13:36:00+00:00"
+  },
+  {
+   "id": 141,
+   "title": "TPBL》配合九合一選舉週末全面休兵！ 聯盟盼球迷、球員都能返鄉投票",
+   "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPSHRJakJ3ZEw0TmlPclVhZTYwQ2dkVTBHV2RkLVpBSjlLZGlKWGw1T3FFYnh6dnNKZkxGUlJ3VnlOaVQ2NUcxTkFlanZBcWFkQl9HQzQ2ejlka2JXcDBXdlp4SDVHQkhURFFRLUFlM29nTGpvRERUajFUODRjUUs0bmFmSy0xV25jRExobDQ0QUp2QUlDY21GZDN3ak5ZWWx1aWxyWWcwNVNFMm9EUUNDa0NnU3lqZmdVNE1FWi1vMHQ0My1QSk5aQUdpWEw1eUlfTkVXWDQ2MHo0LVpMZWtJS1dXNzh3WHhVNXNRQ182Um5zUnpKT1lBNkl2ZmRGbFM1MVJaeFN2YUdDcWZ0Q3kyZ3pqM0xDaHYxX1gtSm5DeDRqcWZsRi1vX09HY3NvejlsVXc1YzBZbWpoYi1HLXpldFl4OTBZdkRhLUpTaXN4MTRuMnU3ek9jMXo1b0hENFgzQV9vTHczY0ViLWxHU3dQdlI3MEp3VkgtTUlxVWZaZ0tzOUhLVWoxTnpLWXdybTIxeTdV?oc=5",
+   "source": "Yahoo Sports",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T12:05:46+00:00"
+  },
+  {
+   "id": 142,
+   "title": "TPBL》夢想家傷兵滿營總教練身體也出狀況 簡浩賽前先去醫院吊點滴",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hSHVnVm1KamVZVmUxemthWmwtTnJ4REo4Ql9MRHRsN0VSOGstM1JFR0lpX0VOV2RaVi1TeDZPdXFoenVDeE9RUTFGcUpoWnc0Z0VLNVV2YW0xRU1vU1FMOdIBZkFVX3lxTE85SFRXYnVlajU5d19GZENKdENMZzRlNFhBelhKMFJHWWVWaFVvdk1FMHV3S1I3a2hsSXo4Q013TXpuNVhpU2Z4X0VuR3gzbXFIZ0ZacldZbml5MUNBSDJsZHd1Z1JFdw?oc=5",
+   "source": "自由時報",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T14:11:00+00:00"
+  },
+  {
+   "id": 143,
+   "title": "TPBL》珍惜參與民主的機會！聯盟週末未安排賽程鼓勵返鄉投票",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EOE5aRFdVbzZpWlY2OEo4RXg5VGhUWGNsYVZWQ0NFVVJGVHFRMDZ0LU5xTFAtWFViMGhqX3gzRTBoRWFjUVN4M1pKcUVnN19OZG9QRlFHbGF6QXIxMWdBdNIBZkFVX3lxTE05ZUNJYVVCV2lPZXZhUWY2N1FxNTMxM005REh6V2FZeXpUQjdGMm5tX19uZ2ZTQWQxeDVWbmdQSGt6THFOcmxhd2VzWkZlSU1ZRkt5NmFvcUJVQlpaU0kxMHFrNThsUQ?oc=5",
+   "source": "自由時報",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T10:52:00+00:00"
+  },
+  {
+   "id": 144,
+   "title": "TPBL》阿巴西全能身手再摘本土MVP 加爾文強勢雙十榮膺第六週外援MVP",
+   "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPeW85MFZzYVI0SGxaUmZybFJ4M19XbW1MVkhJMVhYN1VFejNTbWl6ejQ5VUhrNFlvM01YcjJpSHlaLTVjTjZLWG5aa1l3cHhQeGZBVzBzRlI2T1BsdnRMdjEzNmI4MXRQSzZXYXdiNXRhcDVlQjh4bWd2bUVtdGpqcFZJTzcwTjdyMElMLXN0Z0ZTdk8tQ2RfbVk5QUh0TkJCQ05aNk0tT3ZsT294Z18yMEo3MVZFMnlOcXNnb2txNS1Hb2lXejA3eXljUk1jVjZxTFdCUzgxLXdoWlMxdUJQU09DRHQwZWVXYWFxem51TVdRT0E4QXk0MVlaYXNoUnhodkwtVmZoWlpIM1lWcEs1cmd1bjRLSkZFdkpwUWdBb2dackNYUkZ1aGRWMWozYzdzOE12eGVXMEg2aGpaeHV0NS1ST3FzOG1KQ2hYcnJBM3lYV3c3MUlkd3E1TXBoNGV6T05sLUdoOUpCcjQtbDg1bVpDNVdlQjBVV1hCRVY2ekxfbEw5SEhJb19MamZGVVU2NWVtRGhpbC0?oc=5",
+   "source": "Yahoo Sports",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T06:30:20+00:00"
+  },
+  {
+   "id": 145,
+   "title": "西班牙公布WBSC棒球5世界盃初登場八人名單",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcFAtcmZ2MmI5SzdHTGo3eDRmemVkOUU0Qk5IcFhfUHl4YlVMa3ZaNDQtbHBMV09fUEhQUXBkaE5CWl9pdVZIMzBicHhNRDlQNVJucEJMcVhzTEpxTS1VVEJEa1owSW9FbE1LRHM3NFFtWnktdkZlMUpiazhuS1JPQmVaaE83TENJVFN1UzBma3ZLemx5NTFXTU9qMDZOYnZUQmNFZjZ1ZVkxaE5RMXhIVHY4MHZWajFkdENzVWRSQWNuNmMzZGw0N3FR?oc=5",
+   "source": "WBSC",
+   "tier": 1,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T18:36:04+00:00"
+  },
+  {
+   "id": 146,
+   "title": "張寶樹站上英國教練席！曾在經典賽對中華隊開轟 助隊拚12強",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yT3Bxb3R4Q0pENWdRYk1nRk94U3JnOU1feDFtQ3o0MEtPWmdFdzBKR1p2RVg1QkxPdGhOTl9YQjBnTzFFQUJJM21UM1Bfb3FN0gFPQVVfeXFMUDBYcEN3QXA3T1J5aWdSWWh6TmR0WktFUnkyUHo0WHlMY1NZeFdJWVFjYzVMOTdHYm1BUVE3VVk4Xy1aZ0NReXhFOEpRaW0xcw?oc=5",
+   "source": "ETtoday",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T10:45:00+00:00"
+  },
+  {
+   "id": 147,
+   "title": "世界12強資格賽賽程》即時比分戰績、轉播線上看與晉級規則一覽",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ycUY1SGdHQXFQOUNPOTNmNjFpQzBoZGZCSjJfY19BY3RJa0tIaEo5TmZIaWstX2FuZnNhSnVUa3pBZ1NJSkZ5a2dmYkhPREI5c1JWQ2lzZmtwekN5?oc=5",
+   "source": "TVBS",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T13:30:00+00:00"
+  },
+  {
+   "id": 148,
+   "title": "「桐花築愛」第二屆桐花盃公益少棒賽登場",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wWGszXzBqUEdpckJrTlFrOWk0R2dCUFFUR0Q0R2dZaWpFbHBTUXR4eFphRjJMRnBtbTE4U1hkQjVQUnExSWUyc0tuczBJajNIZHU4UkFVTVA1MnM?oc=5",
+   "source": "翻爆",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T04:43:06+00:00"
+  },
+  {
+   "id": 149,
+   "title": "中華科大生技系赴日征戰國際寵物美容賽勇奪兩冠一亞",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aOXoxN0ZSNjFSNFk1SUtrMTJDUXE4NkFMcUx5NTN5VFRISV83d0FvMXV3ZWhmYXd2U3JWLWpHWWNXMWVEeUlGb1oyMXoySFVzZHc?oc=5",
+   "source": "蕃新聞",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T07:20:36+00:00"
+  },
+  {
+   "id": 150,
+   "title": "金牌國手恐入獄...淪詐團收水手捲走305萬 二審改口認罪盼免囚",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YV2JKMXNRem1Kbnd2clhTQVJraU9oREdCRGZJbF9hYVdpWW1nZEF3aDNNRlpvVGF6a0k2UGdaZndteFdVMmV3TFdLbUxCMTM3OE02ai1ock7SAVhBVV95cUxNWFdiSjFzUXptSm53dnJYU0FSa2lPaERHQkRmSWxfYWFXaVltZ2RBd2gzTUZab1RhemtJNlBnWmZ3bXhXVTJld0xXS21MQjEzNzhNNmotaHJO?oc=5",
+   "source": "聯合報",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T06:39:56+00:00"
+  },
+  {
+   "id": 151,
+   "title": "赛莫迪羽球国际赛 | 东海岸组合无缘8强 大马男双结束征程 - 体育 - 即时体育",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZTlRaeFptT1Q2WGh2UHFWcWR5anZrY1FWN1J2OWNBSzZZR0ZhZV9JTzlVeUh1WDc5c25fQnlPV0RKTjMxZnhwMEtTN2hvWVVhMkVsSnJtSExmeVZ6bzBqT19BS3ZyTGVIQmR2T2w5cUxZX2xlUUNlZ0ZvOA?oc=5",
+   "source": "Sin Chew Daily",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T12:50:13+00:00"
+  },
+  {
+   "id": 152,
+   "title": "世青賽乒乓團體決賽 國乒收穫三冠一亞",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mRmFIVHE1RjF6TnJYU2xHeVlWZEMyZUtCNjJNT1lOdHViUmo3akEyblo2bkN1UVliN1JvYlVhNVV1WDQ1LUQ4a0ZZRWFyV2M1djJQY095MGhReDRKZFY3bXdCc2JfbF9hc2YzbTM0TGhKeF92bzZV?oc=5",
+   "source": "香港文匯報",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T04:17:51+00:00"
+  },
+  {
+   "id": 153,
+   "title": "桌球年終賽有多頂？單打16席、冠軍賺1500分 台灣最佳紀錄是冠軍",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1a0RkUWNQYUdULTZLSDJDblJQWm1pUXpkQmMxblRIUTZXWkttbWpob3lxd2hlc0hsbkUxdnRoN21mR0lhUjJfZldueVVHRHRLeXfSAVJBVV95cUxQNWtEZFFjUGFHVC02S0gyQ25SUFptaVF6ZEJjMW5USFE2V1pLbW1qaG95cXdoZXNIbG5FMXZ0aDdtZkdJYVIyX2ZXbnlVR0R0S3l3?oc=5",
+   "source": "NOWnews今日新聞",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T08:58:09+00:00"
+  },
+  {
+   "id": 154,
+   "title": "桌球／張本美和在中國為何酸民少？混合團體世界盃11/29成都開打！",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FMk1DVF9tTDZMSk1CM2pNQ3BBQnZycm9pWUdOc0ZoaDZMeHc0a2VtaDlPNC01NkxUM3BCZXpiYkZFN3lVbHlJcXM1RUE?oc=5",
+   "source": "JUKSY 街星",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T21:26:16+00:00"
+  },
+  {
+   "id": 155,
+   "title": "U19桌球世錦賽 台灣男團奪銀",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XaXR4elROckR3T3FDZlJKZEIxRzJEUnlLaUJQTjNab1NINmozVDllQzNKbEo4b2VlNHlZYXphZ0ZrWW1pZDZ0OV9PVlRWcURZNmYzZFMzZ9IBXEFVX3lxTE14YmdDZDJPV2lTVFlTSnl3TkFtN0RjVzc0bVhvVDR2WW9PZjkzMkZyMWRMNXBtM0s2WnJvVWNiRkE1WmNxYTBMVDNhb1Bsdjh5eG9YMjBxNUViMFdp?oc=5",
+   "source": "自由時報",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T21:30:00+00:00"
+  },
+  {
+   "id": 156,
+   "title": "永慶房屋店長黃文琛籃球場上奪冠 展現健康職場活力！",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBveFlEOF8zUjVRUjdOT25BdmZrSENlZV9RQ3VIT1BvY2llUlU3VDNzOVdZTzlIR3ZhMXFBMmxhZjhBQ3NFZjNJX1kxeHRaVXMtVEF4RHBCUmRyZw?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T03:55:12+00:00"
+  },
+  {
+   "id": 157,
+   "title": "桌球／林昀儒連6屆闖WTT香港總決賽！男單世界第5，混雙攜鄭怡靜戰莎頭組合！",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51N01wazZRRERycWNEOHA1OVZQVWMyTWRCZGRJanZucjN5Y0Z2RmVKQXpDR0JiWC1wckNHcldLUmZRQlBGSlZzWkE5ekk?oc=5",
+   "source": "JUKSY 街星",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T22:33:52+00:00"
+  },
+  {
+   "id": 158,
+   "title": "桌球／台灣男團「甜蜜復仇」擊退印度闖冠軍戰！晚間將與中國爭隊史首金",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fakVOdks2VFBqdWRycWxqVDdVa1p6b2ZMdnFZYTROQm0xQzNUUkIwUmtIRDcySkptazdYaUhpdzRFZzk3MXo0YjBQMjk0Q2Zzb3RaQnMtVkZZdVlLa0FIYQ?oc=5",
+   "source": "民視新聞網",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T01:48:50+00:00"
+  },
+  {
+   "id": 159,
+   "title": "世青少桌球錦標賽》陳陳配混雙奪銅 決勝局應該再拚一點",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04WEgzb2MtZTNkbG1vOGRkTUpRZ1ZTeVQzZy1fcVIySmdrbVNGMFpBMWFYYS14MElWMkhrRHFGSTMxZ1ZOcFJWeVNDS0Q0S0p6Yi14WUV4Um9YVk1U0gFcQVVfeXFMTThYSDNvYy1lM2RsbW84ZGRNSlFnVlN5VDNnLV9xUjJKZ2ttU0YwWkExYVhhLXgwSVYySGtEcUZJMzFnVk5wUlZ5U0NLRDRLSnpiLXhZRXhSb1hWTVQ?oc=5",
+   "source": "自由時報",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T21:30:00+00:00"
+  },
+  {
+   "id": 160,
+   "title": "網球(影)／只打5場比賽賺進1.7億！艾卡拉茲賽後談奪冠心路歷程 母親感動落淚",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmZFl3aC1mRHI3ZjdzcWE5X0tPV1JqbkpmVVRJMHd6LU9HUkUxa0FDNVJrbjF4bnBnWmZkMC1WMkpWeVkyb2RfRzhXNHlHeDJFVGVYUm9COXBvNUEwRklrQg?oc=5",
+   "source": "民視新聞網",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T01:59:37+00:00"
+  },
+  {
+   "id": 161,
+   "title": "台灣U19男團奪世青少賽銀牌！金牌戰首點勝後連丟3點！",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE42ZzZXWmJVcWlXU25DbEYzVlJkVm5OU2xadUhIOFp2RC1OX1Z4V1FJYzA4cFBnWUN1SWFXZGlNOHlLaUNGOGVVYXA4MGc?oc=5",
+   "source": "JUKSY 街星",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T08:56:41+00:00"
+  },
+  {
+   "id": 162,
+   "title": "桌球／「桌游CP」林昀儒、王冠閎當蛋糕坊一日店長！粉絲凌晨5點就排隊！",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WZlAyMUN0Nm5ITmVremFZcjV0WU5WaUVaYm1vSlM1YkFWcmtwVWJqWkxFaDFlU2dHb3VRcnJFX2loZGxwaVNqcklpekI?oc=5",
+   "source": "JUKSY 街星",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T05:40:12+00:00"
+  },
+  {
+   "id": 163,
+   "title": "宜蘭青年閃耀國際舞台 余易哲獲達卡青年奧運滑板賽第6名",
+   "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOcVdTZ2JJc2xMajI1ckdIMG5qZ2xrYVJZX0gxS215UVZWMlBJRVhUYmFGR25mSWpJaXpINVVoWU4yRk5XT0VpM0ZJWTk3bmRIZGQ2TDZPUjZDRlA1VU02ZGh2YVNJYzBjWmFnUzk4eFhDNW5fZk1YdGhZa3NzMVg0c0UxSHlibk9OcThiOHd0ZHlqeERKS3pTRWJaanRtTnNUaXdHaWhRc2FjeGtOejNJbk9jU3lSaTdsSW1DbVhBLWo2VTRMYXNHMXFKZmdneVVkSXlyUGhOMl9VQUswazk5QzFFUUYwTEloR1lWN1gwQVdSVXpxWnJVSl83UGdPY2lmeHFuSVBRTUNNY1ZsS19BeVdBRVM0YkRNT1JySFljWEIyWlJFTG1GZlNSc1dZWWpNZUhJaV9lOXpZaVBDb1hwU1R0dFhlVGdwNkN1MWV1Ml9KT3ZjdWlNUzhDUm8xNlN2YkNhTUI5ekhkTVk5WFpJUmxYLWw2ZVZUR1J6WTVubw?oc=5",
+   "source": "台灣好新聞",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T23:41:56+00:00"
+  },
+  {
+   "id": 164,
+   "title": "正修競化盃24隊激戰！立志中學《傳說對決》勇奪四連霸",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95NUpoMjAxYzRnUXJSWnREVWJXYUhYTHl3a0dITjh1LXJFX2hvLXRyaVFJcm12QUI1THlKNXM4dXlWazFUTlhjSldPWkh1aVYt?oc=5",
+   "source": "兩岸好報",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T06:15:05+00:00"
+  },
+  {
+   "id": 165,
+   "title": "羅東高工余易哲闖進青年奧運決賽 男子滑板街頭賽拿下第6名",
+   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNMTgySlpvTG5xU2Y3RDlSd2xBY3FRVjE5emlDTkw1bEc0OGdMVmJuOUl1Y3dDZm9iaGdIVXJBV1BHVHQ1UDZsclBYY3BWR1NwcHZ6ZUZYZlZaSGxrTFdIcVJtV2FaMThGU0J4eF9mM010LU1nTVBacmJBdWV3RGxXRm01TElBWnFxM0NybDdWR1J2ZzRyWlhzbHkyUjJxYm8xbmZBYk1RSWhMSmNCcFFQbEdFY0ZXSmljS1FzS1hidEZyUlpfRDBTNnYyVlo3UzRXYi0wMUxFXzViRE1keWhOZFV6Z0tDczRKOUFIcjJVa29NcUhzX3pEUlUtNy01ZlNuWDFPakpZclVtTW43OFA1TW9qSURzdmZBcnNVRENtTi02WUpkRE5EUEN1RmhTU1c3R2FkUDZWU2dRUFZIc2FNeHhrUkY1dmYtREJZ?oc=5",
+   "source": "https://www.yesmedia.com.tw/",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T05:24:48+00:00"
+  },
+  {
+   "id": 166,
+   "title": "2026臺灣國際衝浪公開賽圓滿落幕！澳洲選手囊括男女雙料冠軍",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tNnBBUm1nU0I4Z09XR2tVaEhVWjhYYlZyMDhWZkZjMVFVakNTcDZtZEJjZjNlWnlCeEFNcko5QV8wZFNEVG45eEFVMERQeTJKdFd6bkNn?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T03:06:31+00:00"
+  },
+  {
+   "id": 167,
+   "title": "羽球》年終總決賽8強名單出爐！ 台將林芝昀／許尹鏸、葉宏蔚／詹又蓁首度入圍 | 麗台運動",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14YVhXZk9UUWR1ekhYMmpKdENmVlBmdS1iMGtOSENGMGtmRnRPd29yZHFkbjZKX0ljdUk2ekZpeThReUdJTnFqaEVtR01PSTY4WlBaVndR?oc=5",
+   "source": "LINE TODAY",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-24T18:25:10+00:00"
+  },
+  {
+   "id": 168,
+   "title": "2026 嘉義舞蹈世界公開賽暨全國總決賽 翁章梁力挺",
+   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQd2g4SXFBa1FNZEZoY3lCdWZmYVF6MGdhd0pyR3BjTXRaTEtQZGxMR2hMUFZodW1icTBNWGgzMXlrSEpDZEJpS3VIM2x0N2dPVGVUdEJGWTRObzNwbVctQVNsdU0wTWN2T0xiWnFXXzVUeUtKNm10cFhGSFVveWlDMFRJSXFSWDZlR3ZpNll3Q2ptV0Jtc1hkclh1SnlpVnlleUIyWE1HSzNiUThiY2lfa0RJTTJLV3NtQ2xXc0NGTEk5cEo4VFFQQVU0M0JucDJnemx2UDZhWmhmaUNLUC0ydlByNjFXNVA0QlRWRjRtT3pZMHVfTTJFX0ZnME5vUUpxbFlIcHo4Nm1RUkFsYVdsajk0Z3c2YjNzeUE0SXpYLXNTQ3RRRUlHZmxER3RIbFZwb0FuMWJCNUx2QVMwN1U2UmFDWWJyTEprZFIw?oc=5",
+   "source": "Yahoo奇摩新聞",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T17:51:11+00:00"
+  },
+  {
+   "id": 169,
+   "title": "宜蘭表揚滑板青年征戰達卡青年奧運 余易哲勇奪第六",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rTzFESjRKdVJNZndfeDhvQlZ3MEx2Y1RWVGJyRTJwTGo3YklZTFhoRk1adjVjcVgzM2N6NURXWVRaeEJVTEI0RGVJWmJZRV9selE?oc=5",
+   "source": "中華新聞雲／中華日報",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T10:30:27+00:00"
+  },
+  {
+   "id": 170,
+   "title": "世中運》台灣隊112名好手出征 跆拳道亞運國手王婕菱力拚衛冕",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NZ18wUU1zUTI0LVAxZ21iLVZxZFBNb0VoM1c5S2hHZmI3NEhzTEtXdGMxVkdGazdlYlJiUk5XRWFTTm54RElrNmo2dWY1blB6dDRXQ084YkFqUGZNd3IwNXlveFFiQdIBZkFVX3lxTE5NZ18wUU1zUTI0LVAxZ21iLVZxZFBNb0VoM1c5S2hHZmI3NEhzTEtXdGMxVkdGazdlYlJiUk5XRWFTTm54RElrNmo2dWY1blB6dDRXQ084YkFqUGZNd3IwNXlveFFiQQ?oc=5",
+   "source": "自由時報",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T09:52:00+00:00"
+  },
+  {
+   "id": 171,
+   "title": "從冬奧冠軍到主帥武大靖帶隊奪首金",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Sa1NycWd3cHl0MnBtcUNIUFBPeG15eXF3S0oyZFR5VFlfVE5FUUx4b2lRa1BzVkhZQXcwQjhOYklaX0lSaG9JU0xrVTVCdVI5ajVtUFFpZmlyd1RGZWR3bHNNandtaVh4RGVtdzh2UC1VNnoxa25ia1lZakZGNW8?oc=5",
+   "source": "台灣中評網",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T01:41:15+00:00"
+  },
+  {
+   "id": 172,
+   "title": "羽球／BWF年終總決賽名單出爐周天成第7度參賽力抗羽壇新世代崛起- 尋夢新聞",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wX0xpd1l4ZW1BRFVWNWZmaVQzQjhTRnEtQjA1X0RIZTUzbWptNHdjMVdNLXhGZXV5NGR2U1h4RmZ6MU8xMEtSdVJmZkhCSHdBZjlZdC1kZlBuUQ?oc=5",
+   "source": "尋夢園聊天室",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T00:47:57+00:00"
+  },
+  {
+   "id": 173,
+   "title": "韓饒女帝CAMO二度來台！ 12月同台台灣14組饒舌歌手 | 娛樂 | CTWANT",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qUFdRWlA3NEJnUHFWN3dEQ2NZVXBaSFhVSVFPLWQyZkgwajVQUXZRdll4dldfejA2MWxsRWczZ0tVVWNuTHR2cXI1dlBrOFXSAVRBVV95cUxPTlFrX2F1RFd3S1paOVp2NDVQbW1jOHlIR01oQm04bUJ1TWN1SVBvMnIzcFZDTk04NExqMmpkMHFqQ3hXeVlyb0V0SlAtRVk1b3R5YXg?oc=5",
+   "source": "CTWANT",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T12:02:31+00:00"
+  },
+  {
+   "id": 174,
+   "title": "台維斯盃8強決賽義大利開打 頂尖球星齊聚爭奪國家榮耀",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wSVFpWHlKblBEVVFZcDB1bFJVTzNpWmMzNDBYU2JVd3kzTF9tVE0yWnJTNE9fYjNtZm8yTnpFX05LR1hIRlVVQU13bDRKOTZSRDc2Vk5JRV9WRHh4TVB3VXl1QQ?oc=5",
+   "source": "民視運動網",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T12:29:00+00:00"
+  },
+  {
+   "id": 175,
+   "title": "月亷德定福基金會赴澎湖送暖 捐15萬助講美少棒",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9saFhVNGNXNTVJVUR4LXdqWVNReXNyU3A4QURMV0RmU25rMndJUWl1NVhUeXlKaWVobkpvR0JpRTRvLTB6ekZvaGw2NDlMX25QU2c?oc=5",
+   "source": "中華新聞雲／中華日報",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T09:23:02+00:00"
+  },
+  {
+   "id": 176,
+   "title": "蔡明堂是誰？當過6屆議員的「三重之王」 一手打造穀保青棒王國",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mQU5VdTc1T3p2U3dxN2ZKeWFZdkhEamFzU3BZM1ZUOG84WUt4VmEtUnNGeV9CZjZ1VlU3WE12SnJ4a2c1bm9lRHBkOEHSAVJBVV95cUxOdjR0aWdTTzMtc192UUU0bmd5a1BQMy1CQmd1VmxZUjFUR0ppLTd6anRDUGdwMGZIT1g3MlJ0ODdvVHpTUUppZklhaTVhYXRTYTNB?oc=5",
+   "source": "NOWnews今日新聞",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T07:43:52+00:00"
+  },
+  {
+   "id": 177,
+   "title": "6分鐘健康精準IN 李洋部長號召全民參與科技體適能",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55NngwN3psakFrWUNDRmdyTGY4cGRBbnpCSmFMU3Eyc29uWHYwbm85azBPWkUwOWpVY1pQYllYMG1ZTVBtTnloMGgxaXRERUxaYnExV3YwMWU4STdT?oc=5",
+   "source": "運動部全球資訊網",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T08:00:00+00:00"
+  },
+  {
+   "id": 178,
+   "title": "國教署核定23億元 422校次改善運動場地與設備",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqeHZDRkkyNktIRVZVSXkxSWlmSy1oTUpyeXJXLW9BTTdZUFpfRzZmaXpNWkdHOGU0N0I3V1FEajBmWHFhLVc1bDRCTjVwcVpCTkE?oc=5",
+   "source": "蕃新聞",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T04:08:47+00:00"
+  },
+  {
+   "id": 179,
+   "title": "將軍澳昭信路爆鹹水管 水務署：爭取明晚完成工程",
+   "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQdGd1aTg4U2dZUUJXeVN4UDM5UklyTGt5Slkwc09MYWFKMnc0WXhMQVg1cFZia21uM2htZnBCN0JsOVpfUkZxYUdHcUo5ZEpvOU1pYzV2bzVqa0ZfdUp6aGpvVGxUM1FkVzg1bWU1US1KQnoyVGVZUWllNWpIdjVZcDcyeC1DVE4zTGllMUFaU1lPX2swYW5Ib0p0Q0RtU2RpVXMtRVhvb3ZOQTl6XzZoLXk3TFhRZG9nckd3R3N1MHg4SGJXaHVMeDZtRVJTaTMydXhWQ01neUM4NUswRzZQU1lNd0MtOGVrR3ZkRllxQmZaZE9zNXBMMHMzQ0lfVldBbWJzWkpwZzNPY3E1eUNFZlNtQ1d2clhEcFBaZ2dyb2R6SXVoY1pTM3lyVnZLVzJKWkZOSDVNTEJIN0JKaWNWZzc4UXlXY0Izdm91VUxzU0NRQQ?oc=5",
+   "source": "Yahoo",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T13:19:33+00:00"
+  },
+  {
+   "id": 180,
+   "title": "Fitness chain hacked exposing members' personal information",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd1NRM0VJaS1TOEp0d3dSYlQzb19Ra2psMWxjMzRUcG1tR0NhWEJOVlZGVFFyS3Roc1ZhUkl6VFdKcFhCTDBHU25hSHFaUTJnb3pUY2ptSnJ5SUR5VC1aT3NwbXpxdTFIYUpBN3ZsSzlRTmtJT2otaWFtTWs2N2M1TFVoSkdLRm1PeDFURg?oc=5",
+   "source": "TVB",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T13:33:00+00:00"
+  },
+  {
+   "id": 181,
+   "title": "國小世界盃女足16強出爐 誰都不願抽到水里",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBsdVJSc1BMV01oR1k3Tm5CQ2xtN2RXdW14MzFDbGxtQWJJSUZhNGUzZ0lSdGtkMFlpZ0g1RGR5RG9FREdPXzlJ0gFLQVVfeXFMUHVLT2pvTXAzLW5zM0NUaXJYVElVTW9IRm9IRmdLSzZZUVk4S2F0VnpNMlNKVTlNTVF1aDI5R2hJTkQzUHhGOTRDVVBj?oc=5",
+   "source": "三立新聞",
+   "tier": 3,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T11:15:55+00:00"
+  },
+  {
+   "id": 182,
+   "title": "上水警署男警員疑吞槍身亡",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNHk5LUpfemR4dkRrQ1BiWG1XLVBSbm16TzVGRzI3N1hCMkdXV3NaQXlnSnFEb1FPOFQ2dklVaVdyQkU5MUZ6ekV1eEQ3bDI0VVpuYzg3SmRWZTN6QzdYOXJ3MFBaTHU1UEVySnZSc1FxSlhhb1RvLVBHSzBfNEVFaUgwQjdvSUZxc1VKM0d0OFdtR05nZ3dvMHp3cW52a2dqR2RndGh1cWVpTmQtdG9uSmtzRDM1TkowRnRGcFJDeFFxemdLbU9Jdk1rVVN0dVZleVdzOW5rd042T2kzUzFRTDRXaw?oc=5",
+   "source": "Yahoo",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T08:16:38+00:00"
+  },
+  {
+   "id": 183,
+   "title": "英倫銀行擬下調英國銀行業資本要求 警告環球金融體系風險增加",
+   "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPaUZ6V29BTXppLUNzZG4yX3FTbUhQUC1UMXNWZlpxaFdRbFdQNUVGdElCaHdTVnZnRVNBT2hzOHEwTHJWMTNFbWF0bTh6bU0tbkZBWjc1RWMza3p1dFlzY1plQi1NSm0xMGVQM01LeWtaRmFCc2hiMllleXRoOVkzSnhsOFNFUHJCdlc0djlFc2dXSW54LWFrNDhLcUI5YVJvVnJTa0szYWhTMHdBRUk4ZnZYakZsZ0dvTzUyeFp0VGVFY1QyeU5hbTlRaV95Y2pmNjVLZ3I2Nk83enlzRzZyRzBJd296MHhwNHctcHBTa291ZXMwRzhySkR4V1VWVE1ZRVV3alZSTnRGLWZZMTB4dVR1WGhCa2M1UFFtemY4UGdGV2FHaWQwbHp1dDAtWEh1bTlMb0tlUldNQ0RPdG1UVVA0RHQzWlZFTWZsQ0t3aTBzdmF5a1BObGtqTEVuVmJlWUExWWJvUkIyWEVpbWs5czZHenZNMjIxZFVXT0UtTk0zVkliaS12YWh2enh4Y3g3b0J1Y2tCUQ?oc=5",
+   "source": "TVB",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T16:16:00+00:00"
+  },
+  {
+   "id": 184,
+   "title": "審計署批消委會多項指標連年失守 處理投訴最長拖近40個月 酬酢超支 公幹多發津貼",
+   "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQdGZBTmpIX2RCdEJ2TGFfWWlZYng1NkhaZmpOTGx0ZTNVSnZxdlRVY29ndkJFY2ZZQ1p0R2JwSWJNajFOaVRPYWV4V0ZIRGxFVXZFdU1PdF8zTlNvMWxCbEptS0pGN2lkRll5bHdtZzZxcGUtWVU5NTJ5MXlCTUwwQndRRVNCRjJSd3kxdGt6SzI2R08wcXBhSHo0YXk1RHlFMnpOUVZLMkZwT2NITTllTlg0amowZlpnNEJ5UHk0NVpOMk1DMWx4QkFCMXk3SThHZjVoLXloOFNabjZOc1JDZ3MzUW5YM0JMdzNkUmY3NWJsVGtwRW1STnlScnFGY0dJNmYzQ3B1cnZyYjAxbEE2bHRoTTdTY1FQdWpIam1adDZtLVhFZTUxZ3RjV0R6SWFoVEQ4YkwxeFF0UGVjU1Z1NWQtdFp3aEt3LVR3VU1EWm1ZRFFGcWtwNDA4WE5WWmZ4R2Jodzc2cWxES0paMGhWZFVHdHNNMDZTUHQ3YnRiNTdRcy0zVENSSHFmZHozUl9oVnpZdlhncnZoZFM2Vk5Bdms2bWVxTDFfQWRVTFJaMVpGYUtlZW9WQmo4R3RJcTNJS2s0d2FlQTMtN2dfYkxPb1E5b1htSHdjSXFWbVBiRHVRX1ZORlZVdFA1OXR0RDQtZFM2SlpGSGNyZFA4ZHc?oc=5",
+   "source": "Yahoo",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T20:00:00+00:00"
+  },
+  {
+   "id": 185,
+   "title": "泰國曼谷一間煉油廠爆炸引起大火 至少9傷當中3人危殆",
+   "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOTUdFRWxDZjhXa2pvd3hpaDk0ckxuVjJ0T2ZEdGpFekpOZzVFaDYtLV9pOVp5aVZ3d09qcnYzeE5idFhneExuekhOSmdMMURac09LeXhmOGhGRkNyZzU3Y2JaNXVlM2duWDAzLW5WeTczMnN4Mm5TZGZ6YTJNbGNueXpieEFBX09DX043TkNWaGlwNTFGXzViT2hvMHZSSTYtQ0ZCYUFtczZYOVVHQ2dSaWZlS0hGMVpENXRUWEFQWFRiREZkbXBTeDBLTlJoN0d2eThLM3ByMUk2bFVaT3NDQTlwQkNyYVlmVnZqZXV0bDFzdmFmUnI3SFQ1Z1hWYXROM2VfR0pVMEszX1M2Rnh5dFhWcHdEY0gxNXViaG54NExaX18xcl9JdzhpTG1ETzhVUTZ4SHJHOGE5NzI2ejhwVjZWcFZtcjd1VEhQbDZKeW85OHRsUjdjeFJOQW5YUQ?oc=5",
+   "source": "TVB",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T15:40:00+00:00"
+  },
+  {
+   "id": 186,
+   "title": "食環署今年捕獲逾14萬隻老鼠 較去年同期增加約10%",
+   "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQbWozZ2Naa0JtQ091V3BtbTZlVlcyYThHXzJRU2pTY291YVk4aHh5ZWdWbFN4LVpCV0VBZ1JWQ3lhUkZjUUc1WG5kanh0ZHpNUEpPUGpCQ2NJN2d2X3M1NXRMOFduQzdobGpnU2Jpb3o0LWtiZjBFRXl0dFQtUWcxSThxTEY2NU85WTcwdFpmN2tveWhhYXNmQ19sTDlleTJCYThCQmE3dHgxaDZPYldEODU5Y3NQYkFBeExycGlxckxyY253N2xORWlUUlJSS1o4WEx2dGJPb1FxWFBJQTdycERKU1F6VFNsTkt3b0dtdFBvVVlMQ1BkVEdmekdSQ2J5bnEtdnY0T3NsZWVITDlUdEJBRy1WRGp5Y2pudWVOY3E5RDUxNTBBbVR0QmxRUHhaeTdmVGRLbzVKSF9zQ29raUJ1bXFVRFFCZXc?oc=5",
+   "source": "Yahoo",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-25T13:31:32+00:00"
+  },
+  {
+   "id": 187,
+   "title": "將軍澳有鹹水管爆裂 水務署正全力維修爭取周五晚十時前完成",
+   "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPU1RvMmNfbUlRWWoyZzI5LTctb0RrNHdHaGpTZ2hlVUI0enFpX0lDUlIwWkN6eThpbkd0VTI3SlR5bko2YTZlUlpFcG13NUF4SUlNMXhDNTJ1UVUxTGx6bl9UbG1BRndpMTRMcjhDODlBQ3BfaTNjRkw4aTVmaVNfaXZ6aWx6elg4VWVLaEZ2TTItcC1VeV8xZjhwODJZeVBRQ3F4Y3dkUm5QVTJGSGFCM0I4SllhYmpWME5WZDJ2M2VManVBZHFVcVFVQjR3UkItOFBXX0hiMXdjay1PRnFlV0E1THEzTzg3OVdoMExLcjVjdURsOGNweGhjaTdSRnRFeTV3MDF1dVQyRC1rdFFXTEYzWXVEVjNoUHBkVTNTcUY2MGVzTU9MWXptcS1WbndlY09vUUU4MG1DWU9LTFA3azBjcWxfLUFvNHJKQ05QaWZmX2o5QXZibU1pY1JUWXBXbnp6Ujc2RnBqMUtjS1RQTFVZVURsd3M3YXNHb3BBTDBFLUJBY0ZYNlpESQ?oc=5",
+   "source": "TVB",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T13:23:00+00:00"
+  },
+  {
+   "id": 188,
+   "title": "禁餵野鴿生效逾兩年 漁護署引入AI閉路電視及巡邏機械人助執法 不設人臉識別",
+   "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPbUlWU19JcWUzTzZlcUpKYTdYakhEVFRfU29aVk5jZ0t1LTduc3I0Sk92LV9SSkxRMENoTnhza0c0LTBuZk5wWTYyUW0xQlc1b0EwSHoxNnIxQU5hcVZjSzdyU1AyVlRDRHNVOHFlZ3YyWXhFR1NhZGNZMDAzMlpGSVhseXdVRjZIRThiX1dQWXFOVUtieHJMQUxLbi01WjMtR1hIVDBMOFJlMHpPbC1fRDVPUGp2R3Z1UDdGenBINkpfVGc4YjhQY0tqSVJTbVZaZ2lpdndIekc3RUpza2lvdkEtWlAzNW5KN0hfYUdBcnZBVTZySEpaWi0xLTJfMDF0LWJJRE8ta0FVaWxrRVVUaGo1NVM1VW5PeWlnMTFvQ1JSVTBHS19PcXhFT3hUQXMwVDVsSXpGUHpRTmVFTng3VjhZejBFSmFvaEJwcjV1SmxMVFBJQUZmbk1fMXljakc4TVE2NUtaVGwzNF9TUTZNZ3NuTkVaY3Y2TDhoMXRIaGZxQXloVHRUa1VnUHU5TDdSSmtacUo3S3psN0Vvdy0tLWxVZjZaem9WamxpZ1ZGNFFHMEVaWnc1b0pFcnhSWW04c3NRQ3RDbmNUck9VQmpwUjhHaVI0SFBrZDQ5V01iaFVISklwdG9VQjkzN0NrWXRU?oc=5",
+   "source": "Yahoo",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-23T09:16:24+00:00"
+  },
+  {
+   "id": 189,
+   "title": "Govt' to talk with Wang Fuk Court households who refuse buy-out offer",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTHdiNy1fSFo0eUhXM0pZSC1RYlhjS1BWa3UwY1IwTjhESmVWMXkzRU8zQlZLaGtvQlJLQ19Gc3h3ZXA2U2RnVTI4Q0pMb3AwZGMwUWZvbUlZY21SdDlxY0JicjFIU2NfWHRrelI3MFRLSUFtZlRuR1VUY1VDQXM4S0t3MDFwUXVjTTZOR2hxeC0ydw?oc=5",
+   "source": "TVB",
+   "tier": 4,
+   "region_hint": "taiwan",
+   "published": "2026-11-26T11:21:00+00:00"
+  },
+  {
+   "id": 190,
+   "title": "從松井秀喜到佐藤輝明！盤點日職MVP旅美傳奇 | 我只想寫寫體育",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iRzJEOEpDQ2ZtaTlXVTh3bUlmR0FFVXdaeEhhUE1WbURjVm5JX1NHRlpkemNWNTJ1MXpMRnF5QXBaNnpZUW5fcUxPTGFZMW9JMDFaenVB?oc=5",
+   "source": "LINE TODAY",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-26T06:04:57+00:00"
+  },
+  {
+   "id": 191,
+   "title": "澎湖講美少棒獲15萬元捐助 小球員向舊球衣、球具致謝",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81NzFfRmVrb0hHcm1XanQxanRXYVp0Y0hybGZJMXB4YzZBb3lpY3dHbS02OG52LWRVZDdRcmI0RHctNDB6bzdZaG5PV2ZpVTZSRnN5ODFZTWtHZ1RpaE0yNdIBZkFVX3lxTE9QZkpzdC10dTRNbTJOY2tKM2YtSnZ1a2EzZ1JSOWdRZE05TW5pUlpPalpCTnBTZURfaWlUNEtyLVVGTHViaHJjcGVUTS1ueDhWcW1MNFdxaGR0LXgtODkwcFFXNk9zZw?oc=5",
+   "source": "自由時報",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-26T09:29:00+00:00"
+  },
+  {
+   "id": 192,
+   "title": "MLB(影)／跳過日職選秀直接挑戰大聯盟！洋基小聯盟約要網羅22歲日本火球投手",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OTGZRV1JKTFBMTDdFZnBRRmNmdUJDWEFmemhIekl3MEJUVHhQVTlad1ZnUmhHSXJUcEF2MFhLN0VHTF9HRFVTb1dVOXFCbzRUUWpEZmpGUzVGRFVDVVFVbTF1MA?oc=5",
+   "source": "民視運動網",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-25T03:42:00+00:00"
+  },
+  {
+   "id": 193,
+   "title": "佐藤輝明旅美落腳何處？12名大聯盟高層預測 費城人獲最多票",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xMWkzM0xpS0p4alBZMmY4X3hBTnNNUkVJSHI3aFdXeFpmTkloSEdtSVEwMzFVeHJtUW5qcDNaUllvc2gyMEJzYVBBYmRkNm9R0gFPQVVfeXFMT3FjTWdDZFlNdVV2VEtQN1E2QUxtM2ZPRkthNTRnNlRpTm5JTW1kd3pBSTR1MldBTFRDbFdmUjg0RERTeTZQOUFKMlpRZ0VRaw?oc=5",
+   "source": "ETtoday",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-24T03:04:00+00:00"
+  },
+  {
+   "id": 194,
+   "title": "MLB／史庫柏 Tarik Skubal 9年4.5億美元加盟大都會！千賀滉大親口喊拚重返先發！",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GZVZGVHFnNFFaNElQSHdYZHN3NmhMNVFFLXFfRFUzM3ByR0JhYkUxVEtOTUV4VDhtYVg0RXBZMjY1YWlfMFkxYks3c1o?oc=5",
+   "source": "JUKSY 街星",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-24T15:22:24+00:00"
+  },
+  {
+   "id": 195,
+   "title": "工研院攜手資策會推AI智慧高球 進駐商圈拓展運動商機 | 運動休旅 | 商情",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56VEkxdmNLWmVWQVNEczh0cmNrUjJZaUF5Sk1LRDBvRVNhNV83SE4wNWk2Z0M3VG5NNUlFOWZyN3FQM0x0Mlg4XzNXbXI5Y1RFNExiNXpzajNaQQ?oc=5",
+   "source": "聯合報",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-25T08:01:25+00:00"
+  },
+  {
+   "id": 196,
+   "title": "MLB》佐藤輝明6年破億美元合約加盟小熊 刷新日本野手旅美紀錄",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnBKU2tJd1JtdHVBZjFUcm5JM0w3SlRxXzRRNGg3Mlg4Zm11XzVNbERiVEk2R0UtSGpIR0JKaGhxX3hrZnZ5ZVMydEI0QlQ2VE82MjF4LWhyN3c3VW1TajdxWEt2X2JoODJrYnVUREZTbVNZLS1BMjMtTkJiVUJ6WkxVeV9FZw?oc=5",
+   "source": "緯來新聞網",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-24T15:52:00+00:00"
+  },
+  {
+   "id": 197,
+   "title": "工研院x資策會x喬思齊科技 AI智慧高球進駐商圈拓展運動科技商機",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BWk80YnY0SHBtTnduWTltb0pIODFKYk9WRnNNa3FhaGl3YXhCZmJtRHBVQ3YzLTRIWjFYOENzNUgzZzBHMmdlS3dscy1xWUtPZHppUlNZdw?oc=5",
+   "source": "焦點時報",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-25T13:50:25+00:00"
+  },
+  {
+   "id": 198,
+   "title": "鄧愷威橫掃球恩師驚傳離隊！太空人16年投手教練米勒明年不回歸 曾效力中職La new熊",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YSm9GUjV3TmVGVWN6dW1CUXFvclRWekNOOEVMZVpGU3RreTdtcmtwOEZ5dnp3TVdfSC1sekczMFBndmxNSHZaTXRGeGRleDN0QW5Ka3FDUDFaWHhBS3l5d1hqblo4dDU4eFIwOVlqc3B0U3pPV2NNUmpfcmZwcG8?oc=5",
+   "source": "moonvoke.com",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-24T03:24:13+00:00"
+  },
+  {
+   "id": 199,
+   "title": "工研院奪3項百大研發獎 AI智慧高球進駐商圈",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jem9BMXAwbzBTYS1MWm1qTVVFOTlVVVduRTdNcXRndjlFOExFVHZhRnZYX3VMYUhaRU44dTg1MlJxeUxRVWc2a3pQT2lwWXNCWnc?oc=5",
+   "source": "蕃新聞",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-25T08:44:32+00:00"
+  },
+  {
+   "id": 200,
+   "title": "柔情怪力男1／李灝宇返台甜蜜同框女友 超貼心「紳士舉動」曝光",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVnVZM0UwWU5QdjRUZ1d5ZnlEcGllYko2Z01PZXBOSlQxUDlBTlpVTWhwalNDbzQtOFNJWnFBNEtpWUdJZ3A2ZTE2aWJNekg3Z0pTUUVkckF6LUFCbWNPajNoQk1MUGhCbzh5Tk5NYk1QU0sxQ1lSbGd2NXFRTHl0d2ZFNEVxQk5ZQmRfTU1SRE9Wdw?oc=5",
+   "source": "PChome Online 新聞",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-23T22:00:00+00:00"
+  },
+  {
+   "id": 201,
+   "title": "柔情怪力男1／李灝宇返台甜蜜同框女友 超貼心「紳士舉動」曝光 | 娛樂 | CTWANT",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iVDd4c1J6LXEtR05iUkpJRzVnR2JRdVlpSVpDS2dkSk9TOHY0YmdFc0JCNHdrQTIzRG9QM19RWXJ3YW9pQkVDbmhEUm9rYnVvVWpXYtIBVEFVX3lxTE9iVDd4c1J6LXEtR05iUkpJRzVnR2JRdVlpSVpDS2dkSk9TOHY0YmdFc0JCNHdrQTIzRG9QM19RWXJ3YW9pQkVDbmhEUm9rYnVvVWpXYg?oc=5",
+   "source": "CTWANT",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-23T22:00:00+00:00"
+  },
+  {
+   "id": 202,
+   "title": "史庫柏9年4.5億美元降臨大都會！ 千賀滉大力拚重返先發親吐決心",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yTm9LYzZnVlFraVdLS3Q3b0p2TklieEZSU3VnV2x2dmYtWnJWU1FMZmRTUHpFYzJRU3RheWphSDA3STUxbzFoTXlyLXEyUldy0gFPQVVfeXFMTkFSMXc1NWlXSWFXbE9FcGlqdzktVkUtdXVrYnktTWl1YnowNnhGaEF5d0lVclBXMXl2MXFodmhLbEFBZ09qY1RZSzhfQ1lKVQ?oc=5",
+   "source": "ETtoday",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-23T06:45:00+00:00"
+  },
+  {
+   "id": 203,
+   "title": "AI智慧高球進駐商圈！工研院攜手資策會、喬思齊科技 拓展運動科技商機",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TQWtjR0lKSGtaazZvOUhEdS0wUmVjaTdZaXJTMmVyZ0pfdHAyTVVOV2paVS14Y0JZS1dDSXZoOTNsSEtKV1REd0xEQUQzWHVY0gFWQVVfeXFMTldpci12S3VpcnE0ZVhLQk0wZENaS0FTZHBZS0pHT1lJendjeXBFeWFuQjRtZjVaU3ZiRjVuZUc2d0k2d3E2NEdjUEJ0dmNYbUE0WkVhc1E?oc=5",
+   "source": "聯合報",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-25T07:43:11+00:00"
+  },
+  {
+   "id": 204,
+   "title": "MLB／鄧愷威橫掃球推手米勒 Josh Miller 確定離開太空人！16年投手教練曾打過中職",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92RmtZVktqWEZncVEzdjlyRkR3cTFwaTlNbVotdGN1T292VVJmUS1pclYzeDhCdWc0UnJldnlBUlJYNUhPQkJUVDRHeTg?oc=5",
+   "source": "JUKSY 街星",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-24T06:03:53+00:00"
+  },
+  {
+   "id": 205,
+   "title": "內野高飛球是什麼？Infield Fly規則、 成立條件與跑者該不該跑一次看懂",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91Wm4zYlhwWTJqczZpWUYyRG5fdXA2T00tSjhxUzZvVC02cXYxbzJRXzhkcVROUVFrZHRBajhYckVsdXZmLVlnV0s5d19FTUFUYzJR?oc=5",
+   "source": "https://clutchgtime.com/",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-26T14:25:16+00:00"
+  },
+  {
+   "id": 206,
+   "title": "日職》張乙安與許宸緯台灣記者會12月1日舉行！ 歐力士監督岸田護將來台- 棒球",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaS2NJLXIxQnNTMW5leHdnTnU5MHl1QktBWnV4VzRPbEV2WDMxdTB5ZUVBNGZuZkFIQ1hMTTFEMXYtRnVVeVE?oc=5",
+   "source": "TSNA體育新聞團隊",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-25T11:24:57+00:00"
+  },
+  {
+   "id": 207,
+   "title": "歷史上的今天》奇蹟之日！從賽前不被看好到扳倒日本，台灣寫下 12 強賽史最不可思議的冠軍故事！",
+   "link": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxQWG9rQ296M0xRMVdKdWVrS0tfR2p1a1dUaUlFWExSNmhYanVxaTVrLUtsN1d6MWxidDNwUUpCNXZZdURlakFoZTI2RFFmaURZZTBEd0lkc3R4ZFhSa3VrNENuRzAyLXU3RFJja0dUUW1FYl9GczA0LVAxSHZ3cXpnUUJibVF6dnhIeFNqQ0s4QjZBRko2bGV4c0s4X1VkMmFEQmRvdGFVYXlJQVYxV19pU2FZQ0xMXzU2d2NEWDA1Q09EdElWOE83VEJady1oZ1lHMzRKdzE3d3VwQVk5R2JsM3A5dUlaRjRxTlRmaGE5TTMtZ3pRNHVlWkRGT0JWalhyejQ3ZjhsV09CWkNPby1neU8za2VJV2xzZlV0ZExOLVVGcWxXYUEyOEI2cXd3eml0c2RTSzUtaVNoOGhZM0xtZEFkbFphMEhpSUpSaGEtQnVIbkNTbzlGaGtON3ZEOFlZSmFJMzBOanVuYmpoUjV3eHhDMFJyTmtBakNfSWZJNHBEaS11Tld0RndRaGpFRk9BVEp1Vm1yX3FSa1RfV1RNMVlVTkNaWVFKdlF5V3dNWE9wNFJSZU9xWUhqcF9PZHdVcjVOeUlYb0RzZkRLaGlZbGQ0YUx3dGRpSzBzYVI2WWVpcWJYVUdMQVo0T0pibzV2Q3JpYzQ5YXR1dUU5VDVQLXBvQjdMNmhyV2FPS1ZvQ1luTWRGT29FUEhob3FXNi1nYTBBVlBjT3BMSzFJX21NTncyWlpSd2gzbjRYS2NtTWRpR0lZSU5QWUE1b285Y19lLUZzZk1BcXNjSjVRcWc?oc=5",
+   "source": "DAZN",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-24T07:57:53+00:00"
+  },
+  {
+   "id": 208,
+   "title": "日職(影)／陽岱鋼守備有多強？「傳說級美技」畫面再瘋傳！大谷翔平也嗨翻掀網熱議",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54X3drd1o4M1RGT3FTa000STJfU3I3QnpleGpsLXZRY3k2MFdDX0dWX3d6eTU0NWJsc0JPallTY3FTRXVKSkhManN2YzBJY2x0OVBhWk9aZ0lhcnBrZVpCalgwZw?oc=5",
+   "source": "民視運動網",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-26T06:23:00+00:00"
+  },
+  {
+   "id": 209,
+   "title": "棒球》吳祉恩首度赴日冬盟 盼提升球速 向日本投手學習牽制與看管跑者",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mLWpnN1pYUnBBQWhFdldVbWEwZmdLajR1bVZGVWd4U1BHckJEUFhYOTA0TVdtRzhCc0FVOW9lTktQb2s2eTNEQmxn?oc=5",
+   "source": "Vamos sports 翊起運動",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-25T08:28:57+00:00"
+  },
+  {
+   "id": 210,
+   "title": "盜壘成功率怎麼算？公式、聯盟平均與2023 年規則改變後盜壘為什麼變多",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQbDhSQjkyc3h4RHZkcURvZ1BaVHFzRWxkbW5mbUFyakJxUUJONTJUdWVObkg5OWVMRVZzZGZsU2laNlkxa2dpeGg3TVJBTkt6MzN4NjV6TmQ0Y00?oc=5",
+   "source": "https://clutchgtime.com/",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-26T14:24:47+00:00"
+  },
+  {
+   "id": 211,
+   "title": "紅林弘太郎請吃燒肉！張乙安歐力士秋訓初體驗 學日文拚旅日舞台",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00M1lmRmNaLVVnT19tNG9BV2RyWmJTaXliSEs2UW1uZVlXcDB5d2p6WjhrN1ZrUE54aUJfVHo0RnJ4VlJxMGJlck02dGNjUnNq0gFPQVVfeXFMUFRmYm5ldTdLenVVR1hKX2d1UkhHTG5RblBTc25mOG5JdzFNOTlEdzZ1SHFyRnJoZkk4VE9wTVlPMDUtZWJTU0tSTWU4clI3UQ?oc=5",
+   "source": "ETtoday",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-25T06:41:00+00:00"
+  },
+  {
+   "id": 212,
+   "title": "MLB史上最大合約排行｜前17大合約、最高年薪與投手紀錄（2026更新）",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44TGl4Smt6MUFyYlRpQmk3dFpmcXZycGRBSWVxdGpxU1RvRVh3TEp3eGUtQ0p3V3RIbXdfaFZGTk5oY1FuWUo2akhwdjdBVmNYMWNkaHhiSV9BUQ?oc=5",
+   "source": "https://clutchgtime.com/",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-26T13:36:44+00:00"
+  },
+  {
+   "id": 213,
+   "title": "TPVL職排／「台日排球」不一樣？新竹可利工程師一条太嘉丸大讚台灣好手「一特點」",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yQ0NsUnRQVGNLZGRmMlFBeWRYSFFlZlBaZWVXcEN4dWpFa3QzQ1pxSk9kUHRpcjdaU1RZVTNOOFpIZE91YThMbXJXc29WVm1lNWxxdkZ5c0VucEtXWmptNXo0OA?oc=5",
+   "source": "民視運動網",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-24T10:03:00+00:00"
+  },
+  {
+   "id": 214,
+   "title": "鈴木誠也生涯成績總整理：MLB 官方歷年數據、日職紀錄與自由球員動向一次看（2022–2026）",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ub3ZJMkFzemg5WExBMTFLTVRwY3pTMDlIaGJZYzFCTTExOXQwZ2QxVnNGNFBuaGVueEduM2hwaW12NW9lclIwc2JEZG5pS2dOa3Fz?oc=5",
+   "source": "https://clutchgtime.com/",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-25T13:15:11+00:00"
+  },
+  {
+   "id": 215,
+   "title": "達比修有生涯成績總整理：MLB 官方歷年數據、日美通算與里程碑一次看（2012–2026）",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ha1NOYlZwbGo3S3N4VHNLRjExWVRhSzdTVno0dEhNd2JlZjN5bHNiRS1OZWlVTFpWZmxMcmp2VjE0T1VmQmNKNnhuT1Q?oc=5",
+   "source": "https://clutchgtime.com/",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-25T12:14:10+00:00"
+  },
+  {
+   "id": 216,
+   "title": "日職／DAZN力挺古林睿煬！12月12日公益球迷見面會限量100席",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iZmVlWnNRRkhYV3RhVmVDZXVfVThFWjdKVnRnOHBLTHZCcVh2OEZ6NlZtVWVFTnlQY1FZT1N2cHNONVpoOG9aRnhaYjY3bmdT0gFWQVVfeXFMTlVKQURMTFlQQ1B6M2tXWFhEaTdJSmhYa1R3NHR4allYM3dvOHlZNVNyYWZiNU5yWlROaTV3a2RwUVNsSG9FQXdIdldxakhib2N5M3pTWmc?oc=5",
+   "source": "聯合報",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-23T06:21:04+00:00"
+  },
+  {
+   "id": 217,
+   "title": "MLB》資方提案有利台灣球員！鄧愷威、李灝宇底薪將暴漲40％",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hLVg1cEs5bERGckF1VlkzcTBxOVJncXg1TEtHSE0zQk1JbjBWMkVzcXdqdzF2cGFxLTR0Sk5ic3hVWVpIZTNRNFhDd1RqYWhhX3NRRkNzb3JQVkw5THctbkNsQWtxVEctelNKeGVn?oc=5",
+   "source": "中時",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-24T01:30:30+00:00"
+  },
+  {
+   "id": 218,
+   "title": "MLB／陳偉殷宣布出書！29篇自述回顧美日96勝，12月15日出版！",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uYktIUVN2cnZtYkNmS0I3T1JDMU1SRFUxSV95V2JfVlg1VUVpMUp5a3k2bFVWTGF5dnBlOE96UGNpRHpJOVVVbVNUcWs?oc=5",
+   "source": "JUKSY 街星",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-26T21:09:10+00:00"
+  },
+  {
+   "id": 219,
+   "title": "日職》巨人隊97號就是一流選手！ 井上溫大獲得美津濃贊助- 棒球",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Zazk2U2JlYVJEcWk0c1lBMF9Sc2VZZVlKM3dDS2FZdnJuVW5TN0FwWXQ4VkJvQmY5czNBeDRfamJLcnJvTHc?oc=5",
+   "source": "TSNA體育新聞團隊",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-25T02:35:55+00:00"
+  },
+  {
+   "id": 220,
+   "title": "亞洲入札球星誰未簽約？曾峻岳、伊藤大海、盧施煥趕MLB封館死線",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HbTcwaF9hTTZySGt1OXJFSU54MmpGM3ZHb2NQOFMwZmxzV0thLUlydkVWVldFNmVKeU5fZVBzQzh1RVFidm80M0NIbU5DbFZOdXfSAVJBVV95cUxPR203MGhfYU02ckhrdTlyRUlOeDJqRjN2R29jUDhTMGZsc1dLYS1JcnZFVlZXRTZlSnlOX2VQc0M4dUVRYnZvNDNDSG1OQ2xWTnV3?oc=5",
+   "source": "NOWnews今日新聞",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-26T05:42:41+00:00"
+  },
+  {
+   "id": 221,
+   "title": "12強》力拚晉級門票！中國隊26人名單出爐 他曾砲轟台灣旅外強投",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nT2w1djVRS2ZOS3A3NW5za09Gd1FRVk9IcE9wMDl3ZnpUUlVfQjAtMDlWNG1XRkNhOHFCTHdTMkdqVUxDUlk2U29HMHdnR0JGelNiWWQtR3Uzd3VfejVybtIBZkFVX3lxTE5zcFNIaGdoXzlKRkVxV2c5ZHlRczQwb2Y5ZjZ4dVAxcy1QYmtlT1lfSzV5cjZUdkFmMnpsZGJ1Q25qenk2Q1lzYmRSSmduWEJFMTJIeUxpNlR4bFI0SWJ0NFA0VWVVZw?oc=5",
+   "source": "自由時報",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-26T01:04:00+00:00"
+  },
+  {
+   "id": 222,
+   "title": "亞運／台灣棒球出戰中國球迷穿「Team Taiwan」遭阻引發衝突| 運動",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4ZGk5bkFhaGE3dXhCN1o1b1phNzR0MVliMDh4NE5nZUE0NzlFMHlPeUFOZjJiQ2ktM1hkdmJQS3M0REdUeEt4ZQ?oc=5",
+   "source": "三立新聞",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-25T01:31:35+00:00"
+  },
+  {
+   "id": 223,
+   "title": "老虎捧大約簽下金河成 台韓內野守備大對決李灝宇、鄭宗哲拼開季 | 太報",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpaFVYa19uMmcxOWpvZVY5Q1Naazd0QjkxbkRFQU1rMFJuQ2xKcVFmMExXN1VLR0o1V0lNQW5DeG1yalpLd3JSU2FzTm9uZGdxODZvWVdn?oc=5",
+   "source": "LINE TODAY",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-25T02:31:05+00:00"
+  },
+  {
+   "id": 224,
+   "title": "郭彬明年旅美機率99％？響尾蛇球探點出2大課題",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VZUpzdUJtRy1uVkxmZTJKYW5SUHNDQ0JEUjA2S05rcExLNk45MHp4NlV1V2xxdUdheHk3M2xZZFJIU0J3ZDl1NkhySUhLZVdnTzF6YXN3eDUyQlp5dFFFUmpkNk7SAWhBVV95cUxPOWNpdWpySHNibzQ5THJqTnhpaDQ4bml0SGM5MHN6WWQwVUw1QWxBd0dSSWNzTXZHQURiSUFFUlYzbGpfY1dSNTVnTDJBeTNaZ2ZpakNIajdDa1ZjVjA0UmFGamd4dkZFWA?oc=5",
+   "source": "鏡週刊",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-23T04:22:00+00:00"
+  },
+  {
+   "id": 225,
+   "title": "籃球／女籃國手黃湘婷旅外 加盟韓國WKBL新韓銀行",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XSnFEN0p2Z0luYk5XNUxxME1nV0hJdnE2a2xtUWItaS1wbjdZaUZfNEo3UERsMVJTajQ0cTZOckdfcW1hZ2I5UNIBTEFVX3lxTFB3WjRFc2p6TXJOV29EdnRfdmloc25yREFkbXg3bkZLX2s5RmdCWEdEZUYwNXZCOVhOUjJjM2lib282a1J6OVdKZVpWX3A?oc=5",
+   "source": "三立新聞",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-25T07:54:28+00:00"
+  },
+  {
+   "id": 226,
+   "title": "王建民生涯成績總整理：MLB 官方歷年數據、19 勝紀錄與復出之路一次看（2005–2016）",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42UzM5dmIyRTBuODFlZVVZMlF0amdsOFJjalNCdHF3enBoT3MyeEItcFJnUko0VjlBQmdLMGdYb3drVkVFR0wtZVNwdzVaVkIxa3J4dE5kdw?oc=5",
+   "source": "https://clutchgtime.com/",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-25T12:17:26+00:00"
+  },
+  {
+   "id": 227,
+   "title": "棒球／吳祉恩拚旅外先到日本冬盟練功挑戰不同年齡打者| 棒球 | 運動",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uMDVoY29PMnZsanZ1UUlsTGp2Qy04dk1QbUM5YXpScWdMYkpfRkRTWjVXSkdfVUxNMFo2T0x2MTVBeGVkdUljRWlqYzRVM1RM?oc=5",
+   "source": "聯合報",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-23T04:02:17+00:00"
+  },
+  {
+   "id": 228,
+   "title": "山本由伸生涯成績總整理：MLB 官方歷年數據、日職紀錄與獎項一次看（2024–2026）",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjaWZkRW5sVkhiMW1fSmh3Y0s2NjJiTmpYSWFma2FXVURhcW92R3Vvc1hGUjNlT2lmVDRNMWEwNXhEalVreWZxZDZqbmFmTnpwRFFzNm1mZ3lYMTA?oc=5",
+   "source": "https://clutchgtime.com/",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-25T12:08:40+00:00"
+  },
+  {
+   "id": 229,
+   "title": "MLB》老虎精選2026年10大精彩好球！李灝宇台灣首見紀錄之役上榜",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55blZISnYta2Iwa3N1SEVmODE2aE1RUXdWQy11bjFwaVZpY2hjbUUteFZ6a3M5YmxHa05IMHlCYmR1NlJPeWUtMDEtRWR6NEVsZWpyOFNNX2JvbmFOblJlQtIBZkFVX3lxTE9manN1NWtqZDRBUDNNR1AxTUJOR1hKbUlMci1YLVdDZE1LRi1VQ0NHcG8xdi1HSWtjT1liQ1dBZE51YzFFOXVlN0toaHhUMHd6ZzA1dEZ5alBCV1hKN19IbXZDU2dOUQ?oc=5",
+   "source": "自由時報",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-25T00:51:00+00:00"
+  },
+  {
+   "id": 230,
+   "title": "大聯盟擬推30歲提前成自由球員 李灝宇、鄧愷威誰能搶先吃紅利？",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZZHpYZjJoR3B5TnZuUFBiWkxBOWdfaFc5X18wNEt2UDBvalRPVEFtZVgzMGhDamdvZWpOM2F1amFkR1lSb3JiNW5jeXBKRmN1U2fSAVJBVV95cUxPWWR6WGYyaEdweU52blBQYlpMQTlnX2hXOV9fMDRLdlAwb2pUT1RBbWVYMzBoQ2pnb2VqTjNhdWphZEdZUm9yYjVuY3lwSkZjdVNn?oc=5",
+   "source": "NOWnews今日新聞",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-23T23:54:37+00:00"
+  },
+  {
+   "id": 231,
+   "title": "MLB(影)／「台灣怪力男」李灝宇敲長打振臂怒吼超帥！獲選老虎本季10大精彩好球",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VcjlNYlJBUVRKVURGbDBqLUhhUlA3VjdZWDBPMkFUNTYwVVhrbmNBNnpUQm5DRTl3QjJrNzk4d3VEVktjMmJzaDh0d3FGc216TDRwNmZaMHkyNnJPU0lIOWlkQQ?oc=5",
+   "source": "民視運動網",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-25T01:55:00+00:00"
+  },
+  {
+   "id": 232,
+   "title": "雲林鳳梨葉纖維循環大聯盟 打造全循環產業鏈 | 台灣生活新聞",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tMTh1aTlGTkZnaTBOZjQ3eHNuci14X0hicnM2MXJWM042OThrdkJVX0lBZkVfM1Z6Nm12VVZPQUI4MDU3dzZpWVZkTWhRaDAyQ01jejd3?oc=5",
+   "source": "LINE TODAY",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-24T11:10:07+00:00"
+  },
+  {
+   "id": 233,
+   "title": "MLB》曾來台打中職！台灣強投鄧愷威橫掃球的背後功臣 突驚傳離隊",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YQzlFMmxOdDhmLWg2RktSOEx4MzZlYjRsZEJIM2NQNnNxSjZKLU9jejdObHRNZTlva1NsSDQxWmdfUlFDQ25haHlzb2twR1FDNjNuVDNqYlRja25SWUNsY9IBZkFVX3lxTE14amRJTUREWkg0V0otZWMtdE9xS1VUNXJPal9qLTZvTUtvbnhfandubkExM3BQYUo4MTZVRDZLN1dELWpwNVpUazZHU3JDVVl2OTVQTW1IczItLTlvNTRIcFZiU0tzQQ?oc=5",
+   "source": "自由時報",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-24T00:14:00+00:00"
+  },
+  {
+   "id": 234,
+   "title": "李灝宇寫台灣第一人歷史！入選MLB年度世界明星隊 與大谷翔平同列 | 太報",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTzkxN3dtTU5mWGZCekZVUHZYSXNabTNzUHpydUliZW1KbkZYUkd3RHNudU56Qno4TlB6SFVCTlBIWE1UeTYwNml3YVMtRngtbTNWeldB?oc=5",
+   "source": "LINE TODAY",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-23T08:00:00+00:00"
+  },
+  {
+   "id": 235,
+   "title": "與大谷翔平齊名同隊！李灝宇入選大聯盟「年度世界明星隊」成台灣史上第1人 | 民視新聞網",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM05LUlE5M2RXaHVGN2xnTFFTbG1RRkxvV0lrVWNpYU1lOTBXRzR5MDRUc0pjVFpJaC1Cd1pHVHdkbUVUSWFmX1NQc096ZjlDbVBuRmQ1RWdsWlc3WTJFYmYxcGJYenJrZUJObUhOVWlUMmhsX2NoWE5PNVhZQ0Jkcmk1Ym1kS0k5?oc=5",
+   "source": "LINE TODAY",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-23T08:00:00+00:00"
+  },
+  {
+   "id": 236,
+   "title": "【日職】亞冠賽和日本大賽的英雄，正木智也有可能去大聯盟嗎？ ｜日本職棒",
+   "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQZjZhNE9ZakVBVDhTQlJuT1lvcnFiX2w1ajhxRFlMVDZYNGoxVTNZV192WFJsSjlVNG45cXdpblhpNXo5VmE5eWhvR0RlNWdfQ3ZuaEw1T2pMbzItekV1MjhsYmxIRWo5R0dlbVdqcFpMazJsZkVyeTc4TGoyWk1FMlk3dDRjSVZIUWRLdUNfNTQwZVlvazhfS0tCTGN6UEhsSmdjMkZQV0F4RmQ3a1FEM19qc3MydC1oWTQ1Mk5iZm1xTllXT2xWVk5KTkJRQmZKTUZjYTMzbVhza0RweVpwby03UGRRdC1wbTJ4RGcxSmxWZk9kQW1Mc3dBRDJ6SGtnaFZDcHB5SGgtVDlkN0ZqR0x6WjFwUG9rWTYyODh1c19xcTJ1SXdqQmFxdlhmVFhvTDZYUVZSRTRsc2lWd1pBWGtZRFM2ZzA2RlI2bS1VN3lHekhfQWNDRWloNHZIX3BCNk9BSGJTV2Vhbm54NHc2NHB5UzNvTjZxY3E4RHYxdVR6NC13VEI5ZDJsR2djY0xRVHFmNUR5eDEwaDdhVjVkaGI2MkYtc1hGZEhZNWgxZzRDVHh5MnlwQmwta1Z5T3VsNDdxNFNRd2J1MGRrU0Q2Y1luNV9EUVpXSnVray1NZHY?oc=5",
+   "source": "DAZN",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-26T07:40:39+00:00"
+  },
+  {
+   "id": 237,
+   "title": "MLB面臨封館倒數？12/2起大聯盟停擺，薪資上限吵什麼、 台將受何影響一次看懂",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05ZEl5TWZ6dERTQ095UURNMnJBQXVBbXQyOE9RMGowazR2LThWaXM1dXlBdzc5Y0FWek5vTVJjbVZfay1UQUFjQV9rajBydWlh?oc=5",
+   "source": "風傳媒",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-25T10:06:00+00:00"
+  },
+  {
+   "id": 238,
+   "title": "【日職】NPB 三冠王正式登陸大聯盟！佐藤輝明 6 年 1.2 億美元加盟小熊！｜日本職棒",
+   "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPSW5VMmZDQXBCRUpMbDUtMXI1LVBOUThfS2czWEpIUkpPNkt3QTlYaWpyU2xtRDBEeHVTQVF3bThWMzJqRnllMDhWdGFUQzd5Y3NmZi1WN3hIa1hJdHNybDc5ZG1hTmZLSlo2cFBobXVYTnFzSFJ5VmdMUHJyY29LYTNVZmtfNmozZ19lWXlXd09CdmJvMVRIMU9oajg0N1ZiWXRRYVc3amNWdjJzRzBraFFwYWhtVEpYdzFSZDBYaTJJWGZTdmR5aGZZZndzOTNsNUZMRDZ2a1R3WFdENzVDX1h6NUNzR292ckdIbUVRTDhYUmd0TV84emRDbkNYMUZsMlFJX055aHpMZHlpc3VYX3RDMXZ4U2ZuSm1yWGE5YkJXY21OMnlORUlia1I3bzdTV0EtaG44cTI3VWx2ODhqbEtIM1Vid3lueTVXWEZ1cE8tZHdMcmY4WEY4cEJLSnpkLTVFQllyZFQ2cmhHWGlQZTRDbWtnVklTN1hHcHVCMkY4Um10dTBNcmZZSURiMWMzS1pQZlo3VGVjUG1ueWJ1cVYxSWdwSThMVjBiWWRaa2lQZ19Ba0hzUzg5Q0pBbjBZMk9VWTdkOGhIS19RRE5Fak8ycEdmLVBkX0g1NmdsM1RHMkk?oc=5",
+   "source": "DAZN",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-25T09:42:42+00:00"
+  },
+  {
+   "id": 239,
+   "title": "MLB》台灣第1人！李灝宇入選世界年度最佳陣容 官網大讚：值得驕傲 | 自由電子報",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSEZvSTJhazVVLUxNeHpTUGV0TF9SdFVMQVZRS2RmSGs3QWNJQ1ZxQURyYUNLZmt6eWhaX1pTRkNLdUdQLTN5S2ZubW9wR3lnN0ZqYTNHQktsaUFYVV9wcUxaQVZGOVh3M05mdmcyM0NjbVRiX3hrc2lGdFVCMW1uRQ?oc=5",
+   "source": "LINE TODAY",
+   "tier": 4,
+   "region_hint": "overseas",
+   "published": "2026-11-23T16:29:04+00:00"
+  },
+  {
+   "id": 240,
+   "title": "MLB》曾來台灣打經典賽！113轟銀棒獎球星簽3.9億約 最新動向出爐",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44OVdENGdOcERJWmxLV2RPOEhva1lJdFR0bEkwRTlSaENaM3hFYnpxYTA1R29jUC1RWjlfM1BDMVlPVDlvVUR0WFFCTDJpSGhBYUNBQmg3bUJ0Y0hIYjJ4c9IBZkFVX3lxTFBJVjdHY0kwOGhRNVZJTWQ5em9SUE5FS051MXUxV0tVa1pUY2JXVFJSdjE4ZWV2TTI1X0EzSjY4UzJQbUFObzA4ZnFWM2dqYXdVdU44TjV2ekhBUk9rbXREN2Q1OXRUZw?oc=5",
+   "source": "自由時報",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-26T02:14:00+00:00"
+  },
+  {
+   "id": 241,
+   "title": "亞洲冬盟-11/25 台灣山林 VS 日職聯隊 全場精華",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNenU1cjVWTXdEVWhEMGxaQi01eWlMZ3pUVzh2aG0tYU9XaXpyZXZncVY2Q1NGdkpyT1hHUm5CcDhHbmdYTS1YZURuVGM2dWo1T1Q5NXpVYVpSbkZ0RUZGRjZycHFldlB0YjhSVmx0a3M1VkhCdGt1ZjdrSWNmMld3blVWdnRUUjdLRGJxbXRfWllJVUJqV1VoZDdjamRydVdlU1hQM1J5bVBoNGlrSEVtMGZjQWRwaHoyQzNtLUhzS1Q2dHFVa291S2Ridw?oc=5",
+   "source": "Yahoo Sports",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-25T13:10:38+00:00"
+  },
+  {
+   "id": 242,
+   "title": "MLB》李灝宇、鄭宗哲有全新競爭者！老虎1.6億簽下南韓金手套內野",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lTDkyQTk4aUh2aTNVTUxBSUg1V1VKMHY4ak9mQ1JIdFZuRDBSbFRXSzJKR0xKbVFWVFdYX3ZqU3NPbXBLTldlRFc3cnhFWHVnY25lVTZ0SFI1SlVVMENsZtIBZkFVX3lxTE1LSHpDbmFPM2xJaW00ZGhnX3JfTU5odElRc0t0RDV2NmxSbG1GUm9lZUhjeGEwYkpzYXRRXzFIVHQ1OHJLVnRoR05BbHczYlRkYlVsVlJEU3ZTbC1JLW5IZTRRa2NBdw?oc=5",
+   "source": "自由時報",
+   "tier": 3,
+   "region_hint": "overseas",
+   "published": "2026-11-24T23:15:00+00:00"
+  },
+  {
+   "id": 243,
+   "title": "推動運動平權！2026亞太天主教大學運動會適應路跑輔大登場",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaMmZVYVA3VGJVWXJyLWMxeWZYVi1SNVpVSlM2dkFaZGNuMXBvMDV1cEpQanQ1MmVWblFRYkJVZlJDcGR5LVF4b05uZmF6UExobkFSZWpn?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T07:03:51+00:00"
+  },
+  {
+   "id": 244,
+   "title": "郭婞淳主持運動員論壇盼選手拓展生涯視野並接軌國際| 運動",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93R0pGRUFpLWtpOVRfYkk0aE1iR0paUlVPUGdjRmM3SVZxVElCMGVVb2N2bUh3Yl9zQnA4N2NXTkE1Rm85bTM0Z0RzQmdIR2kzNDBGdHQ0X0ZsUlI1QXFn?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-24T06:12:00+00:00"
+  },
+  {
+   "id": 245,
+   "title": "2026 CYO CUP世界公開賽暨全國總決賽，翁章梁力挺舞蹈運動！嘉義縣代表隊全民運再奪金牌",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ucXl4VzJleWI0OWJvSHB2dDFBZDlMdjNJMHFEenpJX2FyVjl3MUNHblQtMHVOV0gxTEF5VGVScGluWWJxMGZBZ25vUFBCVzl3MTlzLWRR?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-23T09:19:31+00:00"
+  },
+  {
+   "id": 246,
+   "title": "從臺灣的研究出發，參與國際原住民族學術對話",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ONjRkLVRBY2pXNnpPZEFXVHNhVURnNF9NRzE2S2t0VUU5dWQzbWJYS05GRzNabWZYeEZTTFBjX2pzQ2Y3RHlWclhIdkM0MjBOaTVtaDJB?oc=5",
+   "source": "中央社",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-23T07:19:59+00:00"
+  },
+  {
+   "id": 247,
+   "title": "Caleb Williams' late TD to Rome Odunze gives Bears dramatic win over Lions",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUhQYzVvNU95ZEFIUjU5UzRrWk41eXdhcDE2djJLUXBjZU5ibzJnVmpwRlROWXhyVHBkR2JIS1RPWlZQcHhiYVVQdnUta2hGZXVNWXdwcUVzaVllbkV0akVaSWkxQWNaTElDeDFCT29iN25sMjZSSTRTN1hFOUdTbURwcVNmVzVYd0g1UVJlQm5vZUJncVpYbllVTnVwVEdmT0dtNA?oc=5",
+   "source": "ESPN",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T21:51:00+00:00"
+  },
+  {
+   "id": 248,
+   "title": "Europa League game halted amid police clashes over fans' Palestine banner",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT2FkaVdwZVhOOXJ4MzVxbnhBX0ZfWGp3U3ZaUkliUWdPR0otMzVvMDhYVDdkdjY2cmJtNk16QTJMMW1iQkhERFBibFY0OTZ3bHFLalloY1R0YXc2Mnp6TUE1YkpycUVSTEQwbUsyVDhiX05lX0RYVGZLbEtFODFUckxMejRCX21UQ0d0LXRiV0NVbmVMck1hWHF0b1ctTXczNkFyMEtxZHI?oc=5",
+   "source": "ESPN",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T20:18:00+00:00"
+  },
+  {
+   "id": 249,
+   "title": "USC vs. Utah State (Nov 26, 2026) Live Score",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX3pfYzgtVjR0TnJGcVpWWFM3cEFXbV9CMjJCOTNMRWVWUVNDbTA0MHUxMjV2c1Y0bnB1MzBXeE51eGFaTFBRUTgwM1UzTFZiSGY3ZWVESzN1UFl1Sm4wQWlMR1p1S1JLMU5Kb24xVXlKQXV3OVM4VEY4WEROUFFOalRaUG9qZnBtVjBj?oc=5",
+   "source": "ESPN",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T21:14:54+00:00"
+  },
+  {
+   "id": 250,
+   "title": "D.J. Jacobs decommits from Ohio State, sources say, making top DE available again",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnVOck1IbkdQZm5xVzF2VmJ2QUowQ1VHdG9lN0c0Um11ZTVEbFhMTWZJNWE4VENHZVR1SWZ0VzlHRjlEaEZtb0J4QkxYcndoczZvZVBGMlp4MGZGdjN0NFB3TmVqT2I2UmNzcl9tQW1ndndjZEtfMUNNZEZ0ZzFZVEpkb011bGNqMDdiWXNjS3NFWU1tQVlSYjhEelE1QWZa?oc=5",
+   "source": "ESPN",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T21:01:47+00:00"
+  },
+  {
+   "id": 251,
+   "title": "Bears TE Colston Loveland exits win over Lions with knee injury",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT2hVeFhybmdSWF8tdG1JM2dpQUFkNGcxMzNva2JadXVrSVZUcTFNSDBlbWlRQVJ0RFBFY2xuMlBuT1VjSXlmdHBMRlU4X0tfNHptdXBCOF9heEVWS3F4bldDY0VQSXVfMkQzY1RSeFY2SllMLVN5UEhfSGFoU3V3VHJWU2VKa0Z6NHp3UlJWS19QcGxlb1lMYkpB?oc=5",
+   "source": "ESPN",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T18:51:00+00:00"
+  },
+  {
+   "id": 252,
+   "title": "Devils defenseman Brenden Dillon suspended 4 games for illegal hit to the head",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVk4xZUxhSVZHd3l2T0RTXzB0NnNoMWZwMDcwMkplZ3A5NTdVLUxrc3k1MTBocFE4VFNsT0RPWHBQTTh3cnplSHVTeTE1aUg1ejdLS1FfN2RWVnpxenFvUXZyYjdONVhMSXpmaHRWXy1vNlhjTG1PMFZBX0ZySGRuYi0tUGJGdlZmYjhZamNpcmx1aC1hYnVFaC04VEc?oc=5",
+   "source": "ESPN",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T20:02:00+00:00"
+  },
+  {
+   "id": 253,
+   "title": "Steelers owner Art Rooney II 'disappointed' in Rodgers outcome, backs McCarthy",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORkFSYjdLQkU0YmFZcGIxYm5GOElWckxfUXo2dWNMTXBKdU5WT2RNYjFzZUZZSUEzSkROOTRyX3NEcm0zNkgxNTFUMmQzdjdRclJsM25DQVpKTWZZZXdyZGd5NVExcmh3c2JDT3RiNGtpLTFvZTEzdU02QkNMM1VmSXNJWmZYaFFXYjVnZHl6UlZWOHJjLTZYSlVWcw?oc=5",
+   "source": "ESPN",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T17:45:00+00:00"
+  },
+  {
+   "id": 254,
+   "title": "Brighton 4-0 Craiova (Nov 26, 2026) Final Score",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlNvaWI5UEVJc05jZE13RlV3WUw0djVydkdyMTJGUDJTZ2lGMlJxdFlXNkZ0d0hoMkJidE5Zbkg4dFNRMllfQUlLdkhRSmc3dFQtWFNhdzdJdjJXNFFhcTc1VlhaSnhabmhiVC1acDloOWRxNTJUZjBEbjNXak5MMVhBVTZvUmJnelY3ZXlJdV9GbUR0eXBYRjRoZw?oc=5",
+   "source": "ESPN",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T20:31:41+00:00"
+  },
+  {
+   "id": 255,
+   "title": "Charles Leclerc urges Ferrari to find 'solution' after clash with Lewis Hamilton",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVlrTGVKU1pLaS11NzF0ZnhIRmw3dTdMd1hFR21yUWY2RS1SRzMzWmxFcW9fdVV5ZHZFQmdtSFU3cVNZbGpVVTJqbFJ4Rm5tTVZJWGhfeVoxM1hoZy10Y2JmZEZucXdVRGRqemFOdDdzQ1V0NGtoY0hscEoyeEN2LU45MVpnNV83R0xmdTVzMl9FejVaX1pHdWlUbXJKbG5teXoyYXd2RTBVLS1tdFE?oc=5",
+   "source": "ESPN",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T16:35:00+00:00"
+  },
+  {
+   "id": 256,
+   "title": "USWNT's Coffey grateful for 'surreal' return for Women's World Cup qualifying",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1BFV0RwSTNHS2V4UUdNbWowRklCaGQ4d0hCRWhWZldmWmxkLXRzMTdQZWhJako1cl82dzZNRWY1QnFWQ1F3ZURDR0hUUVI5c3dRcXRrRGVaZzdpMHlocEc1bHhlLUlnVzBPUkw3VGpITFVWSTcyaWVWS21YTE9wUnNRN2NNem5UOWZtOGFTelVtS3BGQ0c4VG5kdFVSeUxMS3c4?oc=5",
+   "source": "ESPN",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T19:07:00+00:00"
+  },
+  {
+   "id": 257,
+   "title": "Liverpool are all smiles as Florian Wirtz, Alexander Isak start to click",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0hQODJCN18xVERDZEVBLWRmR2xGR0s3QnVGY0NMLXFSZE8wQlRqTktidTFXLVhfeDVMSXZZSnZjMHpMUHhHNkZJNUQyaDd0WlhNQ2dSRjZ2eG5OM0ZBMzFXTUNZSEdkekg2eFdlTURkYU5zclAtRHFpR0tiX2NMWHVINTBvUVl0MFI2NmtScUR1T1ptUWdTSG5OcWZUZw?oc=5",
+   "source": "ESPN",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T14:44:03+00:00"
+  },
+  {
+   "id": 258,
+   "title": "Betting Broncos-Steelers: How will Pittsburgh respond to stunning events?",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmVVNXExSFN1eUM4VDJ2RXNwNlZIVUdWc3dDaTlOWHdUWTFCSkN2M2VpSHdZLVIyQTM3ODdqVGZROWRhZ0dmdnZDeERzZmpCV0F0RUdESUZsZDBNalNFbGZvLWR3a0tCVDAybmhubFZVdWpncHhJM3ZfR0p5My03bnpMcmxGNEw2aUZxTGJtTWd5UUdRc2pJTnJfVHY1TjhFSnpOR2lZbmNZaGNwVnc?oc=5",
+   "source": "ESPN",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T19:55:00+00:00"
+  },
+  {
+   "id": 259,
+   "title": "Hannah Hidalgo becomes all-time leading scorer for Notre Dame women's hoops",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUElHeXk3MkFQUWZhR2lCZldTQlN5VGdOdjdnMEpiRmxJcDRhUWFLQXJ0V3FyTFk0TDRLWER1Z25yYXppbDlSMGVyeWxZQlRtLTdROHd5YW5lVXdSWG85d1hRWGFqc3BIZS1KSHQ4SnhoX2pNR3RXcnVZYjRtM3RJZ2FMaEZ6Qk9DMWZwN2ZWa3JqOVN5U0JDc01MaGpOb3NCRGtCeE5aa0xWU2NEQ2FfMW5UU2xPaDhaRnJHNGVRZl8?oc=5",
+   "source": "ESPN",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T19:29:25+00:00"
+  },
+  {
+   "id": 260,
+   "title": "South Carolina 80-73 Arizona State (Nov 26, 2026) Final Score",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0FNWjlJOGNKX3hFZnhtTjA4QTRBR0NMWld0RHZFS25wWHJBQTROV09jVmtZUWhXWGZnLTlBdThIaVlwVkMyMHE1ZS1jaDBwUFZydTBHRlRaNGtUSE5jLTNCeEJfcXprdVU3UDVmazNLYmRaZ3QwZ0VQN2xaV21OSHBCQ2l1Yk9pb2NLWURnZVJHa3puM3FxZTZ3?oc=5",
+   "source": "ESPN",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T21:43:25+00:00"
+  },
+  {
+   "id": 261,
+   "title": "FIFA hit by cyberattack as hackers gain access to personal and business data",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xaEhFSlhHN09LYXdIQ2FLLU4yYjhvbFV2U3N2Mk8yMl8wOVU2ejFjb2c4WTJzU0Y2NjlQdlBfUEFfWlNqbU5VN1dlbmxjYUFQaGhZVFBjUURpOGhJbjZJYW1maVo1UWMtRXh3YUZwdTlTbmc?oc=5",
+   "source": "ESPN",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T12:07:00+00:00"
+  },
+  {
+   "id": 262,
+   "title": "Italian double Olympic champion Brignone retires from sport",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdnIyc2VUS3cyNjM1bU9fVDZDZXlaQ3NwbFdnbEw1Z0dHN1ROZG1TcE1VZ09HelVGNzNEckczRGJGeTE2S2cxYXlwZ3NiTFlpZ0JfZ3NLWFZXZXlVd0wwdjI2QUJJOXNRempBWVc2c0VRZ1dTOVcyRkd0WDI2TmJjVlBDS0ZMRUR5LThydXpjUlQzZEFWTFFjTGVxU2hBQQ?oc=5",
+   "source": "Reuters",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T18:07:18+00:00"
+  },
+  {
+   "id": 263,
+   "title": "Fernandes shines on Sporting return as Man United held",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZjJ1ZGt1azQwUmJfRVBPMkZ0b1RZc24yczFYZWZZb0dhYWw5c29NNXJjZC1YdW1pbHN4TFRaanhvVUNMY20tdkFUT2pmT3ZfNXZvSDVqUkZUSGdVbmd4bUlzZG5aQ3U1dUc1N0JSaFdhbVZJVTB5TDFnOHJsaHNXZ05UeWktVkpzOVlURFZpdy1QdUxRY3ZJSmRaVXZoUEE?oc=5",
+   "source": "Reuters",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T23:29:44+00:00"
+  },
+  {
+   "id": 264,
+   "title": "Senegal reinstated as 2025 African champions, Morocco to contest decision",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUdqbXBTdHQ0bnlyVkl2dnlMRUowVE96a0R5c1BqbEZiN0UyMXNNSDhnWkhvdFJHOGwxVDlVakJKRGZXMTNRRnNVRHZuai14a1JiUkRFWm1YbVJBTGdrSkFrMEZ5ZGp6QWd2ZTNDV0JIY1A4aExxTFVOWHFuRlh1MWY3bVBwd3NUUWVyU3hOcWQtenJSWjBjYVJEam5QS0hLZ0drZXZXczlRTnM?oc=5",
+   "source": "Reuters",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-24T20:42:43+00:00"
+  },
+  {
+   "id": 265,
+   "title": "CAS to release Senegal Africa Cup of Nations title appeal decision on Tuesday",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0F1REJrZGMzLVM3ZWxDQXM0UVZDOHhpNWFmeldqdUtidmxaX0dwQU4xNkFJbTNQLXcxMTVkRWlOMnNlQ2p5a1o0NzB4UTJUZXJOSlV6SmVneGxPWUtidUVlbjhmR21SUEVyTC1xb0xycUN5V19sTFVBRGt1WmxIYy1wNmR3SEdXUFYtVjFJcFpjLUItUXJTUEktRzNfYmt3MktuaFZiQk9BaWNZUUNIMkI3YkZ2YVBTeHc?oc=5",
+   "source": "Reuters",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-23T18:02:11+00:00"
+  },
+  {
+   "id": 266,
+   "title": "Sinner set for extended spell on sidelines after knee surgery",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTnlLcXhaS3lVbmQyZkhNUjZ6QnFhRmFUbi1ObVplbVpPNlB3Y1V6RFZDbUN4bDA5V1QwQW9PM1BGZzlqQ2QxSllqLVo5Z2o5aU1SUlF0ZW5JczM4S1RUVVFfbk9sSmFQck1feTN6bnNreDVrQTBNRHo3elJzME9BdmNXa0VVYkJGRjBLR3RVS0duaklZYWdjRU8xM1RuTlhMcG9ocVQ4cw?oc=5",
+   "source": "Reuters",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-24T17:33:58+00:00"
+  },
+  {
+   "id": 267,
+   "title": "Arsenal wobble pales beside City's mounting problems",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNlZWdUs0YjV5amROQ3Q3MGpVQVRndDltX0N4Ml9kQ0ZvR1ZjRmFTdU15MHZNZy1SRl9hMG40dVFrdDFoRVZlV1k4U3RTMlh4a09uYWZCZU1yaTJjdnp1andMWFBZdEJrdThaNF9PXzd1R1FJejNUdFVla0FtNWZ5aE5MR1EtRlR3eE1zbXoyVUxZb1I3em4weVZkbUgxYkJqNUs4?oc=5",
+   "source": "Reuters",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T10:05:44+00:00"
+  },
+  {
+   "id": 268,
+   "title": "Roman Revival: Lazio and Roma reignite Scudetto dreams after 25 years",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ0JtMUVrUkwtZTdCQnZmajl5TWZRZkF2aHBWQVdaOU9XRWlRYTNYUmJWSzZaU2FtMGdTcTBEZXlDSGl3SzkxaTFvNlpCakFZV05lb3kxbFZFQ01NN3l4ckx2VjduRWdRZmJtOVVWZ2k5ak1YVGlxWWpyOEZjWG9VN05xVVVQQTh0WDRrX1pxbVduTEdPUmpNUEQ4MEFnQ0NfZHkxN09sekpjUXRuV01PZnI5ZFA?oc=5",
+   "source": "Reuters",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T11:22:36+00:00"
+  },
+  {
+   "id": 269,
+   "title": "Moroccan federation reports incident to CAS during Senegal AFCON appeal, source says",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTlJaWGxXTkJTQmxxa1djNFRERGhsZWM5TnMxYTRPQTRUNlNzRlNiZnFVOWNLYURZSEpmYlhpU0VuWThBVldDU243Zk56dC1zRDRDX1ZrZFdZc0lTSTVybWVYYnhhbF9SUWxaQ3d3bUU5WHFqcFZodkN2TkRndzVPaUwtczJsQnFObHY1Si0zenBDWVdjeDE4S1dVTUlBcVlpZjl0SENEOWhaalZqTFJDbFVFbGoycW41dnRjU2NSbjIwMXhvbzgxQ3VR?oc=5",
+   "source": "Reuters",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-24T10:53:44+00:00"
+  },
+  {
+   "id": 270,
+   "title": "Russia's sports comeback hits a European wall",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXVyZW4yUl9fcDBBNW8yRi1tMGQxMkNfX2dpYWF4b2x2bjA2Q21rRkJ1cF9naUUwbUxZenFJSmxscFpqZDBybXhHbVptejhaT08tRFpndmo0UGVXWlhfc0xMcU8zaXV5SDllV2FjeGNmejNOTVpaOGFjRFBYWm1VQ0RIcGRleWZrQ095eXJn?oc=5",
+   "source": "Reuters",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-23T13:49:13+00:00"
+  },
+  {
+   "id": 271,
+   "title": "Britain end seven-year Davis Cup semi-final wait, Spain advance without Alcaraz",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdS1fN0lSS2xTbWxwYkxIc0taTDhJR0lnNnA2VFFhOUI5elJGYlU2SF9QMlFkckg4LXFlai1ZZUp3TTFVMGFfQ1JscFlTdFN6LXpZYWk5dDlEMUxuUmNXUG85QnRpZjVrR0t6UXFNM0pQalJ2Skl1RjJZb0V4QUNPZTZ2OWxKcUNnR3h4Z3JIYmo0NEF1MlFMQ09MRThJZUVCY1lqS3ZlLU9LZmRmdTZjRDRJWEZsZXlqWVE?oc=5",
+   "source": "Reuters",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T20:15:59+00:00"
+  },
+  {
+   "id": 272,
+   "title": "Spain thought it had the 2030 World Cup final. Morocco had other plans.",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSElHNEozY1dCNFVyYUc1VWs3VmpramRCZTZMMFdnbGpVLWdCR0J3VUdESTlRNW0tay1DbDhmOE83TnFGbVBaRFFET3ZVQW9OaHJZUVVacjFDcDVTY29SWkdDYTFLeUZGdWxHSVJDTkhRSUtmWXVhRUc4NXg1VGZoTDdqZEEtLWs3TDVQSVZSVjh3VlNwalNuczNGenpEd1RxODB2X1R3STk0Q0k2d0VlM0lfc1BZUQ?oc=5",
+   "source": "Reuters",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T07:03:00+00:00"
+  },
+  {
+   "id": 273,
+   "title": "EU Commission proposes ban on Russian athletes, ex-fighters in new Russia sanctions package",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1A2RHl1RS1IaFcyWmlES0xYNW1lbnM5VlhwWVU5ajZhRVVBa0Mydi1OZG4tS0tCYVJKX1JiOUtmWlNTZVJmTGRTRlFtZTRXRTRxcXB1aGMya2JhWm41UXE5Y2pxTlFDNzVSQ2MyV0RPZzNoYlZtazdMX3RYRnB6VFFsaEFnTGI5RFk4TnczUE9aTXFqcGNxZ0psd1JUczRBNi1LSkpnVk8?oc=5",
+   "source": "Reuters",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-23T16:26:12+00:00"
+  },
+  {
+   "id": 274,
+   "title": "COMMENTARY: China's steel sector bifurcates as iron ore remains robust",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2xsd3JPb1JDd3FyX0VGUnM0dmZrYXQ4aldfYlFxbkZaSXZxTjljTkVBN19YVzl5ZGMxOHhIdTJKT01OTHhXUmNWSGVHMmhzSGhuV0FoOXN5b1RqVWJ4SE0zVGpFbndrZjJaYjlpdVIyS3FVQ3d4bU02VXdmTGNGbjJHUWNwZms4YzI0WjNLYW5UbVhPZ1RpenoyeW9EWlVkMjZ3SnpwUk82UHNZUmR6c2NMNWE0a1EtR1ltdloxcHg?oc=5",
+   "source": "Reuters",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-23T01:02:00+00:00"
+  },
+  {
+   "id": 275,
+   "title": "Reaction to Senegal being reinstated as 2025 Africa Cup of Nations winners",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0xPcFlKNFFiODI5U0thY0JBOHFidmRmSTJrWE9CeTBQMW1fU3RjNGc1dUNqaEUzblRZUy00dGtnRl9PeFVyTVpuNF8yZ01PYUVPaXRmM3cyX1VSWXVkTHBvQnVHcWo5U0VfcG1uR1VrbEU5YUFqcjhSbVpCRVJZVXo2TEdSR1R1Q2Y1LWRxU3cxRXFJR1JQaGZ6YXN0OEhiV1lzaWl1NGp2SWZOZkt2ZE15NkRkUQ?oc=5",
+   "source": "Reuters",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-24T18:17:50+00:00"
+  },
+  {
+   "id": 276,
+   "title": "Steelers release Rodgers after quarterback blasts head coach McCarthy",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNDM0eUNaSnNhTU9vckRGVnhJdVQtNzNxOUEyN3Jtb1FVUE52N19KNXlsTkdDcTlyd0RTZnYyRUZBR1I0NXhVLVdKeXE4bmZFWklqamJ0VFVFcmFnMzh1Um5TMEVOY0dLTE5NZnZZMm5yaU9oTkpyaWZPc25qUWZkX0ZzbU9qaTJDSFJwbllqcUt0djJES1VTTkcxZ3FTT1hTVnljZG1OaWVzNlVGWThZM0VKQ0ZLSTNLSXc?oc=5",
+   "source": "Reuters",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T20:56:00+00:00"
+  },
+  {
+   "id": 277,
+   "title": "Thanksgiving weekend sports: Here are the key matchups in a made-for-TV spread",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGFRSXM3YTlaT1dhMGlHUUsyRmt5bUpDTTNMWGFNQUpoVDhhVG5jOWVmb3MxeU90cThfSVVSZDVBVVZWVzVERl9hZzcycnBabzZFSnJDX1R4Yk5xaDk0X21pZ3Z5NDFXeV9BMzU5akQ1S2RQWkR2ZllGSUl4T18tRTVoU1drcGwtTU9ibTRiYjFaSFlKLWdV?oc=5",
+   "source": "AP",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T11:00:00+00:00"
+  },
+  {
+   "id": 278,
+   "title": "EU proposes sweeping new Russia sanctions targeting banks, crypto and sports events",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1FWT0FKN3NFS3JoRG0zYnZvTkpjNEZqR240QzdMQVJDM1lmUklKeHpLeUl4bmFNUnlSa29kaU13WmhBdkNmVkt1WVZDUkdycVl3elQ1c1BwelFsLWVJeDhNNVBORWZBLWlhd0VqQ1QzLXFaNEZjRHEydWY1MGJYcDlYeWc5RjE4UEVEekJDYURuTWJfbk1WMGo1dWR3Zl84TUs1NEFJemZPZHVOVEE?oc=5",
+   "source": "AP",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-23T17:31:00+00:00"
+  },
+  {
+   "id": 279,
+   "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzR3QWpwUC0zOE5SUnhYWFRFV21KRzFSWmk4WlF1OWlkV1pUeEJ0UjZ1aGVtcVl4VFBhc1N3eXh4akZoRkVfalZtclFNQ2FOcWJqZDNGMU9ublNKalNnYnhNQVJYdXFNWmZwb2hkb1IyVFFlLWk2TzEtVG56VUthbHF4VDRRbzY5WkZuWHN1UXBfY2Utd2tKZGY5NW5UWUYwOWdLcg?oc=5",
+   "source": "AP",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T01:57:00+00:00"
+  },
+  {
+   "id": 280,
+   "title": "NFL Scores, News & Stats | Latest Super Bowl News",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5",
+   "source": "AP",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T21:23:10+00:00"
+  },
+  {
+   "id": 281,
+   "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today",
+   "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+   "source": "AP",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T10:59:17+00:00"
+  },
+  {
+   "id": 282,
+   "title": "Judge blocks FCC from early license review for ABC, which network says has had a chilling effect",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGg0cWJHckhVdmhyb3U0YXNWLTFhdmw5OHdYM2t2bVVMSzdENnNtaU94MlZfYkZ0R0htTVU2czd6LTQ2Z2tfREVyOEZLeWhaMmY0OXl5RldKREVraWtxc0ducXJNc1NuNzc4WWtKZjM3X0F5cGlvSGVBZlUza1JxTS1pNDRHaVJObE9YdTZNellnRjJjV3hN?oc=5",
+   "source": "AP",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T13:30:00+00:00"
+  },
+  {
+   "id": 283,
+   "title": "A father, a son, and a remarkable 70-season Michigan football streak that has come to an end",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVk5MNFRhc1FEVHdIWWxtb1ZtOW82cXpCYThla2Y4eDJLM0lHdlNJMHVsbHl2RmxoaC1PeDJxQkJMOFNQT2dHMGR1bndHOVpUWDA2cENPS21kLWI2RnphVWZaZmQ0XzE3TmVLbmpCQlNlajl6QThHNVB5c0s3TlhMaDB6c21wa0c5M3A0RjFxX1ppbFN5Y0drag?oc=5",
+   "source": "AP",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T18:49:00+00:00"
+  },
+  {
+   "id": 284,
+   "title": "Man United and PSG held in Champions League, Bayern loses, wins for Barcelona and Liverpool",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbmcybFNld09sMXhNb3hkWmZNMWE1Y1VhUUMyZnNnUDBzNFVXRWRrTWJpVmpJSktGdDd5Sl9SWk5WR2JpRks2akZTZDJRd0pJZ0NwRmhFUHJlVmk5dW1vazNibzV2bzdJNTZGMnN5MTZKaWFzU1JRMzEtMkVESXI3d0xsbnk2RzdLU2NueDBObDVYWEJ5RkVCTDQ5bUh4R3RQWV8wTnFyaXVXZ3Jv?oc=5",
+   "source": "AP",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T23:05:00+00:00"
+  },
+  {
+   "id": 285,
+   "title": "Michigan drops plans to hire new AD Trev Alberts, decision might cost Wolverines some $21 million",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDBIR1FwcTVZZXRYTEVkX3RQQVcyQ2ZVLUwzd21YYkFBZGFZTmpnclRRdWZ4YU96RjNEeHVQMlc0cng5SXZHWmdPVm8wWW1zNUhuOEhWakZzVjhTXzZQQXpjUkttWDlkS3NQaEJCYkxXdV9MalgyeHFSY1FZbzhuZXVCUjkzSmxp?oc=5",
+   "source": "AP",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-24T22:31:00+00:00"
+  },
+  {
+   "id": 286,
+   "title": "On another bad day for Big Ten, Indiana tumbles in CFP rankings; in SEC, Vols pass Tide",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSXJGX19pSE5QeXJ1Q1VYcjdiRDNNOFN0dk51SWEzVUt2cWgxaDNaMlY3S2hQcVNKN1B5TjEza3lKbmJ4aml2aDR5TkU2eVh6QjFyV0FlM1JiQlo2aFd3N01OZFRSQnJJc1VndHFWWWpNTVRhLV9DYkZuWnZRRjNqYnpvNnFOakk?oc=5",
+   "source": "AP",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T03:42:00+00:00"
+  },
+  {
+   "id": 287,
+   "title": "A 6-way race for the Big Ten title, plus other chaotic scenarios as conference play winds down",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaE1vNTlNX3k2XzZ6LUpsZXBUSEpLSDFCcVQzUUNacUREQTdPTEYxMjlEVkdmNGFEWEs5Ulp3aDRoNGtyMElCdHZKcVNWS21nTTRKUDkwMTlGSFZWOUxUOEVvMmtlOWlpVGZlaXEyN3F0WUszQ29KaHN6RDY2YkRITENDWlhIczRRYldRejlXNTNvWFhmeDdKaA?oc=5",
+   "source": "AP",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-24T12:48:00+00:00"
+  },
+  {
+   "id": 288,
+   "title": "Vance says Jensen Huang won't need a pardon as scrutiny of Nvidia scandal builds in Washington",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWXpxVzdFTDlLUzR0Q1I5dzFrMDFIS0VJSUlBMk9qYllCSWNENGFiX2p6N3RzOC1aTjFNT21WdVBnNXFxRUhpMlVYMlZ4alZocS1mVXRHV2lOMTlZMzlHc1BwQ0FxcDAxZnpNdVpHb1pzQlF5MUYwT3VRT0lwb2oxZGpxMkJSS2NVVFgteTlaOFUzcWQ0OENlUFFTWXg3YjJtNVE?oc=5",
+   "source": "AP",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-25T22:26:00+00:00"
+  },
+  {
+   "id": 289,
+   "title": "Heavy rain, wind and flooding plague much of US on Thanksgiving holiday",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkxMTUs5ZzFmZFBCR2pBVGg1TEYwSGlKdVI2LWhaYk4zSno0MTJud0xrNHpralVPQWFmdXhaM3dmUmJNNGRFQk9XSGdRSUpCdmx6ZXUtY2V0SWFxdHplbmh2NHlHVUpsUVlnXzRISDhVd203ZmpLb2F6bzdkQU11bm5jQklqb3FZRi1KeDZGWmxDWDhkYXI5VG9WMjFpWkxULUQ3S0dR?oc=5",
+   "source": "AP",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T18:22:00+00:00"
+  },
+  {
+   "id": 290,
+   "title": "Aaron Rodgers’ distinguished career may have reached a bizarre, unceremonious end",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVBLVnZMUVRzVW96bTAyalFXQVRoUXYtTnU1cnVoNFhmZm5PamFubGRiVWhxMFJHejNWZUJXWjd3OGdZZ3N2UlpYcDNXTVBjWUgyc3c1X1h5cV9kZFV4TlUwZ0RVRDdZUkI2ZHM5U25YTHB2YjQ4RGJoVmF2NWlqYmJ3?oc=5",
+   "source": "AP",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T15:06:00+00:00"
+  },
+  {
+   "id": 291,
+   "title": "Global stocks rise and tech shares rebound as US closes for Thanksgiving",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUWgxNlNVb3lob01KbTdBS015MjdBZnpzbk9QYnhKMXdSN2VEZGFwTGJTN0hQSmNOX2lUdXE2Y2pDdHNMb1haLU1INnUwZ0EzbDhZLXRxd0NEbmxrb3JHWjRiUjE4M3lCYThaRkZEM3E5NVVPNXRiQTFKMGtwdERHeEUyVlk4ekVmWHBMRjQ3Nzc?oc=5",
+   "source": "AP",
+   "tier": 2,
+   "region_hint": "global",
+   "published": "2026-11-26T12:21:00+00:00"
+  }
+ ],
+ "events": [
+  {
+   "item_ids": [
+    2,
+    3,
+    4,
+    5,
+    11,
+    13,
+    15,
+    17,
+    123
+   ],
+   "title": "黑豹旗全國高中棒球大賽進入高潮 平鎮、穀保、北科附工與台南海事挺進四強",
+   "sport": "棒球",
+   "region": "taiwan",
+   "date": "2026-11-26",
+   "importance": 3,
+   "is_special": false,
+   "special_reason": "",
+   "taiwan_link": true,
+   "why_matters": "",
+   "track": true,
+   "status": "ongoing",
+   "key": "E0",
+   "summary": "第14屆黑豹旗8強戰於新莊棒球場舉行，北科附工靠著先發投手梁畯閎以54球投完5局送出10次三振無失分、僅被敲1安好投，率隊於第6局以11比0提前擊敗陽明高中，睽違12年隊史第3度打進4強。另一場賽事，台南海事下勾投手邱丞軒先發3.2局失2分，助球隊以9比2擊敗西苑高中闖進4強。4強戰將由北科附工對決台南海事，另一側則由平鎮高中交手穀保家商。",
+   "note": "多篇中央社報導數據與賽果一致",
+   "key_numbers": [
+    "10K｜梁畯閎先發5局狂飆10次三振無失分",
+    "11:0｜北科附工第6局提前扣倒陽明高中"
+   ],
+   "support": "multi",
+   "notable": false,
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aspt/202611260236.aspx",
+     "tier": 2
+    },
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aspt/202611260201.aspx",
+     "tier": 2
+    },
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aspt/202611260165.aspx",
+     "tier": 2
+    }
+   ],
+   "best_tier": 2,
+   "context": "【中央社】立刻加入 本網站使用相關技術提供更好的閱讀體驗，同時尊重使用者隱私，點這裡瞭解 中央社隱私聲明 。 當您關閉此視窗，代表您同意上述規範。 Your browser does not appear to support Traditional Chinese. Would you like to go to CNA’s English website, “Focus Taiwan” ? こちらのページは繁体字版です。日本語版 「フォーカス台湾」 に移動しますか。 Focus Taiwan フォーカス台湾 Fokus Taiwan Enfoque en Taiwán 淨零碳排 媒體識讀 好生活 影像空間 客戶頻道 永續願景 支持中央社 Focus Taiwan フォーカス台湾 支持中央社 上一頁 支持中央社 本社簡介 直播 新聞專題 AI淨零 特派看世界 解釋性新聞 新聞圖表 中央社好POD 文化+ 淨零碳排 悅讀閱讀 影音新聞 影像空間 好生活Howlife 永續願景 中央社eBooks Focus Taiwan(英文) フォーカス台湾(日文) Fokus Taiwan(印尼文) Enfoque en Taiwán(西班牙文) 中央社之友 早安世界電子報 首頁 / 運動 黑豹旗 新聞專題 黑豹旗 1 / 114 首頁 / 運動 梁畯閎黑豹旗8強戰5局10K好投 目標球速超越父親 2026/11/26 17:27 （11/26 18:11 更新） 請同意我們的隱私權規範，才能啟用聽新聞的功能。 2026黑豹旗青棒賽8強賽26日在新莊棒球場舉行，北科附工投手梁畯閎（圖）先發5局無失分、10次三振，幫助球隊以11比0擊敗陽明高中。中央社記者蘇志畬攝 115年11月26日 （中央社記者 蘇志畬 新北26日電）北科附工投手梁畯閎今天用5局、10次三振好投，幫助球隊挺進黑豹旗青棒賽4強，家學淵源的他，希望超越父親高中時期投出的147公里球速。 梁畯閎在8強戰登板先發，在教練團設定的用球數內，以54球投完5局沒有失分，還送出10次三振，幫助球隊以11比0在第6局提前擊敗陽明高中晉級；梁畯閎表示，得知在此戰先發時很興奮，投到一半才知道有球數設定，因此沒有刻意節省用球數。 梁畯閎的父親梁伯偉曾是南英商工青棒隊成員，跟郭泓志是同屆同學，梁畯閎跟著父親的腳步走上棒球路，同樣擔任投手，梁畯閎表示，父親曾跟自己說，以前練習比較累，因為多是土法煉鋼。 梁畯閎為了到北部拚成績而選擇加入北科附工，目前最快球速144公里、轉速約2600轉，就讀3年級的他給自己的目標，就是要增加肌耐力，這樣才能維持投球穩定性並強化球速，希望明年中華職棒選秀能進入前5輪。（編輯：龍柏安）1151126 選擇與事實站在一起，您的每一份贊助，都是守護新聞自由的力量 本網站之文字、圖片及影音，非經授權，不得轉載、公開播送或公開傳輸及利用。\n【中央社】立刻加入 本網站使用相關技術提供更好的閱讀體驗，同時尊重使用者隱私，點這裡瞭解 中央社隱私聲明 。 當您關閉此視窗，代表您同意上述規範。 Your browser does not appear to support Traditional Chinese. Would you like to go to CNA’s English website, “Focus Taiwan” ? こちらのページは繁体字版です。日本語版 「フォーカス台湾」 に移動しますか。 Focus Taiwan フォーカス台湾 Fokus Taiwan Enfoque en Taiwán 淨零碳排 媒體識讀 好生活 影像空間 客戶頻道 永續願景 支持中央社 Focus Taiwan フォーカス台湾 支持中央社 上一頁 支持中央社 本社簡介 直播 新聞專題 AI淨零 特派看世界 解釋性新聞 新聞圖表 中央社好POD 文化+ 淨零碳排 悅讀閱讀 影音新聞 影像空間 好生活Howlife 永續願景 中央社eBooks Focus Taiwan(英文) フォーカス台湾(日文) Fokus Taiwan(印尼文) Enfoque en Taiwán(西班牙文) 中央社之友 早安世界電子報 首頁 / 運動 黑豹旗 新聞專題 黑豹旗 2 / 114 首頁 / 運動 北科附工重返黑豹旗4強 教頭約好打到最後一天 2026/11/26 16:53 （11/26 17:42 更新） 請同意我們的隱私權規範，才能啟用聽新聞的功能。 2026第14屆黑豹旗全國高中棒球大賽26日在新莊棒球場舉行8強賽，北科附工以11比0擊敗陽明高中、挺進4強，北科附工球員場邊開心慶祝。（中華民國棒球協會提供）中央社記者蘇志畬傳真 115年11月26日 （中央社記者 蘇志畬 新北26日電）北科附工今天在黑豹旗青棒賽以11比0擊敗陽明高中，睽違12年重返4強，總教練林建男完成與球員們的約定，要打到賽事的最後一天。 第14屆黑豹旗青棒賽今天在新莊棒球場舉行8強賽，北科附工先發投手梁畯閎5局僅被敲1支安打無失分、送出10次三振，打線也在首局就攻下7分，第6局達到提前結束比賽分差，隊史第3次打進黑豹旗4強。 林建男賽後接受媒體聯訪時表示，外界雖然認為北科附工籤運好，但備戰沒有因此鬆懈，面對社團球隊也有無形壓力，「籤抽出來之後，大家就幫我設定8強了。我跟孩子們的約定是打到最後一天，這是我們的企圖心。」 黑豹旗青棒賽本屆4強出爐，北科附工明天要對上台南海事，籤表另一半則是平鎮高中與穀保家商的強權對決。林建男表示，台南海事是非常強勁的對手，就看臨場表現。 北科附工在第1、第2屆拿下亞軍時，隊名還是桃園農工，林建男回憶當時陣中有蔣少宏、鄭浩均、王政順等現今職棒好手，這次若能再打進冠軍戰，希望這些學長能夠回來為學弟加油。（編輯：吳素柔）1151126 選擇與事實站在一起，您的每一份贊助，都是守護新聞自由的力量 本網站之文字、圖片及影音，非經授權，不得轉載、公開播送或公開傳輸及利用。\n【中央社】立刻加入 本網站使用相關技術提供更好的閱讀體驗，同時尊重使用者隱私，點這裡瞭解 中央社隱私聲明 。 當您關閉此視窗，代表您同意上述規範。 Your browser does not appear to support Traditional Chinese. Would you like to go to CNA’s English website, “Focus Taiwan” ? こちらのページは繁体字版です。日本語版 「フォーカス台湾」 に移動しますか。 Focus Taiwan フォーカス台湾 Fokus Taiwan Enfoque en Taiwán 淨零碳排 媒體識讀 好生活 影像空間 客戶頻道 永續願景 支持中央社 Focus Taiwan フォーカス台湾 支持中央社 上一頁 支持中央社 本社簡介 直播 新聞專題 AI淨零 特派看世界 解釋性新聞 新聞圖表 中央社好POD 文化+ 淨零碳排 悅讀閱讀 影音新聞 影像空間 好生活Howlife 永續願景 中央社eBooks Focus Taiwan(英文) フォーカス台湾(日文) Fokus Taiwan(印尼文) Enfoqu",
+   "verdict": "多來源一致"
+  },
+  {
+   "item_ids": [
+    16,
+    152,
+    155,
+    158,
+    159,
+    161
+   ],
+   "title": "世界青少年桌球錦標賽 中華台北混雙奪雙銅 男團摘銀",
+   "sport": "桌球",
+   "region": "taiwan",
+   "date": "2026-11-25",
+   "importance": 3,
+   "is_special": true,
+   "special_reason": "台灣選手歷史性成績",
+   "taiwan_link": true,
+   "why_matters": "",
+   "track": false,
+   "status": "final",
+   "key": "E1",
+   "summary": "在土耳其伊斯坦堡舉行的世界青少年桌球錦標賽，中華台北U15混雙組合陳凱程與陳芷妍在4強戰以局數2比3（15比13、11比6、決勝局9比11）遭到中國組合逆轉，無緣金牌戰，與另一組同樣止步4強的中華台北搭檔吳沅鍇、廖頤暄並列獲得銅牌。此外，中華台北男團亦在U19項目拿下銀牌。",
+   "note": "混雙有中央社與自由時報；男團僅見於自由時報標題",
+   "key_numbers": [
+    "2面銅牌｜中華台北U15混雙斬獲兩面銅牌",
+    "2:3｜陳凱程與陳芷妍混雙4強遭逆轉落敗"
+   ],
+   "support": "multi",
+   "notable": false,
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aspt/202611250143.aspx",
+     "tier": 2
+    },
+    {
+     "name": "自由時報",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XaXR4elROckR3T3FDZlJKZEIxRzJEUnlLaUJQTjNab1NINmozVDllQzNKbEo4b2VlNHlZYXphZ0ZrWW1pZDZ0OV9PVlRWcURZNmYzZFMzZ9IBXEFVX3lxTE14YmdDZDJPV2lTVFlTSnl3TkFtN0RjVzc0bVhvVDR2WW9PZjkzMkZyMWRMNXBtM0s2WnJvVWNiRkE1WmNxYTBMVDNhb1Bsdjh5eG9YMjBxNUViMFdp?oc=5",
+     "tier": 3
+    },
+    {
+     "name": "自由時報",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04WEgzb2MtZTNkbG1vOGRkTUpRZ1ZTeVQzZy1fcVIySmdrbVNGMFpBMWFYYS14MElWMkhrRHFGSTMxZ1ZOcFJWeVNDS0Q0S0p6Yi14WUV4Um9YVk1U0gFcQVVfeXFMTThYSDNvYy1lM2RsbW84ZGRNSlFnVlN5VDNnLV9xUjJKZ2ttU0YwWkExYVhhLXgwSVYySGtEcUZJMzFnVk5wUlZ5U0NLRDRLSnpiLXhZRXhSb1hWTVQ?oc=5",
+     "tier": 3
+    }
+   ],
+   "best_tier": 2,
+   "context": "【中央社】立刻加入 本網站使用相關技術提供更好的閱讀體驗，同時尊重使用者隱私，點這裡瞭解 中央社隱私聲明 。 當您關閉此視窗，代表您同意上述規範。 Your browser does not appear to support Traditional Chinese. Would you like to go to CNA’s English website, “Focus Taiwan” ? こちらのページは繁体字版です。日本語版 「フォーカス台湾」 に移動しますか。 Focus Taiwan フォーカス台湾 Fokus Taiwan Enfoque en Taiwán 淨零碳排 媒體識讀 好生活 影像空間 客戶頻道 永續願景 支持中央社 Focus Taiwan フォーカス台湾 支持中央社 上一頁 支持中央社 本社簡介 直播 新聞專題 AI淨零 特派看世界 解釋性新聞 新聞圖表 中央社好POD 文化+ 淨零碳排 悅讀閱讀 影音新聞 影像空間 好生活Howlife 永續願景 中央社eBooks Focus Taiwan(英文) フォーカス台湾(日文) Fokus Taiwan(印尼文) Enfoque en Taiwán(西班牙文) 中央社之友 早安世界電子報 首頁 / 運動 世界青少年桌球錦標賽 陳凱程陳芷妍遭逆轉奪銅 2026/11/25 14:00 請同意我們的隱私權規範，才能啟用聽新聞的功能。 （中央社記者 陳容琛 台北25日電）在土耳其伊斯坦堡舉行的世界青少年桌球錦標賽，台灣U15混雙組合陳凱程、陳芷妍今天在4強遭中國組合逆轉，無緣前進金牌戰，與另一組吳沅鍇、廖頤暄雙雙獲得銅牌。 世界青少年桌球錦標賽自2021年改制，將原本的U18拆分U19與U15，而台灣共有3對組合曾站上U15混雙頒獎台，包含2021年的張佑安、鄭樸璿、2023年的郭冠宏、巫嘉恩及2024年的洪哲硯、陳忞昕，如今再增添2面銅牌。 從首輪開始皆與對手打滿5局才勝出的陳凱程、陳芷妍，今天4強戰與中國組合劉子航、祝啟慧交鋒，首局開打後上演激戰，而陳凱程、陳芷妍以15比13贏得「丟士大戰」先馳得點，加上第3局以11比6搶下，助台灣組合以2比1手握聽牌優勢。 然而，台灣組合第4局棄守後遭扳平，決勝第5局雖一度取得5比1領先，沒想到隨後又陷亂流，即便化解3個賽末點，仍以9比11落敗，無緣挺進金牌戰。 另一對台灣組合吳沅鍇、廖頤暄同樣止步4強，雙雙以銅牌作收。 值得一提的是，上屆U15斬獲1金、2銅的陳凱程，結束混雙賽事後，接下來將備戰單打，首輪面對烏克蘭選手涅維任（Volodymyr Nevizhyn），將再拚獎牌，而名古屋亞運國手吳映萱則要在U19女單賽事亮相。（編輯：龍柏安）1151125 選擇與事實站在一起，您的每一份贊助，都是守護新聞自由的力量 本網站之文字、圖片及影音，非經授權，不得轉載、公開播送或公開傳輸及利用。\n【自由時報】U19桌球世錦賽 台灣男團奪銀 自由體育\n【自由時報】世青少桌球錦標賽》陳陳配混雙奪銅 決勝局應該再拚一點 自由體育",
+   "verdict": "多來源一致"
+  },
+  {
+   "item_ids": [
+    0
+   ],
+   "title": "圍棋名將許皓鋐奪首屆玄樂盃冠軍 抱走百萬獎金",
+   "sport": "圍棋",
+   "region": "taiwan",
+   "date": "2026-11-26",
+   "importance": 2,
+   "is_special": false,
+   "special_reason": "",
+   "taiwan_link": true,
+   "why_matters": "",
+   "track": false,
+   "status": "final",
+   "key": "E2",
+   "summary": "首屆玄樂盃五番勝負第4局於海峰棋院登場，台灣圍棋名將許皓鋐持白以中盤勝擊敗賴均輔，在5戰3勝制中順利封王，抱走新台幣100萬元冠軍獎金。此冠為許皓鋐繼中環天元賽、名人賽後本季拿下的第3座冠軍，個人生涯職業賽累計達47座冠軍，持續逼近周俊勛的50冠紀錄；賴均輔則收下亞軍。",
+   "note": "僅中央社提供詳細賽事內文",
+   "key_numbers": [
+    "47冠｜許皓鋐生涯職業賽累積奪得第47冠",
+    "100萬元｜首屆玄樂盃冠軍獎金"
+   ],
+   "support": "single",
+   "notable": false,
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aspt/202611260279.aspx",
+     "tier": 2
+    }
+   ],
+   "best_tier": 2,
+   "context": "【中央社】立刻加入 本網站使用相關技術提供更好的閱讀體驗，同時尊重使用者隱私，點這裡瞭解 中央社隱私聲明 。 當您關閉此視窗，代表您同意上述規範。 Your browser does not appear to support Traditional Chinese. Would you like to go to CNA’s English website, “Focus Taiwan” ? こちらのページは繁体字版です。日本語版 「フォーカス台湾」 に移動しますか。 Focus Taiwan フォーカス台湾 Fokus Taiwan Enfoque en Taiwán 淨零碳排 媒體識讀 好生活 影像空間 客戶頻道 永續願景 支持中央社 Focus Taiwan フォーカス台湾 支持中央社 上一頁 支持中央社 本社簡介 直播 新聞專題 AI淨零 特派看世界 解釋性新聞 新聞圖表 中央社好POD 文化+ 淨零碳排 悅讀閱讀 影音新聞 影像空間 好生活Howlife 永續願景 中央社eBooks Focus Taiwan(英文) フォーカス台湾(日文) Fokus Taiwan(印尼文) Enfoque en Taiwán(西班牙文) 中央社之友 早安世界電子報 首頁 / 運動 圍棋名將許皓鋐稱霸首屆玄樂盃 進帳百萬獎金 2026/11/26 20:03 （11/26 20:16 更新） 請同意我們的隱私權規範，才能啟用聽新聞的功能。 首屆圍棋玄樂盃五番勝負第4局26日在海峰棋院登場，台灣名將許皓鋐（左）持白中盤勝擊敗賴均輔，摘下本季第3座冠軍，抱回新台幣百萬元的冠軍獎金。（海峰棋院提供）中央社記者陳容琛傳真 115年11月26日 （中央社記者 陳容琛 台北26日電）海峰棋院舉行的首屆玄樂盃，台灣圍棋名將許皓鋐今天展現宰制力，在五番勝負第4局持白中盤勝擊敗賴均輔，摘下本季第3座冠軍，並抱回新台幣百萬元冠軍獎金。 玄樂盃由棋壇「不死鳥」旅日名將林海峰命名，賽制採5戰3勝制，已手握聽牌優勢的許皓鋐，今天第4局繳出絕佳表現，最後以中盤勝贏得冠軍，加上日前陸續稱霸中環天元賽、名人賽，目前生涯累積47座職業賽冠軍，直逼「紅面棋王」周俊勛的50冠里程碑。 許皓鋐賽後受訪表示，此役是本週第3場比賽，自評前兩場狀態相當糟糕，前半盤容易出現不必要的失誤；所幸今天相對好一點，尤其抓住對手反擊的機會，評估白棋目數明顯領先情況下，就帶著優勢直到比賽結束。 對於進帳百萬獎金，許皓鋐僅笑說將用於投資，仍希望把專注力放在表現出該有的棋盤內容，接下來還有棋王賽、中環國手賽的決賽，期盼延續冠軍氣勢，為賽季劃下漂亮的句點。 拿到亞軍的賴均輔則自認，這次整體發揮不是很好，除了獲勝的第3局較為滿意，其他盤都有調整空間，需要好好檢討，「感覺判斷有點問題，必須思考弱點好好改善。」（編輯：吳素柔）1151126 選擇與事實站在一起，您的每一份贊助，都是守護新聞自由的力量 本網站之文字、圖片及影音，非經授權，不得轉載、公開播送或公開傳輸及利用。",
+   "verdict": "單一可信來源"
+  },
+  {
+   "item_ids": [
+    9,
+    130,
+    131,
+    132,
+    134,
+    135,
+    138,
+    140,
+    142
+   ],
+   "title": "TPBL新竹攻城獅力克福爾摩沙夢想家 德魯雙十送衛冕軍4連敗",
+   "sport": "籃球",
+   "region": "taiwan",
+   "date": "2026-11-25",
+   "importance": 3,
+   "is_special": false,
+   "special_reason": "",
+   "taiwan_link": true,
+   "why_matters": "",
+   "track": true,
+   "status": "final",
+   "key": "E3",
+   "summary": "台灣職業籃球大聯盟TPBL賽事中，新竹御嵿攻城獅作客福爾摩沙夢想家，洋將德魯繳出全場最高24分、16籃板的雙十表現，搭配本土球員蔡宸綱全場攻下16分（第3節獨攬12分）以及曾柏喻挹注12分、5助攻，終場攻城獅以83比78力克衛冕軍夢想家，並送給對手4連敗。",
+   "note": "比分與攻城獅球員數據主要來自中央社報導",
+   "key_numbers": [
+    "24分16籃板｜攻城獅洋將德魯轟全場最高並摘雙十",
+    "83:78｜攻城獅5分之差擊潰夢想家"
+   ],
+   "support": "multi",
+   "notable": false,
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aspt/202611250338.aspx",
+     "tier": 2
+    },
+    {
+     "name": "中央社",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SeUhkWXlPRmdvQWdNMXVqOWQxVVpaNTdZTkNROGN6ZFJ2a0xUR05NNGJ6VnF5OXpJU0xCaGw1WW45M1ZmdkZTRDVSZ0VZTmlLVzF3UDIydVlzZHZmbHM0?oc=5",
+     "tier": 2
+    },
+    {
+     "name": "自由時報",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZWFg1Z1J4SkhzdFA0d3BUb0tkc1NmdzNqRUlBOG51dzBqZWF3SnJ5VUpEZ0ZEdndBSHNYS3RHcjk1Y2NHdkVFQkc4OWNCazBfR3gtalNJb9IBXEFVX3lxTE05Tko0UURGMU9NNU1LM2FBVDN4TmRENjVmNDJOak1Icy1nV3IwU3NHdGtMZ084aXk1U0FXVk16UlpnVHkyTU1KS2lOWjQ1SEwzY1MwWXZDZ21uNUVS?oc=5",
+     "tier": 3
+    }
+   ],
+   "best_tier": 2,
+   "context": "【中央社】立刻加入 本網站使用相關技術提供更好的閱讀體驗，同時尊重使用者隱私，點這裡瞭解 中央社隱私聲明 。 當您關閉此視窗，代表您同意上述規範。 Your browser does not appear to support Traditional Chinese. Would you like to go to CNA’s English website, “Focus Taiwan” ? こちらのページは繁体字版です。日本語版 「フォーカス台湾」 に移動しますか。 Focus Taiwan フォーカス台湾 Fokus Taiwan Enfoque en Taiwán 淨零碳排 媒體識讀 好生活 影像空間 客戶頻道 永續願景 支持中央社 Focus Taiwan フォーカス台湾 支持中央社 上一頁 支持中央社 本社簡介 直播 新聞專題 AI淨零 特派看世界 解釋性新聞 新聞圖表 中央社好POD 文化+ 淨零碳排 悅讀閱讀 影音新聞 影像空間 好生活Howlife 永續願景 中央社eBooks Focus Taiwan(英文) フォーカス台湾(日文) Fokus Taiwan(印尼文) Enfoque en Taiwán(西班牙文) 中央社之友 早安世界電子報 首頁 / 運動 TPBL 新聞專題 TPBL 1 / 300 首頁 / 運動 TPBL德魯轟24分、16籃板 攻城獅賞夢想家4連敗 2026/11/25 22:49 （11/26 17:22 更新） 請同意我們的隱私權規範，才能啟用聽新聞的功能。 （中央社記者 陳容琛 台北25日電）台灣職業籃球大聯盟TPBL新竹御嵿攻城獅今天靠著洋將德魯攻下24分、16籃板，搭配蔡宸綱第3節豪取12分，終場以83比78奪勝，並賞給福爾摩沙夢想家苦吞4連敗。 攻城獅今天作客衛冕軍夢想家，兩隊在上半場形成拉鋸戰；不過，帶著4分領先進入中場休息的攻城獅，易籃後靠著本土球員蔡宸綱挺身而出，單節砍下12分，包含投進2記三分彈，幫助球隊擴大分差，就算決勝第4節遭遇反撲，終場仍以5分之差守住勝利。 此役攻城獅洋將德魯（Drew Pember）繳出絕佳表現，不僅轟進全場最高24分，還摘下16籃板，備受期待的新星蔡宸綱挹注16分、5籃板，後衛曾柏喻則貢獻12分、4籃板、5助攻，扮演攻城獅奪勝關鍵。 總教練威森（Wesam Al-Sous）賽後接受媒體聯訪時分享，團隊狀態漸入佳境，尤其是防守計畫執行相當完美，讓衛冕軍夢想家僅拿到78分，「印象中是我來台灣執教第1次夢想家只有得78分；但還是很多需要修正地方，包含比賽關門控制，希望我們一場、一場慢慢進步。」 進帳本土最高分的蔡宸綱則透露，這場是非常好的團隊勝利，本季自己升任副隊長，必須在攻守兩端承擔更多責任，特別是上季攻城獅季後賽不敵夢想家，無緣挺進總冠軍賽，「記取去年失利的原因，期望本季討回來。」（編輯：吳素柔）1151125 選擇與事實站在一起，您的每一份贊助，都是守護新聞自由的力量 本網站之文字、圖片及影音，非經授權，不得轉載、公開播送或公開傳輸及利用。\n【中央社】TPBL德魯轟24分、16籃板 攻城獅賞夢想家4連敗 中央社 CNA\n【自由時報】TPBL》雲豹今晚沒有桑尼 夢想家止敗利多 自由體育",
+   "verdict": "多來源一致"
+  },
+  {
+   "item_ids": [
+    116,
+    129
+   ],
+   "title": "中華職棒公布2027年賽程 3月27日中信兄弟對味全龍揭開序幕",
+   "sport": "棒球",
+   "region": "taiwan",
+   "date": "2026-11-24",
+   "importance": 1,
+   "is_special": false,
+   "special_reason": "",
+   "taiwan_link": true,
+   "why_matters": "",
+   "track": false,
+   "status": "final",
+   "key": "E4",
+   "summary": "根據媒體標題報導，中華職棒公布2027年賽季日程，開幕戰定於3月27日由中信兄弟對決味全龍，味全龍與富邦悍將也將在開幕週碰頭，此外明星賽日期亦已定案。然而提供的來源均僅有新聞標題，缺乏完整的賽程規劃與場地等具體內文細節。",
+   "note": "聯合報與Yahoo運動皆僅有標題，無內文細節",
+   "key_numbers": [
+    "3月27日｜2027中職球季開幕戰日期"
+   ],
+   "support": "headline",
+   "notable": false,
+   "sources": [
+    {
+     "name": "聯合報",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kalZQZE95SDBCcHZRaVpkUjdCdVZYUlowWWZrYnZWcnV6c0VqTjdrSmxDa3drWHY1SFJ3Zno1WFVZVXBITXg5anBiWFpVbEww0gFWQVVfeXFMTm1CN3lEVGx0UVU4cFItU1FDVWk5eGh1dXhlWDVBUjNpNVU2RTRFcVlrWHVsTUlLRWc3Z29QTlNPZER2enlraGpiSGtIZkZhR3loT1A1anc?oc=5",
+     "tier": 3
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNOWFyTXZaYkdhNFB1bjV3YTJxY1lUd2FHbjc5ZzRRSmJXaEJDMENLSmVPNVZVbVg4OHpGVUpDTUNGd1RfWXBfMjVqTWp5R1YtalJCU1NBR1pQRTdZSWptYjRENXJqa3NvSG1EeFVQRzRlczJUNVZVa1ZFZFhiOWVtWWNkXzJDYXBOdDMtb1BySkhKRjdfTXNkWGl1cXdzeEVwRHJJOUY5SlB1czJjbWd2aDVpbG9TOUhmVWlwMEZGTW5QbFpQNWgxd01idUpUU0dHMWhBSGxjYS11aFBBQmhIWVFkYXNrdlhSeWFPWTJjMjIwejRXUGY0d3c2Wjlxb091MnpfbUk4TlJlWHdTRXNtSDJObGhMWTJrdXNkM2NQNEptWmxiSGFGM3MyNFJqbk15TFc3QTdUcXMxLWUtYUJla0VWcGVoTDNPWnYyNjBYUWxIdm5xdWU4R29lcHpkQQ?oc=5",
+     "tier": 3
+    }
+   ],
+   "best_tier": 3,
+   "context": "【聯合報】中職／2027年賽程對戰組合與時程出爐！龍隊、悍將開幕周就過招 UDN\n【Yahoo Sports】中職明年開幕戰3月27日中信對味全 明星賽日期定案 Yahoo運動",
+   "verdict": "多來源標題一致"
+  },
+  {
+   "item_ids": [
+    19,
+    124,
+    126
+   ],
+   "title": "中職樂天桃猿強化陣容 簽下日籍育成投手金澤智也並延攬森脇浩司進教練團",
+   "sport": "棒球",
+   "region": "taiwan",
+   "date": "2026-11-25",
+   "importance": 2,
+   "is_special": false,
+   "special_reason": "",
+   "taiwan_link": true,
+   "why_matters": "",
+   "track": false,
+   "status": "final",
+   "key": "E5",
+   "summary": "中職樂天桃猿隊宣布與日本獨立聯盟信濃大羚羊隊右投金澤智也達成合約共識，簽下育成洋將合約。2003年出生的金澤智也身高183公分、最快球速達154公里，2026年出賽21場（先發16場），在89局投球中送出86次三振，防禦率3.64。此外，桃猿教練團亦延攬森脇浩司出任一軍首席教練、内山孝起擔任二軍野手統籌教練。",
+   "note": "球員簽約有中央社詳述，教練團人事僅見Yahoo標題",
+   "key_numbers": [
+    "154公里｜金澤智也個人最快球速",
+    "86K｜金澤智也於信濃大羚羊隊單季投出86次三振"
+   ],
+   "support": "multi",
+   "notable": false,
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aspt/202611250048.aspx",
+     "tier": 2
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxPdVJnOTVBc0UyV0Y0UGZPYzJVTVI4ZXFUanNBa2Y0eklYM002OTY1WEJqem05YlJBYXVxYmI4ZUpjeHdNeFVIM012NU4wclZkNHJJZ2FHT3gyVkZyNElKTTZlWGlpMktTZjc0YXNYWDZkZTJlODIzbmtORGF4bXQwdXBtUldsWWE2OEtDWkRyNFRLX1lTY2pFbDBKQ2JPc0hjcDJueThiRmFrLWJfMzhpazg2VHluYk9teU5oSVRNZHFyYURfOVpGTWFuWnJRVEt4U216VDlLUmNFa0ZKNjdJWmoyQXQyY0ZJVDNOQnZzZ1BBR3VpN2FBdTZwNE5uYW1PVTVjdmtfX3ozcTluclRBMmlKQU80aHNOX1JHdWZzeW9uZ3JkMmRCZjRPR0dGV3pXQzlFaDJEcUJIbXhCQm1WR3Nwc2tFODc1VW1SWU0wdVBtNnJSdDA2Nlh0QVE4T1F5ODIxcWQ1eUVoZGdtU3JWcHVJUndGYS1nOEs0cG1SVUpzT2VvaElERENIODNNVWxJMkIzQ0xMUUV0VFA3aWNhR0ZkYndHMkhucEN3dktMSmlma1N2VlM3WWRDMDNSVjZROHdYRDlZbUFxaEJmVDZUdUY2M3dyc2lOUVdOb2VRN2dwSmlqaTkzc2ZHeWYtNVUzbEF4c2ppRUdrbkhXREpZZHk5dl9SWi0yYzlvVVlHMUVZZk9YS3B1NGktNFg0eWlrNFhJMHZxMzZyc3BMMDhTaUI1ODRQWWdVZG9MM1VB?oc=5",
+     "tier": 3
+    },
+    {
+     "name": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxONTJmOFBMWWJ1MHllOWppVlV5RXBjYWxYWjk1WDZIZzhFQjl1UHZsaVRVTUJNX3ZoVk50MTFId0J3S2daeG82azc0MndoekROZDJxbFdMSjV5TEx4TXJqTXZ0ekxOamlZc2hvRlZrS3RPY2xTZXM3R1ZFbHk0VV94SnJONVVpVjhJekVDNm1NUTRLbUZZa3hYYjltUS1vREEzQ0NlRmNjQ1l4OFVDQjMwOU55SXMzVUx0Nks5cFZFUDRuY1dBZWRCaWFXTUw5d3ZUckFJUVU2YlVHS0pGYk9teUs3TWdXYjJuVW8xdzI3WU1EeDV6QlN6YS02UVRyY1pQODdKNHVzNTZSemx5b2tKR1Nyd2xjenNkVjlpbjB0bjkwd1NpX0xZbW9pR3h6eWRVS3hFZU5XX0lpOFZiMHk5Qk1kX1ZMd0RaVjA2ZGx2YkJVTlBhR1hWcnQ4ZzVqcTdINWRjTFRxMGtfRHNNR0xTOW82alR4NjFndHpzU2hNZ2VWTnUtZU0zMk96ZGg3eHFzTS03MG9KXzU?oc=5",
+     "tier": 3
+    }
+   ],
+   "best_tier": 2,
+   "context": "【中央社】立刻加入 本網站使用相關技術提供更好的閱讀體驗，同時尊重使用者隱私，點這裡瞭解 中央社隱私聲明 。 當您關閉此視窗，代表您同意上述規範。 Your browser does not appear to support Traditional Chinese. Would you like to go to CNA’s English website, “Focus Taiwan” ? こちらのページは繁体字版です。日本語版 「フォーカス台湾」 に移動しますか。 Focus Taiwan フォーカス台湾 Fokus Taiwan Enfoque en Taiwán 淨零碳排 媒體識讀 好生活 影像空間 客戶頻道 永續願景 支持中央社 Focus Taiwan フォーカス台湾 支持中央社 上一頁 支持中央社 本社簡介 直播 新聞專題 AI淨零 特派看世界 解釋性新聞 新聞圖表 中央社好POD 文化+ 淨零碳排 悅讀閱讀 影音新聞 影像空間 好生活Howlife 永續願景 中央社eBooks Focus Taiwan(英文) フォーカス台湾(日文) Fokus Taiwan(印尼文) Enfoque en Taiwán(西班牙文) 中央社之友 早安世界電子報 首頁 / 運動 中華職棒 新聞專題 中華職棒 1 / 300 首頁 / 運動 樂天桃猿簽日籍育成投手金澤智也 擁最速154公里火球 2026/11/25 10:45 （11/25 11:06 更新） 請同意我們的隱私權規範，才能啟用聽新聞的功能。 中職樂天桃猿隊25日簽下日籍育成投手金澤智也，最快球速可達154公里，球團看好能力，盼能強化球隊投手戰力。（樂天桃猿提供）中央社記者謝靜雯傳真 115年11月25日 （中央社記者 謝靜雯 台北25日電）中職樂天桃猿隊今天宣布簽下日籍育成投手金澤智也，金澤智也最快球速可達154公里，具備出色球威，球團看好能力、盼能強化球隊投手戰力。 桃猿隊今天宣布與日本BC聯盟信濃大羚羊隊投手金澤智也達成合約共識、簽下育成洋將合約，金澤智也生於2003年，來自日本東京都，身高183公分、體重90公斤，具備優異的體格條件。自江戶川高中、東京經濟大學畢業後，隨即投入信濃大羚羊隊，持續磨練並累積豐富實戰經驗。 金澤智也為右投右打，以強勁的直球作為主要武器，最快球速可達154公里。除了極具威力的直球外，他也擅長搭配曲球、卡特球及指叉球等多元變化球種，是一位具備出色球威的先發型投手。 2026年球季，金澤智也代表信濃大羚羊隊出賽21場，其中先發為16場，總計投球89局，送出86次三振，防禦率3.64。金澤智也優異的三振能力以及作為先發投手持續成長的潛力，獲得球團高度肯定。 樂天桃猿球團表示，看好金澤智也的未來潛力、球威以及持續進步的潛力，期盼透過他的加盟，進一步強化球隊投手戰力。球團也期待他能藉由挑戰台灣職業棒球的新環境，持續突破自我、提升實力，為樂天桃猿爭取佳績。（編輯：李亨山）1151125 選擇與事實站在一起，您的每一份贊助，都是守護新聞自由的力量 本網站之文字、圖片及影音，非經授權，不得轉載、公開播送或公開傳輸及利用。\n【Yahoo Sports】中華職棒》樂天桃猿教練團補強 森脇浩司接一軍首席教練、内山孝起擔任二軍野手統籌教練 Yahoo運動\n【Yahoo Sports】中華職棒》樂天桃猿迎來新洋投 日本23歲火球男金澤智也加盟 Yahoo運動",
+   "verdict": "多來源一致"
+  },
+  {
+   "item_ids": [
+    14
+   ],
+   "title": "U23國手吳丞顥加盟美職多倫多藍鳥 開啟旅美生涯",
+   "sport": "棒球",
+   "region": "overseas",
+   "date": "2026-11-25",
+   "importance": 3,
+   "is_special": true,
+   "special_reason": "重大轉會",
+   "taiwan_link": true,
+   "why_matters": "",
+   "track": true,
+   "status": "final",
+   "key": "E6",
+   "summary": "U23世界盃國手吳丞顥結束賽事後，正式與美職多倫多藍鳥簽下總值約20萬美元、折合約新台幣661萬元的合約。他在U23賽事總計投8局、防禦率3.50、送出10次三振、失4分責失。藍鳥看中其潛力並合力網羅三位台灣投手蔡辰瀧與雷皓博，球團希望吳丞顥能將身體練壯並提升均速，目標從第二個球季開始每年升一階。",
+   "note": "僅中央社提供完整數據與合約細節。",
+   "key_numbers": [
+    "20萬美元｜合約總值"
+   ],
+   "player": "吳丞顥（Cheng-Hao Wu）",
+   "team": "美職／多倫多藍鳥",
+   "line": "U23投8局、防禦率3.50、10K",
+   "support": "single",
+   "notable": true,
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aspt/202611250159.aspx",
+     "tier": 2
+    }
+   ],
+   "best_tier": 2,
+   "context": "【中央社】立刻加入 本網站使用相關技術提供更好的閱讀體驗，同時尊重使用者隱私，點這裡瞭解 中央社隱私聲明 。 當您關閉此視窗，代表您同意上述規範。 Your browser does not appear to support Traditional Chinese. Would you like to go to CNA’s English website, “Focus Taiwan” ? こちらのページは繁体字版です。日本語版 「フォーカス台湾」 に移動しますか。 Focus Taiwan フォーカス台湾 Fokus Taiwan Enfoque en Taiwán 淨零碳排 媒體識讀 好生活 影像空間 客戶頻道 永續願景 支持中央社 Focus Taiwan フォーカス台湾 支持中央社 上一頁 支持中央社 本社簡介 直播 新聞專題 AI淨零 特派看世界 解釋性新聞 新聞圖表 中央社好POD 文化+ 淨零碳排 悅讀閱讀 影音新聞 影像空間 好生活Howlife 永續願景 中央社eBooks Focus Taiwan(英文) フォーカス台湾(日文) Fokus Taiwan(印尼文) Enfoque en Taiwán(西班牙文) 中央社之友 早安世界電子報 首頁 / 運動 U23棒球世界盃 新聞專題 U23棒球世界盃 1 / 110 首頁 / 運動 吳丞顥U23世界盃收穫多 加盟美職藍鳥盼證明不輸人 2026/11/25 14:47 （11/25 15:13 更新） 請同意我們的隱私權規範，才能啟用聽新聞的功能。 圖為吳丞顥於U23世界盃棒球賽出賽畫面。（WBSC提供） （中央社記者 謝靜雯 新北25日電）吳丞顥結束U23世界盃棒球賽事後，與美職多倫多藍鳥隊正式簽約，他表示首度國家隊磨練收穫多；將與平鎮隊友蔡辰瀧、U23隊友雷皓博職棒再同隊，他表示也想證明不會輸人。 投手吳丞顥自平鎮高中畢業之後沒有投入中職選秀，先到開南大學磨練，入選今年U23世界盃棒球賽代表隊，在U23世界盃賽事對巴拿馬、波多黎各、日本都有登板紀錄，總計投8局失掉4分責失分，投出10次三振，防禦率3.50。 吳丞顥接受中央社記者訪問表示，U23世界盃棒球賽收穫很多，有很棒的隊友，儘管與學長差比較多歲也沒有距離，也體驗到不同國家的球風，包括日本的戰術執行能力、波多黎各的小球戰術，磨練抗壓，學習調整情緒、釋放壓力。 談起對澳洲隊賽後的口角衝突，吳丞顥透露澳洲隊球員過程中不斷朝著台灣隊休息區慶祝、說些不好聽的話，賽後發生衝突，也笑說第一次打國家隊幾乎什麼都遇到了。 吳丞顥與藍鳥簽下總值約20萬美元（約新台幣661萬台幣）的合約，除了吳丞顥外，藍鳥還簽下台灣投手蔡辰瀧、雷皓博（Jackson Harris Miller）。吳丞顥表示，一開始沒有主動跟蔡辰瀧說、想要給蔡辰瀧驚喜，沒想到消息傳太快，藍鳥一口氣簽3名台灣投手，吳丞顥認為不是壞事，彼此有照應，但也想透過競爭證明自己並不輸人。 吳丞顥結束U23世界盃賽事後與藍鳥完成簽約，球團認為他的上半身還太瘦，希望先把身體養壯，並把直球均速再提升；吳丞顥目前最快球速約150公里，均速146公里，他也給自己目標，第一年先熟悉球季運作，從第2個球季開始，希望1年可以升一階。（編輯：林恕暉）1151125 選擇與事實站在一起，您的每一份贊助，都是守護新聞自由的力量 本網站之文字、圖片及影音，非經授權，不得轉載、公開播送或公開傳輸及利用。",
+   "verdict": "單一可信來源"
+  },
+  {
+   "item_ids": [
+    206,
+    211
+   ],
+   "title": "張乙安旅日赴歐力士秋訓 12月1日與許宸緯舉行加盟記者會",
+   "sport": "棒球",
+   "region": "overseas",
+   "date": "2026-11-25",
+   "importance": 3,
+   "is_special": false,
+   "special_reason": "",
+   "taiwan_link": true,
+   "why_matters": "",
+   "track": true,
+   "status": "final",
+   "key": "E7",
+   "summary": "台灣球員張乙安近期赴日參與歐力士隊秋訓，體驗日職訓練環境並學習日語。此外，歐力士將於12月1日為張乙安與許宸緯在台灣舉辦加盟記者會，屆時監督岸田護也將親自來台出席。",
+   "note": "多個來源皆報導秋訓及12月1日記者會行程。",
+   "key_numbers": [
+    "12月1日｜加盟記者會日期"
+   ],
+   "player": "張乙安（Yi-An Chang）",
+   "team": "日職／歐力士猛牛",
+   "line": "參與秋訓",
+   "support": "multi",
+   "notable": true,
+   "sources": [
+    {
+     "name": "ETtoday",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00M1lmRmNaLVVnT19tNG9BV2RyWmJTaXliSEs2UW1uZVlXcDB5d2p6WjhrN1ZrUE54aUJfVHo0RnJ4VlJxMGJlck02dGNjUnNq0gFPQVVfeXFMUFRmYm5ldTdLenVVR1hKX2d1UkhHTG5RblBTc25mOG5JdzFNOTlEdzZ1SHFyRnJoZkk4VE9wTVlPMDUtZWJTU0tSTWU4clI3UQ?oc=5",
+     "tier": 3
+    },
+    {
+     "name": "TSNA體育新聞團隊",
+     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBaS2NJLXIxQnNTMW5leHdnTnU5MHl1QktBWnV4VzRPbEV2WDMxdTB5ZUVBNGZuZkFIQ1hMTTFEMXYtRnVVeVE?oc=5",
+     "tier": 4
+    }
+   ],
+   "best_tier": 3,
+   "context": "【ETtoday】紅林弘太郎請吃燒肉！張乙安歐力士秋訓初體驗 學日文拚旅日舞台 ETtoday運動雲\n【TSNA體育新聞團隊】日職》張乙安與許宸緯台灣記者會12月1日舉行！ 歐力士監督岸田護將來台- 棒球 TSNA體育新聞團隊",
+   "verdict": "多來源一致"
+  },
+  {
+   "item_ids": [
+    234,
+    235,
+    239
+   ],
+   "title": "李灝宇（Hao-Yu Lee）入選大聯盟年度世界明星隊 寫下台灣球員歷史首例",
+   "sport": "棒球",
+   "region": "overseas",
+   "date": "2026-11-23",
+   "importance": 5,
+   "is_special": false,
+   "special_reason": "台灣選手歷史性成績",
+   "taiwan_link": true,
+   "why_matters": "",
+   "track": false,
+   "status": "final",
+   "key": "E8",
+   "summary": "台灣旅美球員李灝宇成功入選大聯盟年度世界明星隊，成為台灣史上第一位獲此殊榮的選手，與大谷翔平等人共同並列，寫下我國棒球歷史新頁，備受官方與各界讚譽。",
+   "note": "各大媒體皆報導李灝宇入選年度世界明星隊之成就。；缺第一、二層來源，取消特殊事件",
+   "key_numbers": [
+    "第一人｜台灣史上首位入選"
+   ],
+   "player": "李灝宇（Hao-Yu Lee）",
+   "team": "美職／大聯盟",
+   "line": "入選MLB年度世界明星隊",
+   "support": "multi",
+   "notable": true,
+   "sources": [
+    {
+     "name": "LINE TODAY",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nTzkxN3dtTU5mWGZCekZVUHZYSXNabTNzUHpydUliZW1KbkZYUkd3RHNudU56Qno4TlB6SFVCTlBIWE1UeTYwNml3YVMtRngtbTNWeldB?oc=5",
+     "tier": 4
+    },
+    {
+     "name": "LINE TODAY",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM05LUlE5M2RXaHVGN2xnTFFTbG1RRkxvV0lrVWNpYU1lOTBXRzR5MDRUc0pjVFpJaC1Cd1pHVHdkbUVUSWFmX1NQc096ZjlDbVBuRmQ1RWdsWlc3WTJFYmYxcGJYenJrZUJObUhOVWlUMmhsX2NoWE5PNVhZQ0Jkcmk1Ym1kS0k5?oc=5",
+     "tier": 4
+    },
+    {
+     "name": "LINE TODAY",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSEZvSTJhazVVLUxNeHpTUGV0TF9SdFVMQVZRS2RmSGs3QWNJQ1ZxQURyYUNLZmt6eWhaX1pTRkNLdUdQLTN5S2ZubW9wR3lnN0ZqYTNHQktsaUFYVV9wcUxaQVZGOVh3M05mdmcyM0NjbVRiX3hrc2lGdFVCMW1uRQ?oc=5",
+     "tier": 4
+    }
+   ],
+   "best_tier": 4,
+   "context": "【LINE TODAY】李灝宇寫台灣第一人歷史！入選MLB年度世界明星隊 與大谷翔平同列 | 太報 LINE TODAY\n【LINE TODAY】與大谷翔平齊名同隊！李灝宇入選大聯盟「年度世界明星隊」成台灣史上第1人 | 民視新聞網 LINE TODAY\n【LINE TODAY】MLB》台灣第1人！李灝宇入選世界年度最佳陣容 官網大讚：值得驕傲 | 自由電子報 LINE TODAY",
+   "verdict": "多來源一致"
+  },
+  {
+   "item_ids": [
+    110,
+    209,
+    227
+   ],
+   "title": "台灣小將吳祉恩首度赴日出戰冬季聯盟 藉由實戰磨練力求旅外",
+   "sport": "棒球",
+   "region": "overseas",
+   "date": "2026-11-25",
+   "importance": 2,
+   "is_special": false,
+   "special_reason": "",
+   "taiwan_link": true,
+   "why_matters": "",
+   "track": true,
+   "status": "ongoing",
+   "key": "E9",
+   "summary": "台灣年輕投手吳祉恩首度赴日本參加冬季聯盟賽事，希望藉由面對不同年齡層打者的實戰來磨練身手，並期盼提升球速，同時向日本投手學習牽制跑者與看管技巧，為未來挑戰旅外發展奠定基礎。",
+   "note": "中央社與聯合報等媒體皆報導其赴日冬盟練功。",
+   "player": "吳祉恩（Chih-En Wu）",
+   "team": "業餘／台灣",
+   "line": "赴日本冬季聯盟出賽",
+   "support": "multi",
+   "notable": false,
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDeFNGYXdQbXFwempWeE1PU0hBUXpQQV9Xd1hsLUZCNUUtdTdQNjI4YWJKTUg1Tnl0TXBfLTdOYkl2Y0twMnVxeHEyWWdFal9CWEI5anJIUk5PcGFkQ0Jr?oc=5",
+     "tier": 2
+    },
+    {
+     "name": "聯合報",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uMDVoY29PMnZsanZ1UUlsTGp2Qy04dk1QbUM5YXpScWdMYkpfRkRTWjVXSkdfVUxNMFo2T0x2MTVBeGVkdUljRWlqYzRVM1RM?oc=5",
+     "tier": 3
+    },
+    {
+     "name": "Vamos sports 翊起運動",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mLWpnN1pYUnBBQWhFdldVbWEwZmdLajR1bVZGVWd4U1BHckJEUFhYOTA0TVdtRzhCc0FVOW9lTktQb2s2eTNEQmxn?oc=5",
+     "tier": 4
+    }
+   ],
+   "best_tier": 2,
+   "context": "【中央社】吳祉恩拚旅外先到日本冬盟練功挑戰不同年齡打者| 運動 中央社 CNA\n【聯合報】棒球／吳祉恩拚旅外先到日本冬盟練功挑戰不同年齡打者| 棒球 | 運動 UDN\n【Vamos sports 翊起運動】棒球》吳祉恩首度赴日冬盟 盼提升球速 向日本投手學習牽制與看管跑者 Vamos sports 翊起運動",
+   "verdict": "多來源一致"
+  },
+  {
+   "item_ids": [
+    94,
+    95,
+    99
+   ],
+   "title": "英國四足協聯合取得2035年女子世界盃足球賽主辦權",
+   "sport": "足球",
+   "region": "global",
+   "date": "2026-11-23",
+   "importance": 4,
+   "is_special": true,
+   "special_reason": "主辦權",
+   "taiwan_link": false,
+   "why_matters": "英國相隔近70年再度主辦國際足總世界盃等級頂級足球賽事",
+   "track": false,
+   "status": "final",
+   "key": "E10",
+   "summary": "國際足總（FIFA）官方確認，英格蘭、蘇格蘭、威爾斯與北愛爾蘭等英國四個足協將聯合主辦2035年女子世界盃足球賽。這是自1966年男子世界盃後，英國再度舉辦足球世界盃賽事。賽事預計歷時39天，共進行104場比賽，由48支隊伍在19座場館中角逐。",
+   "note": "BBC Sport各篇報導皆指出2035年女足世界盃由英國四足協聯合主辦。",
+   "key_numbers": [
+    "48支隊伍｜參賽隊數",
+    "104場｜比賽總場次",
+    "39天｜賽事天數"
+   ],
+   "support": "multi",
+   "notable": true,
+   "sources": [
+    {
+     "name": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sounds/play/m0034nqc?at_medium=RSS&at_campaign=rss",
+     "tier": 2
+    },
+    {
+     "name": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c95y1kjvxmdyo?at_medium=RSS&at_campaign=rss",
+     "tier": 2
+    },
+    {
+     "name": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+     "tier": 2
+    }
+   ],
+   "best_tier": 2,
+   "context": "【BBC Sport】Close menu Use BBC.com or the new BBC App to listen to BBC podcasts, Radio 4 and the World Service outside the UK. Find out how to listen to other BBC stations Radio Scotland , · 25 Nov 2026 , · 24 mins Play Bookmark Bookmark Subscribe Subscribe Available for over a year If you’re interested in this episode, you may also like: 'What on earth is going on at Celtic?' https://www.bbc.co.uk/sounds/play/m0032bqd Scotland will co-host the 2035 FIFA Women's World Cup alongside England, Wales and Northern Ireland. Laura asks the BBC's Chris McLaughlin and Alison McConnell from the 'A Level Playing Field' podcast whether the tournament will boost our women's game. Scotcast is the BBC’s Scottish news podcast. This episode is hosted by Laura Miller. Get in touch: scotcast@bbc.co.uk\n【BBC Sport】Image source, SNS Image caption, Caroline Weir says it is \"amazing\" that Scotland will host the World Cup finals Scotland captain Caroline Weir says hosting the 2035 Women's World Cup along with England, Northern Ireland and Wales will usher in \"an amazing decade of excitement\" for the game in her homeland. World governing body Fifa confirmed on Monday that the United Kingdom will host a football World Cup for the first time since England won the men's tournament on home soil in 1966. Scotland's national stadium at Hampden Park in Glasgow and Hibernian's Easter Road Stadium in Leith are among 19 venues chosen for the 39-day competition involving 48 teams. At the age of 31 now, Weir would have to show unusual longevity to still be playing at that point, but she still considers it \"amazing news, not just for young players that hope to play there but for us, in this period in between, to develop the women's game in Scotland - and to push it. \"So I think it's amazing news and I think it's going to be an amazing decade of excitement leading into this World Cup\". Andreatta's masterplan to shock Sweden & take Scots to World Cup Published 3 days ago Big wins as Celtic, Rangers, City & Hearts progress Published 4 days ago The Lyon midfielder has already played for Scotland the only time they have so far qualified for a World Cup finals - in 2019. \"As a young, aspiring footballer watching football on TV growing up, for your home country to actually host a tournament itself, and the World Cup itself, the biggest tournament in football, is the most amazing thing,\" Weir said. \"So, if I was a 10 or 11 year old girl now, I would be thinking this is the best news ever and I'm going to work and practice and hope that, one day, I am representing Scotland in a home nations tournament playing at Hampden Park in a World Cup for Scotland. \"I don't think it gets any bigger or better than that.\" Angie Hind, Scotland Under-23 head coach and Scottish FA player pathway manager, also thinks it will prove inspirational to the young players under her charge. \"If you think of the young players who are involved in our pathway right now, from 13 years old right through the 23s that I take, ",
+   "verdict": "多來源一致"
+  },
+  {
+   "item_ids": [
+    8,
+    194,
+    202
+   ],
+   "title": "史庫柏以9年4.5億美元天價合約加盟大都會 締造大聯盟投手合約紀錄",
+   "sport": "棒球",
+   "region": "global",
+   "date": "2026-11-26",
+   "importance": 5,
+   "is_special": true,
+   "special_reason": "破紀錄",
+   "taiwan_link": false,
+   "why_matters": "刷新MLB歷史投手合約總值與年薪紀錄的指標性重磅簽約",
+   "track": false,
+   "status": "final",
+   "key": "E11",
+   "summary": "兩度賽揚獎得主史庫柏正式以9年4.5億美元（約新台幣140億元）的重磅合約加盟紐約大都會，打破大聯盟投手合約總額與平均年薪紀錄。該合約包含完整不可交易條款及3000萬美元延後支付款項。史庫柏生涯累計66勝44敗、防禦率3.02；今年效力老虎與道奇合計拿下12勝7敗、防禦率2.72。",
+   "note": "中央社與多家外媒皆詳細報導9年4.5億美元合約內容與數據。",
+   "key_numbers": [
+    "4.5億美元｜9年合約總值",
+    "5000萬美元｜平均年薪"
+   ],
+   "player": "史庫柏（Tarik Skubal）",
+   "team": "美職／紐約大都會",
+   "line": "今年成績12勝7敗、防禦率2.72",
+   "support": "multi",
+   "notable": true,
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/aspt/202611260080.aspx",
+     "tier": 2
+    },
+    {
+     "name": "ETtoday",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yTm9LYzZnVlFraVdLS3Q3b0p2TklieEZSU3VnV2x2dmYtWnJWU1FMZmRTUHpFYzJRU3RheWphSDA3STUxbzFoTXlyLXEyUldy0gFPQVVfeXFMTkFSMXc1NWlXSWFXbE9FcGlqdzktVkUtdXVrYnktTWl1YnowNnhGaEF5d0lVclBXMXl2MXFodmhLbEFBZ09qY1RZSzhfQ1lKVQ?oc=5",
+     "tier": 3
+    },
+    {
+     "name": "JUKSY 街星",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GZVZGVHFnNFFaNElQSHdYZHN3NmhMNVFFLXFfRFUzM3ByR0JhYkUxVEtOTUV4VDhtYVg0RXBZMjY1YWlfMFkxYks3c1o?oc=5",
+     "tier": 4
+    }
+   ],
+   "best_tier": 2,
+   "context": "【中央社】立刻加入 本網站使用相關技術提供更好的閱讀體驗，同時尊重使用者隱私，點這裡瞭解 中央社隱私聲明 。 當您關閉此視窗，代表您同意上述規範。 Your browser does not appear to support Traditional Chinese. Would you like to go to CNA’s English website, “Focus Taiwan” ? こちらのページは繁体字版です。日本語版 「フォーカス台湾」 に移動しますか。 Focus Taiwan フォーカス台湾 Fokus Taiwan Enfoque en Taiwán 淨零碳排 媒體識讀 好生活 影像空間 客戶頻道 永續願景 支持中央社 Focus Taiwan フォーカス台湾 支持中央社 上一頁 支持中央社 本社簡介 直播 新聞專題 AI淨零 特派看世界 解釋性新聞 新聞圖表 中央社好POD 文化+ 淨零碳排 悅讀閱讀 影音新聞 影像空間 好生活Howlife 永續願景 中央社eBooks Focus Taiwan(英文) フォーカス台湾(日文) Fokus Taiwan(印尼文) Enfoque en Taiwán(西班牙文) 中央社之友 早安世界電子報 首頁 / 運動 MLB 新聞專題 MLB 1 / 300 首頁 / 運動 史庫柏9年4.5億美元加盟大都會 投手合約創紀錄 2026/11/26 11:41 請同意我們的隱私權規範，才能啟用聽新聞的功能。 （中央社紐約25日綜合外電報導）兩度榮膺賽揚獎、也是這個休季自由球員市場頭號球星的史庫柏，今天正式與紐約大都會簽下9年4.5億美元（約新台幣140億元）重磅合約，改寫美國職棒大聯盟MLB投手合約總額紀錄。 美聯社報導，史庫柏（Tarik Skubal）這份合約包含完整的不可交易條款，以及3000萬美元延後支付款項，其中500萬美元來自他4500萬美元的簽約金，另外2500萬美元則是延至2038年至2046年支付的薪資。 史庫柏合約平均年薪達5000萬美元（約新台幣16億元），不僅超越日本投手山本由伸2024年與洛杉磯道奇簽下的12年3.25億美元合約，平均年薪也打破先前由薛哲（Max Scherzer）與魏蘭德（Justin Verlander）效力大都會時創下的4333萬美元紀錄。 在大聯盟球員合約總額排名中，史庫柏這份合約總額高居第4，僅次於索托（Juan Soto）的7.65億美元、大谷翔平的7億美元，以及小葛瑞羅（Vladimir Guerrero Jr.）的5億美元。 大都會老闆柯恩（Steve Cohen）儘管投入3.66億美元的豪華稅計算薪資，高居全聯盟第2，球隊上季仍以74勝88敗在國家聯盟東區墊底。 大都會先發投手防禦率為4.47，在大聯盟排名第23。新球季將由史庫柏扛起王牌先發重任，領軍陣中的年輕投手麥克林（Nolan McLean）與史考特（Christian Scott），以及老將馬奈（Sean Manaea）和日籍強投千賀滉大。 兩度入選明星賽的左投史庫柏20日剛滿30歲，過去4季共先發88場，繳出43勝17敗、防禦率2.42的身手，546局投球狂飆655次三振，僅有95次四壞球保送。 史庫柏今年先後效力底特律老虎與洛杉磯道奇，26場先發拿下12勝7敗、防禦率2.72的成績。 道奇於8月2日送出右投萊恩（River Ryan）、史密斯（Brady Smith）及外野手霍普（Zyhir Hope）等3名潛力新秀才換來這名強投；他今年4月29日至6月13日期間曾因接受投球手肘游離體移除手術缺陣。 季後賽期間，史庫柏替道奇先發兩場，戰績1勝1敗、防禦率2.45。大聯盟生涯7季累計先發160場、後援3場，戰績66勝44敗、防禦率3.02，925又1/3局投球送出1075次三振。（編譯： 蔡佳敏 ）1151126 選擇與事實站在一起，您的每一份贊助，都是守護新聞自由的力量 本網站之文字、圖片及影音，非經授權，不得轉載、公開播送或公開傳輸及利用。\n【ETtoday】史庫柏9年4.5億美元降臨大都會！ 千賀滉大力拚重返先發親吐決心 ETtoday運動雲\n【JUKSY 街星】MLB／史庫柏 Tarik Skubal 9年4.5億美元加盟大都會！千賀滉大親口喊拚重返先發！ JUKSY 街星",
+   "verdict": "多來源一致"
+  },
+  {
+   "item_ids": [
+    264,
+    265,
+    269,
+    275,
+    279
+   ],
+   "title": "國際體育仲裁法庭裁決 塞內加爾獲重頒2025年非洲國家盃冠軍",
+   "sport": "足球",
+   "region": "global",
+   "date": "2026-11-25",
+   "importance": 3,
+   "is_special": true,
+   "special_reason": "重大醜聞或決策",
+   "taiwan_link": false,
+   "why_matters": "CAS仲裁推翻非足聯原先爭議裁決，直接改寫大洲級頂級賽事冠軍得主",
+   "track": true,
+   "status": "final",
+   "key": "E12",
+   "summary": "根據路透社報導，國際體育仲裁法庭就塞內加爾針對非洲國家盃冠軍資格的上訴案公布裁決，塞內加爾獲重新恢復2025年非洲國家盃冠軍頭銜。摩洛哥方面則表示將對此項決定提出抗辯。此外，消息人士指出，摩洛哥足協在上訴審理期間曾向國際體育仲裁法庭通報相關事件。",
+   "note": "來源僅有標題與極短提要，缺乏判決全文與賽事具體細節。",
+   "key_numbers": [
+    "2025年｜塞內加爾重新獲判非洲國家盃冠軍"
+   ],
+   "support": "headline",
+   "notable": false,
+   "sources": [
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLUdqbXBTdHQ0bnlyVkl2dnlMRUowVE96a0R5c1BqbEZiN0UyMXNNSDhnWkhvdFJHOGwxVDlVakJKRGZXMTNRRnNVRHZuai14a1JiUkRFWm1YbVJBTGdrSkFrMEZ5ZGp6QWd2ZTNDV0JIY1A4aExxTFVOWHFuRlh1MWY3bVBwd3NUUWVyU3hOcWQtenJSWjBjYVJEam5QS0hLZ0drZXZXczlRTnM?oc=5",
+     "tier": 2
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0F1REJrZGMzLVM3ZWxDQXM0UVZDOHhpNWFmeldqdUtidmxaX0dwQU4xNkFJbTNQLXcxMTVkRWlOMnNlQ2p5a1o0NzB4UTJUZXJOSlV6SmVneGxPWUtidUVlbjhmR21SUEVyTC1xb0xycUN5V19sTFVBRGt1WmxIYy1wNmR3SEdXUFYtVjFJcFpjLUItUXJTUEktRzNfYmt3MktuaFZiQk9BaWNZUUNIMkI3YkZ2YVBTeHc?oc=5",
+     "tier": 2
+    },
+    {
+     "name": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTlJaWGxXTkJTQmxxa1djNFRERGhsZWM5TnMxYTRPQTRUNlNzRlNiZnFVOWNLYURZSEpmYlhpU0VuWThBVldDU243Zk56dC1zRDRDX1ZrZFdZc0lTSTVybWVYYnhhbF9SUWxaQ3d3bUU5WHFqcFZodkN2TkRndzVPaUwtczJsQnFObHY1Si0zenBDWVdjeDE4S1dVTUlBcVlpZjl0SENEOWhaalZqTFJDbFVFbGoycW41dnRjU2NSbjIwMXhvbzgxQ3VR?oc=5",
+     "tier": 2
+    }
+   ],
+   "best_tier": 2,
+   "context": "【Reuters】Senegal reinstated as 2025 African champions, Morocco to contest decision Reuters\n【Reuters】CAS to release Senegal Africa Cup of Nations title appeal decision on Tuesday Reuters\n【Reuters】Moroccan federation reports incident to CAS during Senegal AFCON appeal, source says Reuters",
+   "verdict": "僅依可信媒體標題（細節請見原文）"
+  }
+ ],
+ "excluded": [],
+ "upcoming": [
+  {
+   "date": "2026-11-28",
+   "sport": "司諾克",
+   "title": "2026年英國錦標賽正賽開打，衛冕冠軍塞爾比亮相首輪",
+   "region": "global"
+  },
+  {
+   "date": "2026-11-29",
+   "sport": "桌球",
+   "title": "2026年成都國際桌總混合團體世界盃開打",
+   "region": "global"
+  },
+  {
+   "date": "2026-12-01",
+   "sport": "棒球",
+   "title": "歐力士猛牛監督岸田護抵台出席張乙安與許宸緯加盟記者會",
+   "region": "overseas"
+  }
+ ],
+ "degraded": false
+}

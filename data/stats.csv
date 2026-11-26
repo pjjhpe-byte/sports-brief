@@ -50,3 +50,7 @@ time,label,model,input_tokens,output_tokens
 2026-11-23T06:08+08:00,analysis,gemini-3.5-flash-lite,2529,299
 2026-11-23T06:10+08:00,tracking,gemini-3.5-flash-lite,12869,308
 2026-11-23T06:11+08:00,materials,gemini-3.5-flash-lite,3033,1000
+2026-11-27T07:04+08:00,triage,gemini-3.8-flash,28939,2365
+2026-11-27T07:07+08:00,write,gemini-3.8-flash,7672,1575
+2026-11-27T07:11+08:00,write,gemini-3.5-flash-lite,5130,1584
+2026-11-27T07:15+08:00,write,gemini-3.8-flash,776,223
